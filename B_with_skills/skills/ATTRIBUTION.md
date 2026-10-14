@@ -65,6 +65,6 @@ Apache-2.0 §4(b)는 수정한 파일에 그 사실을 밝히도록 요구한다
 
 ## 다시 받으려면
 
-이 폴더를 지우고 [`../../scripts/install_skills.sh`](../../scripts/install_skills.sh)를 실행하면
+이 폴더를 지우고 [`../scripts/install_skills.sh`](../scripts/install_skills.sh)를 실행하면
 원본 저장소에서 같은 구성으로 내려받는다. 다만 `paper-search-pro`의 `venue_whitelist.md`와
 `SKILL.md` 수정분은 이 폴더에만 있다.

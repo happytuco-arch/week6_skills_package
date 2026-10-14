@@ -39,7 +39,7 @@
 | **A** — 프롬프트 (.md) | [`A_without_skills/prompt.md`](A_without_skills/prompt.md) |
 | **A** — 결과물 | [`A_without_skills/output/`](A_without_skills/output/) — pptx 9장 |
 | **B** — 스킬 묶음 | [`B_with_skills/skills/`](B_with_skills/skills/) + [`ATTRIBUTION.md`](B_with_skills/skills/ATTRIBUTION.md) |
-| **B** — Scripts | [`scripts/install_skills.sh`](scripts/install_skills.sh), [`B_with_skills/make_ppt.py`](B_with_skills/make_ppt.py) |
+| **B** — Scripts | [`B_with_skills/scripts/install_skills.sh`](B_with_skills/scripts/install_skills.sh), [`B_with_skills/make_ppt.py`](B_with_skills/make_ppt.py) |
 | **B** — 결과물 | [`B_with_skills/output/`](B_with_skills/output/) — pptx 9장 + HTML |
 | A/B 비교 | [`COMPARISON.md`](COMPARISON.md) |
 
@@ -67,15 +67,15 @@
 week6_skills_package/
 ├── README.md                     이 파일
 ├── COMPARISON.md                 A/B 비교 기록
-├── scripts/
-│   └── install_skills.sh         원본 저장소에서 스킬 5종 다시 받기
-├── A_without_skills/
+├── A_without_skills/             ← A: 코드 · 프롬프트 · 결과물
 │   ├── prompt.md                 조건 + 실제 입력한 프롬프트 + 겪은 문제
 │   ├── make_ppt.py               생성 코드
 │   └── output/선행연구조사_게임닉네임.pptx
-└── B_with_skills/
+└── B_with_skills/                ← B: 스킬 묶음 · Scripts · 결과물
     ├── prompt.md                 같은 프롬프트 + 스킬별로 실제 한 일
     ├── make_ppt.py               생성 코드
+    ├── scripts/
+    │   └── install_skills.sh     원본 저장소에서 스킬 5종 다시 받기
     ├── skills/                   ← 스킬 묶음 (11MB)
     │   ├── ATTRIBUTION.md         출처·라이선스·수정 내역
     │   ├── humanize-korean/  humanize/  humanize-scan/  humanize-redo/
@@ -114,7 +114,7 @@ cp -r B_with_skills/skills/* ~/.claude/skills/
 `venue_whitelist.md`와 `SKILL.md` 수정분은 이 레포에만 있다.
 
 ```bash
-bash scripts/install_skills.sh
+bash B_with_skills/scripts/install_skills.sh
 ```
 
 어느 쪽이든 **새 세션**을 열어야 스킬 목록에 잡힌다.
