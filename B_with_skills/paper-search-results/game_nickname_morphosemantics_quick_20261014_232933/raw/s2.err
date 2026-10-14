@@ -1,2 +1,0 @@
-[paper-search-pro] tightened C:\Users\happy\.paper-search-pro\config.yaml permissions 0o666 ¡æ 0600 (file holds API keys)
-[paper-search-pro] tip: for the full agent pipeline (multi-strategy retrieve + dedup + heuristic relevance score + saturation + quota), run `python3 -m scripts.agent_search "<query>"` (one JSON envelope, no HTML).
