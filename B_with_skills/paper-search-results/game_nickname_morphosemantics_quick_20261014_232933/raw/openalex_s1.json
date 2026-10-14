@@ -1,0 +1,4617 @@
+[
+  {
+    "doi": "10.36713/epra18275",
+    "arxiv_id": null,
+    "openalex_id": "W4402511604",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "THE USE OF SOME ONOMASTIC UNITS AS A NICKNAME",
+    "abstract": "This article explores the multifaceted world of nicknames in the Uzbek language, analyzing their origins, classifications, and cultural significance. It delves into the process of how words transform into nicknames based on various lexical-semantic groups, including anthroponyms (personal names), zoonyms (animal names), and other categories. The article provides numerous examples of nicknames and their associated meanings, highlighting how they reflect cultural values, social dynamics, and individual characteristics. It emphasizes the role of nicknames in informal communication and their impact on daily life. KEYWORDS: nicknames, uzbek language, anthroponymsm, zoonymsm, lexical-semantic groups, informal communication, cultural significance, social dynamics, individual characteristics, folk etymology.",
+    "authors": [
+      {
+        "name": "Kadirova Khurshida Marselovna",
+        "orcid": null,
+        "affiliation": null,
+        "country": null,
+        "is_first": true,
+        "is_corresponding": true
+      }
+    ],
+    "year": 2024,
+    "venue": "EPRA International Journal of Research & Development (IJRD)",
+    "issn": "2455-7838",
+    "issns": [
+      "2455-7838"
+    ],
+    "type": "article",
+    "citation_count": 0,
+    "referenced_works_count": 0,
+    "fwci": 0.0,
+    "cited_by_percentile_year": null,
+    "topics": [
+      {
+        "id": "T12658",
+        "name": "Language and Culture",
+        "score": 0.6538000106811523
+      },
+      {
+        "id": "T13122",
+        "name": "Linguistics and Cultural Studies",
+        "score": 0.3068999946117401
+      },
+      {
+        "id": "T13260",
+        "name": "Linguistics and Language Studies",
+        "score": 0.026900000870227814
+      }
+    ],
+    "keywords": [
+      "nicknames",
+      "Uzbek language",
+      "personal names",
+      "animal names",
+      "onomastics",
+      "informal communication",
+      "folk etymology",
+      "lexical-semantic groups",
+      "social dynamics"
+    ],
+    "sdgs": [],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.36713/epra18275",
+    "openalex_url": "https://openalex.org/W4402511604",
+    "pdf_url": "http://dx.doi.org/10.36713/epra18275",
+    "pmc_url": null,
+    "oa_locations": [
+      "http://dx.doi.org/10.36713/epra18275"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.1080/00277738.2020.1758493",
+    "arxiv_id": null,
+    "openalex_id": "W3026852160",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "WeChat Usernames: An Exploratory Study of Users\u2019 Selection Practices",
+    "abstract": "As one of the most popular social networking applications in China, WeChat has recently attracted scholarly attention. To date, these studies have tended to concentrate on how it has been used as a social networking and emerging business model. However, little is known about the practices users follow when selecting usernames on WeChat. Using an onomastic lens, this study addresses this gap by examining 501 WeChat usernames. With data collected through an online survey, this study first investigates categories emerging from the name corpus and explores the reasons behind each of these categories. It then analyzes the sociocultural ramifications embedded within this use of names. As one of the first of its kind, the article provides key insight into how the interplay of online discourse, acquaintance networks, and Chinese culture contribute to the development of this important onomastic phenomenon.",
+    "authors": [
+      {
+        "name": "Xing Xu",
+        "orcid": "https://orcid.org/0000-0003-0706-2338",
+        "affiliation": "Chongqing University",
+        "country": "CN",
+        "is_first": true,
+        "is_corresponding": false
+      },
+      {
+        "name": "He Qing Huang",
+        "orcid": "https://orcid.org/0000-0002-5437-6703",
+        "affiliation": "Chongqing University",
+        "country": "CN",
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "Ting Jiang",
+        "orcid": "https://orcid.org/0000-0002-4392-5631",
+        "affiliation": "Chongqing University",
+        "country": "CN",
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "Yuanpeng Zou",
+        "orcid": null,
+        "affiliation": "Chongqing University",
+        "country": "CN",
+        "is_first": false,
+        "is_corresponding": false
+      }
+    ],
+    "year": 2020,
+    "venue": "Names",
+    "issn": "0027-7738",
+    "issns": [
+      "0027-7738",
+      "1756-2279"
+    ],
+    "type": "article",
+    "citation_count": 8,
+    "referenced_works_count": 23,
+    "fwci": 0.8878,
+    "cited_by_percentile_year": 96,
+    "topics": [
+      {
+        "id": "T13155",
+        "name": "Digital Communication and Language",
+        "score": 0.4708999991416931
+      },
+      {
+        "id": "T12658",
+        "name": "Language and Culture",
+        "score": 0.3091000020503998
+      },
+      {
+        "id": "T13727",
+        "name": "Linguistic and Sociocultural Studies",
+        "score": 0.08470000326633453
+      }
+    ],
+    "keywords": [
+      "WeChat",
+      "user names",
+      "onomastics",
+      "social media applications",
+      "Chinese culture",
+      "online discourse",
+      "acquaintance networks",
+      "nicknames"
+    ],
+    "sdgs": [],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.1080/00277738.2020.1758493",
+    "openalex_url": "https://openalex.org/W3026852160",
+    "pdf_url": "http://ans-names.pitt.edu/ans/article/download/2221/2220",
+    "pmc_url": null,
+    "oa_locations": [
+      "http://ans-names.pitt.edu/ans/article/download/2221/2220",
+      "https://doaj.org/article/f8c853b77ebc4a5fbc4352cd0a733759",
+      "https://figshare.com/articles/journal_contribution/WeChat_Usernames_An_Exploratory_Study_of_Users_Selection_Practices/28490447"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.4236/oalib.1115680",
+    "arxiv_id": null,
+    "openalex_id": "W7214975950",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "An Onomastics Delve into Politics of Nicknames in Kenya",
+    "abstract": "Over the years, the Kenyan political space has changed thanks to social media, with Kenyans on X, Tiktok and other digital platforms playing a key role in shaping the country's political discourse.One of the new traits that has emerged is the use of political nicknames.This study is an investigation on the origin and meaning of nicknames used to refer to popular politicians in Kenya.In the study, sixteen popular political leaders in Kenya from different regions were purposively sampled and a list of their political nicknames generated.Thereafter, qualitative analysis was done through questions and focused group discussions among third year students of linguistics at Kirinyaga University on what the names connotes.The study adopts the associative theory of meaning which refers to the additional, subjective associations and emotions that a word carries beyond its literal description.From the study, it was evident that the nicknames of various politicians in Kenya vary greatly from one another.They are used to identify the politicians' characteristics focusing on their speech, behaviours, leadership traits, political choices and personal habits.These nicknames play a role in shaping politicians identity and how they are perceived by the voters.In the end, the study reveals that nicknames are significant in Kenyan political landscape, and sometimes politicians use them to endear themselves to voters while the electorates quite often use the same to deride and characterize them.",
+    "authors": [
+      {
+        "name": "Safari Godfrey Ntalala",
+        "orcid": null,
+        "affiliation": "Kirinyaga University",
+        "country": "KE",
+        "is_first": true,
+        "is_corresponding": false
+      },
+      {
+        "name": "Eunice Musyoka",
+        "orcid": null,
+        "affiliation": "Kirinyaga University",
+        "country": "KE",
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "Diana M. Mutuku Munyao",
+        "orcid": "https://orcid.org/0000-0002-3187-6473",
+        "affiliation": "Kirinyaga University",
+        "country": "KE",
+        "is_first": false,
+        "is_corresponding": false
+      }
+    ],
+    "year": 2026,
+    "venue": "OALib",
+    "issn": "2333-9705",
+    "issns": [
+      "2333-9705",
+      "2333-9721"
+    ],
+    "type": "article",
+    "citation_count": 0,
+    "referenced_works_count": 0,
+    "fwci": 0.0,
+    "cited_by_percentile_year": null,
+    "topics": [
+      {
+        "id": "T13727",
+        "name": "Linguistic and Sociocultural Studies",
+        "score": 0.20479999482631683
+      },
+      {
+        "id": "T12658",
+        "name": "Language and Culture",
+        "score": 0.2037000060081482
+      },
+      {
+        "id": "T13162",
+        "name": "African Studies and Ethnography",
+        "score": 0.18199999630451202
+      }
+    ],
+    "keywords": [
+      "onomastics",
+      "political discourse",
+      "social media",
+      "associative meaning",
+      "political identity",
+      "voter perceptions",
+      "political satire"
+    ],
+    "sdgs": [],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.4236/oalib.1115680",
+    "openalex_url": "https://openalex.org/W7214975950",
+    "pdf_url": "https://doi.org/10.4236/oalib.1115680",
+    "pmc_url": null,
+    "oa_locations": [
+      "https://doi.org/10.4236/oalib.1115680"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.5195/names.2022.2364",
+    "arxiv_id": null,
+    "openalex_id": "W4281966912",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "From Bonehead to @realDonaldTrump",
+    "abstract": "In many online services, we are identified by self-chosen usernames, also known as nicknames or pseudonyms. Usernames have been studied quite extensively within several academic disciplines, yet few existing literature reviews or meta-analyses provide a comprehensive picture of the name category. This article addresses this gap by thoroughly analyzing 103 research articles with usernames as their primary focus. Despite the great variety of approaches taken to investigate usernames, three main types of studies can be identified: (1) qualitative analyses examining username semantics, the motivations for name choices, and how the names are linked to the identities of the users; (2) experiments testing the communicative functions of usernames; and (3) computational studies analyzing large corpora of usernames to acquire information about the users and their behavior. The current review investigates the terminology, objectives, methods, data, results, and impact of these three study types in detail. Finally, research gaps and potential directions for future works are discussed. As this investigation will demonstrate, more research is needed to examine naming practices in social media, username-related online discrimination and harassment, and username usage in conversations.",
+    "authors": [
+      {
+        "name": "Lasse H\u00e4m\u00e4l\u00e4inen",
+        "orcid": "https://orcid.org/0000-0002-4804-258X",
+        "affiliation": "Tampere University",
+        "country": "FI",
+        "is_first": true,
+        "is_corresponding": true
+      }
+    ],
+    "year": 2022,
+    "venue": "Names",
+    "issn": "0027-7738",
+    "issns": [
+      "0027-7738",
+      "1756-2279"
+    ],
+    "type": "article",
+    "citation_count": 4,
+    "referenced_works_count": 91,
+    "fwci": 0.2407,
+    "cited_by_percentile_year": 97,
+    "topics": [
+      {
+        "id": "T13155",
+        "name": "Digital Communication and Language",
+        "score": 0.9609000086784363
+      },
+      {
+        "id": "T12373",
+        "name": "Linguistic research and analysis",
+        "score": 0.0044999998062849045
+      },
+      {
+        "id": "T10383",
+        "name": "Language, Discourse, Communication Strategies",
+        "score": 0.00419999985024333
+      }
+    ],
+    "keywords": [
+      "user names",
+      "pseudonyms",
+      "nicknames",
+      "online identity",
+      "semantics of names",
+      "social media",
+      "online discrimination",
+      "online harassment",
+      "naming practices"
+    ],
+    "sdgs": [],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.5195/names.2022.2364",
+    "openalex_url": "https://openalex.org/W4281966912",
+    "pdf_url": "https://ans-names.pitt.edu/ans/article/download/2364/2334",
+    "pmc_url": null,
+    "oa_locations": [
+      "https://ans-names.pitt.edu/ans/article/download/2364/2334",
+      "https://doaj.org/article/0f9f62120ca040879e537e678c9b957d",
+      "http://hdl.handle.net/10138/345492"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "openalex_id": "W7205605095",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "Digital Socio-onomastics of the Naming of Usernames Second Instagram Account",
+    "abstract": "This study examines the social meaning of second Instagram account naming among Generation Z users, framed within socio-onomastics and social semiotics. Second accounts often referred to as \"finsta\" or alternate accounts have become a common practice through which users construct identities separate from their main, more curated profiles. The study addresses three research questions: (1) what onomastic patterns and linguistic structures characterize second-account usernames, (2) what semantic meanings these usernames convey, and (3) what social functions they perform for their owners. Using a qualitative descriptive method, data were collected through a survey, semi-structured interviews, and a data of second-account usernames, which were analyzed structurally, semantically, and functionally. Structurally, the usernames display a variety of morphological formations including , compounding, affixation, and phrasal constructions, organized into a nine-category typology. The interview data also point to a generational contrast in how these names are chosen: compared to other generations, Gen Z users tend to follow more identifiable patterns, approaching their second-account usernames with considerable thought and attention to detail rather than as an incidental choice. Semantically, drawing on Van Langendonck's (2007) model of presuppositional name meaning, categorical meaning is present in all usernames (100%), followed by associative meaning (72%), emotive meaning (48%), and grammatical meaning (32%), indicating that usernames function primarily as referential markers layered with connotative and affective content. Functionally, self-presentation and identity performance emerges as the most dominant social function, alongside community affiliation, emotional expression, creative identity construction, and privacy management. These findings suggest that second-account usernames are not arbitrary labels but deliberate linguistic choices through which young users perform, manage, and index multiple facets of their digital identity. The study contributes to socio-onomastic scholarship by extending naming analysis into the context of contemporary digital youth culture. Keywords: socio-onomastics, second Instagram account, username, semantic meaning, digital identity",
+    "authors": [
+      {
+        "name": "Amanda Titian Pamedia Azri",
+        "orcid": null,
+        "affiliation": null,
+        "country": null,
+        "is_first": true,
+        "is_corresponding": false
+      },
+      {
+        "name": "Amanda Titian Pamedia Pamedia",
+        "orcid": null,
+        "affiliation": null,
+        "country": null,
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "Amanda Titian Pamedia Titian",
+        "orcid": null,
+        "affiliation": null,
+        "country": null,
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "Amanda Titian Pamedia Azri",
+        "orcid": null,
+        "affiliation": null,
+        "country": null,
+        "is_first": false,
+        "is_corresponding": false
+      }
+    ],
+    "year": 2026,
+    "venue": "Andalas University eThesis (Andalas University)",
+    "issn": null,
+    "issns": [],
+    "type": "dissertation",
+    "citation_count": 0,
+    "referenced_works_count": 0,
+    "fwci": null,
+    "cited_by_percentile_year": null,
+    "topics": [
+      {
+        "id": "T13155",
+        "name": "Digital Communication and Language",
+        "score": 0.7592999935150146
+      },
+      {
+        "id": "T12373",
+        "name": "Linguistic research and analysis",
+        "score": 0.09600000083446503
+      },
+      {
+        "id": "T13727",
+        "name": "Linguistic and Sociocultural Studies",
+        "score": 0.05779999867081642
+      }
+    ],
+    "keywords": [
+      "socio-onomastics",
+      "Generation Z",
+      "digital identity",
+      "social semiotics",
+      "semantic meaning",
+      "compounding",
+      "affixation",
+      "self-presentation",
+      "identity performance",
+      "privacy management"
+    ],
+    "sdgs": [],
+    "is_oa": false,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": null,
+    "openalex_url": "https://openalex.org/W7205605095",
+    "pdf_url": null,
+    "pmc_url": null,
+    "oa_locations": [],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.24224/2227-1295-2022-11-7-212-230",
+    "arxiv_id": null,
+    "openalex_id": "W4300864469",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "Self-Nominations with Function of Anthroponym in Runet",
+    "abstract": "Self-nominations with the function of an anthroponym (nicknames, yuzerniki, usernames) belonging to users of the Russian-speaking segment of Internet communication are analyzed. The material includes 5,000 examples with personal metadata of communicants and the results of more than 350surveys of informants. The sources are social networks (Vkontakte, Telegram, Professionals, LovePlanet), media hosting sites (Flickr, YouTube), news portals (RT, Vzglyad), an online game (World of Tanks) and a specialized forum (\u0421yberforum). Nominal, morphological, syntactic, spelling, phonetic, lexical, semantic properties of self-nominations are established. A descriptive analysis of the material demonstrates both the actual features of namecreation and general verbal changes in Runet. A tendency towards deanonymization has been proven: more than half of the self-nominations are of an autonymous origin. In pseudonymous self-names, the creative and playful functions of the language are realized, humorous and self-ironic connotations are found, the features of appearance, status, and political views are implicitly and explicitly imprinted. It is shown that the structure of virtual self-nominations tends to complicate, \u201cburden\u201d them with additional meanings, information. It is noted that the number of self-names with a complex syntactic structure in the form of phrases is growing. It has been established that graphic means and spelling deviations are losing their former significance and popularity. It is concluded that the stability of the expansion of the English language is fixed.",
+    "authors": [
+      {
+        "name": "Viktoria V. Kaziaba",
+        "orcid": "https://orcid.org/0000-0002-1777-1712",
+        "affiliation": "Northern (Arctic) Federal University",
+        "country": "RU",
+        "is_first": true,
+        "is_corresponding": true
+      }
+    ],
+    "year": 2022,
+    "venue": "Nauchnyi Dialog",
+    "issn": "2225-756X",
+    "issns": [
+      "2225-756X",
+      "2227-1295"
+    ],
+    "type": "article",
+    "citation_count": 0,
+    "referenced_works_count": 6,
+    "fwci": 0.0,
+    "cited_by_percentile_year": null,
+    "topics": [
+      {
+        "id": "T13155",
+        "name": "Digital Communication and Language",
+        "score": 0.7577999830245972
+      },
+      {
+        "id": "T12373",
+        "name": "Linguistic research and analysis",
+        "score": 0.17649999260902405
+      },
+      {
+        "id": "T13727",
+        "name": "Linguistic and Sociocultural Studies",
+        "score": 0.03700000047683716
+      }
+    ],
+    "keywords": [
+      "self-nomination",
+      "personal names",
+      "nicknames",
+      "user names",
+      "Runet",
+      "pseudonyms",
+      "de-anonymization",
+      "autonym",
+      "online identity",
+      "social networks"
+    ],
+    "sdgs": [],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.24224/2227-1295-2022-11-7-212-230",
+    "openalex_url": "https://openalex.org/W4300864469",
+    "pdf_url": "https://www.nauka-dialog.ru/jour/article/download/4028/2022",
+    "pmc_url": null,
+    "oa_locations": [
+      "https://www.nauka-dialog.ru/jour/article/download/4028/2022"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.51955/2312-1327-2026-2-219",
+    "arxiv_id": null,
+    "openalex_id": "W7165620245",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "Nickname as identity: onomastic strategies of physicians in the Russian and Spanish Telegram segments",
+    "abstract": "The article presents a comparative analysis of onomastic strategies used by medical professionals in the Spanish and Russian-language segments of Telegram. The relevance of the study stems from the large number of medical channels and the lack of research addressing the nickname as a tool for a medical professional's onomastic self-identification in the digital environment. The material comprises 600 channels (300 Spanish, 300 Russian) selected according to the criteria of the authors' professional affiliation and the meaningfulness of the nickname. Based on a set of parameters \u2013 communicative intention, mode of nomination, reference, type of constructed identity, and degree of linguistic creativity \u2013 eight strategies are identified: personal, professional, characterological, playful/creative, metaphorical, spatial, emotionally-identifying, and manifestative. These parameters enable a systematic description of nicknames as a means of identity construction. Quantitative analysis reveals cultural differences: the professional strategy dominates in the Spanish segment (48%), whereas the personal strategy prevails in the Russian segment (36%). The characterological strategy proves universal (14% in both segments). Cases of collective professional identity expressed through homophonic nicknames are also recorded. The findings suggest that the nickname can be viewed as a means of onomastic self-identification, and the proposed typology may be applied in cross-cultural research on digital onomastics",
+    "authors": [
+      {
+        "name": "E V Varnavskaya",
+        "orcid": "https://orcid.org/0009-0003-2196-3471",
+        "affiliation": "Voronezh State Medical Academy named after N.N. Burdenko",
+        "country": "RU",
+        "is_first": true,
+        "is_corresponding": false
+      },
+      {
+        "name": "Vladislav S. Varnavsky",
+        "orcid": "https://orcid.org/0000-0003-1519-2482",
+        "affiliation": "Voronezh State Technical University",
+        "country": "RU",
+        "is_first": false,
+        "is_corresponding": false
+      }
+    ],
+    "year": 2026,
+    "venue": "Crede Experto Transport Society Education Language",
+    "issn": "2312-1327",
+    "issns": [
+      "2312-1327"
+    ],
+    "type": "article",
+    "citation_count": 0,
+    "referenced_works_count": 15,
+    "fwci": 0.0,
+    "cited_by_percentile_year": null,
+    "topics": [
+      {
+        "id": "T12658",
+        "name": "Language and Culture",
+        "score": 0.40380001068115234
+      },
+      {
+        "id": "T12373",
+        "name": "Linguistic research and analysis",
+        "score": 0.30640000104904175
+      },
+      {
+        "id": "T13155",
+        "name": "Digital Communication and Language",
+        "score": 0.09870000183582306
+      }
+    ],
+    "keywords": [
+      "nicknames",
+      "onomastics",
+      "identity construction",
+      "physicians",
+      "telegrams",
+      "medical professionals",
+      "professional identity",
+      "personal identity",
+      "cross-cultural comparison",
+      "linguistic creativity"
+    ],
+    "sdgs": [],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.51955/2312-1327-2026-2-219",
+    "openalex_url": "https://openalex.org/W7165620245",
+    "pdf_url": "https://ce.if-mstuca.ru/jour/article/download/312/281",
+    "pmc_url": null,
+    "oa_locations": [
+      "https://ce.if-mstuca.ru/jour/article/download/312/281"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.5539/ijel.v9n5p107",
+    "arxiv_id": null,
+    "openalex_id": "W2971027938",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "GD Usernames and Euphemism: A Morphosemantic Analysis",
+    "abstract": "Gamedesire (GD), a free online gaming website, is a rich resource for language research on Computer-Mediated Communication (CMC). GD raises a number of linguistic inquiries on written English. This paper analyzes the morphosemantic mechanisms of forming euphemistic GD usernames. A dataset of two hundred usernames has randomly been selected and tested against Warren\u2019s (1992) model. The study demonstrates that a plethora of GD usernames carry dysphemistic connotations that are denotatively euphemized with linguistic and paralinguistic mechanisms, including word formation, orthographic modification, borrowing and semantic innovation. Some of the dataset usernames could not be subsumed under the selected model, necessitating the addition of new devices and the development of a new rendition of the model. The study reveals that GD users employ several processes for creating their usernames, which are characterized by grammatical, lexical, phonological, graphological, and semantic deviations from language norms.",
+    "authors": [
+      {
+        "name": "Hamada S. A. Hassanein",
+        "orcid": "https://orcid.org/0000-0003-3770-6405",
+        "affiliation": "Prince Sattam Bin Abdulaziz University",
+        "country": "SA",
+        "is_first": true,
+        "is_corresponding": true
+      }
+    ],
+    "year": 2019,
+    "venue": "International Journal of English Linguistics",
+    "issn": "1923-869X",
+    "issns": [
+      "1923-869X",
+      "1923-8703"
+    ],
+    "type": "article",
+    "citation_count": 2,
+    "referenced_works_count": 72,
+    "fwci": 0.528,
+    "cited_by_percentile_year": 94,
+    "topics": [
+      {
+        "id": "T13959",
+        "name": "Swearing, Euphemism, Multilingualism",
+        "score": 0.9970999956130981
+      },
+      {
+        "id": "T13155",
+        "name": "Digital Communication and Language",
+        "score": 0.0017999999690800905
+      },
+      {
+        "id": "T14006",
+        "name": "Linguistics, Language Diversity, and Identity",
+        "score": 0.0003000000142492354
+      }
+    ],
+    "keywords": [
+      "euphemism",
+      "dysphemism",
+      "online games",
+      "user names",
+      "computer-mediated communication",
+      "morphosemantics",
+      "word formation",
+      "borrowing",
+      "semantic innovation",
+      "language norms"
+    ],
+    "sdgs": [],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.5539/ijel.v9n5p107",
+    "openalex_url": "https://openalex.org/W2971027938",
+    "pdf_url": "http://www.ccsenet.org/journal/index.php/ijel/article/download/0/0/40491/41709",
+    "pmc_url": null,
+    "oa_locations": [
+      "http://www.ccsenet.org/journal/index.php/ijel/article/download/0/0/40491/41709"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "openalex_id": "W7213480629",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "Negotiating Mandar Cultural Identity in Instagram Business Usernames: A Socio-Onomastic Analysis in West Sulawesi",
+    "abstract": "This study investigates how local linguistic resources are strategically mobilized in Instagram business usernames used by entrepreneurs in West Sulawesi within a socio-onomastic framework. Based on a qualitative morphological analysis of 60 usernames from Mandar-oriented digital communities, the findings show a clear dominance of hybrid structures, accounting for 57 cases. Only three usernames represent single-structure forms, consisting of one simplex form, one compounding, and one derived form. The hybrid structures frequently combine Mandar lexical bases with Bahasa Indonesia and English commercial descriptors, creating linguistically mixed forms that reflect both cultural identity and market focus. These patterns show that username formation goes beyond simple identification, operating as a strategic branding tool through which local linguistic elements generate symbolic and commercial meaning. The dominance of hybrid structures reflects a deliberate balance between Mandar identity markers and globally recognizable commercial terms. This pattern shows hybridization as a consistent naming strategy shaped by branding goals, audience focus, and platform features such as usernames uniqueness and search visibility. Situated between commercial onomastics and digital language practice, this study contributes to discussions on minority language visibility in digital commercial spaces, showing how Mandar linguistic resources remain active and adaptable in today\u2019s multilingual business environments. This case from Eastern Indonesia highlights how regional languages actively participate in shaping digital commercial identities.",
+    "authors": [
+      {
+        "name": "Dhila Damayanti",
+        "orcid": "https://orcid.org/0009-0003-3437-4975",
+        "affiliation": null,
+        "country": null,
+        "is_first": true,
+        "is_corresponding": false
+      },
+      {
+        "name": "Rio Moehkardi",
+        "orcid": null,
+        "affiliation": null,
+        "country": null,
+        "is_first": false,
+        "is_corresponding": false
+      }
+    ],
+    "year": 2026,
+    "venue": "DOAJ (DOAJ: Directory of Open Access Journals)",
+    "issn": null,
+    "issns": [],
+    "type": "article",
+    "citation_count": 0,
+    "referenced_works_count": 0,
+    "fwci": 0.0,
+    "cited_by_percentile_year": null,
+    "topics": [
+      {
+        "id": "T13727",
+        "name": "Linguistic and Sociocultural Studies",
+        "score": 0.7476000189781189
+      },
+      {
+        "id": "T12658",
+        "name": "Language and Culture",
+        "score": 0.15690000355243683
+      },
+      {
+        "id": "T14006",
+        "name": "Linguistics, Language Diversity, and Identity",
+        "score": 0.0406000018119812
+      }
+    ],
+    "keywords": [
+      "Mandar language",
+      "cultural identity",
+      "socio-onomastics",
+      "digital branding",
+      "regional languages",
+      "West Sulawesi",
+      "Indonesian language",
+      "multilingualism",
+      "onomastics"
+    ],
+    "sdgs": [],
+    "is_oa": false,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": null,
+    "openalex_url": "https://openalex.org/W7213480629",
+    "pdf_url": null,
+    "pmc_url": null,
+    "oa_locations": [],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.4467/k7446.46/22.23.17274",
+    "arxiv_id": null,
+    "openalex_id": "W4393207808",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "Anthroponymy and Pragmatics. Proper Names: Levels and Functions",
+    "abstract": "Starting from the framework established by Eugen Co\u0219eriu with respect to the levels of language, this paper examines proper names on three functional planes with corresponding stages of competence and speech evaluations. Thus, on the universal level, names are rigid designators; they are non-deictic, devoid of lexical meaning, and display a designative function. This is the level of general naming. On the historical level, names are \u201cembedded\u201d; they develop idiomatic (language-specific) content. This is the level of conventional naming, on which names fulfil an idiomatic function. On the individual level, names are meaningful expressions, describing bearers by means of \u201cclusters of definite descriptions\u201d. This is the level of unconventional naming, of the nominal mark which renders the denotatum unique. The linguistic content of this level consists of the meaning of the name, and the functions developed by it are textual and emotive: the participation of the name giver in the discourse by means of an act of novel linguistic creation (see the instance of nicknames, bynames, usernames, various anthroponymic phrases, etc.). To reach the above-mentioned aims, the paper uses the theoretical tools specific to anthroponymy, pragmatics, and related fields: text theory, speech act theory, and philosophy of language.",
+    "authors": [
+      {
+        "name": "Daiana Felecan",
+        "orcid": "https://orcid.org/0000-0003-4676-552X",
+        "affiliation": "Technical University of Cluj-Napoca",
+        "country": "RO",
+        "is_first": true,
+        "is_corresponding": true
+      }
+    ],
+    "year": 2023,
+    "venue": "Wydawnictwo Uniwersytetu Jagiello\u0144skiego eBooks",
+    "issn": null,
+    "issns": [],
+    "type": "book-chapter",
+    "citation_count": 0,
+    "referenced_works_count": 2,
+    "fwci": 0.0,
+    "cited_by_percentile_year": null,
+    "topics": [
+      {
+        "id": "T10034",
+        "name": "Syntax, Semantics, Linguistic Variation",
+        "score": 0.7621999979019165
+      },
+      {
+        "id": "T13260",
+        "name": "Linguistics and Language Studies",
+        "score": 0.07289999723434448
+      },
+      {
+        "id": "T12119",
+        "name": "Linguistics and Discourse Analysis",
+        "score": 0.07050000131130219
+      }
+    ],
+    "keywords": [
+      "anthroponymy",
+      "proper names",
+      "levels of language",
+      "rigid designation",
+      "definite descriptions",
+      "nicknames",
+      "bynames",
+      "user names",
+      "speech act theory",
+      "text theory"
+    ],
+    "sdgs": [],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.4467/k7446.46/22.23.17274",
+    "openalex_url": "https://openalex.org/W4393207808",
+    "pdf_url": "https://wuj.pl/plik-do-pobrania/192",
+    "pmc_url": null,
+    "oa_locations": [
+      "https://wuj.pl/plik-do-pobrania/192",
+      "https://wuj.pl/anthroponymy-and-pragmatics-proper-names-levels-and-functions"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.5281/zenodo.19206042",
+    "arxiv_id": null,
+    "openalex_id": "W7140162837",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "LINGUOPOETHICAL ANALYSIS OF NICKNAMES IN FICTION",
+    "abstract": "This article studies the linguopoetic properties of nicknames in the Uzbek language and their functional-semantic role in the literary text. The study sheds light on the nature of nicknames as onomastic and anthroponymic units, analyzes the mechanisms of expression of the character, appearance and social status of the hero through them. Also, the role of nicknames in literary works in creating an image, expressing the subjective attitude of the author and enhancing expressiveness is substantiated on the basis of examples of Uzbek literature.",
+    "authors": [
+      {
+        "name": "Nurjanov Oybek Erkin oglu Aralboyeva Dilnoza Fakhriddinovna",
+        "orcid": null,
+        "affiliation": null,
+        "country": null,
+        "is_first": true,
+        "is_corresponding": false
+      },
+      {
+        "name": "Worldy Knovledge Publishing Centre",
+        "orcid": null,
+        "affiliation": null,
+        "country": null,
+        "is_first": false,
+        "is_corresponding": false
+      }
+    ],
+    "year": 2026,
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "issn": null,
+    "issns": [],
+    "type": "dataset",
+    "citation_count": 0,
+    "referenced_works_count": 0,
+    "fwci": null,
+    "cited_by_percentile_year": null,
+    "topics": [
+      {
+        "id": "T13122",
+        "name": "Linguistics and Cultural Studies",
+        "score": 0.6845999956130981
+      },
+      {
+        "id": "T12373",
+        "name": "Linguistic research and analysis",
+        "score": 0.1476999968290329
+      },
+      {
+        "id": "T12658",
+        "name": "Language and Culture",
+        "score": 0.09950000047683716
+      }
+    ],
+    "keywords": [
+      "nicknames",
+      "linguopoetics",
+      "Uzbek language",
+      "Uzbek literature",
+      "anthroponymy",
+      "onomastics",
+      "characterization",
+      "literary imagery"
+    ],
+    "sdgs": [],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.5281/zenodo.19206042",
+    "openalex_url": "https://openalex.org/W7140162837",
+    "pdf_url": "https://doi.org/10.5281/zenodo.19206042",
+    "pmc_url": null,
+    "oa_locations": [
+      "https://doi.org/10.5281/zenodo.19206042",
+      "https://doi.org/10.5281/zenodo.19206043"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.26881/sgg.2022.47.01",
+    "arxiv_id": null,
+    "openalex_id": "W4383000505",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "Nomen est omen? Formen und Funktionen von Nutzernamen in deutschen Online-Foren",
+    "abstract": "Der Beitrag diskutiert die grammatischen, semantischen und pragmatischen Eigenschaften von Nutzernamen in drei Online-Foren, die sich mit der europ\u00e4ischen Fl\u00fcchtlingskrise von 2015 auseinandersetzen. Formal und funktional wird gezeigt, dass diese Nutzernamen einem weiten Feld an sprachlichen \u201eSpenderdom\u00e4nen\u201c entstammen und expressive und graphostilistische Verfahren verwendet werden, um Parallelen entweder zu offiziellen Personennamen, zu Spitznamen oder zu Pseudonymen in den Vordergrund zu stellen.",
+    "authors": [
+      {
+        "name": "J\u00f6rg B\u00fccker",
+        "orcid": null,
+        "affiliation": "Heinrich Heine University D\u00fcsseldorf",
+        "country": "DE",
+        "is_first": true,
+        "is_corresponding": true
+      }
+    ],
+    "year": 2022,
+    "venue": "Studia Germanica Gedanensia",
+    "issn": "1230-6045",
+    "issns": [
+      "1230-6045"
+    ],
+    "type": "article",
+    "citation_count": 0,
+    "referenced_works_count": 15,
+    "fwci": 0.0,
+    "cited_by_percentile_year": null,
+    "topics": [
+      {
+        "id": "T13155",
+        "name": "Digital Communication and Language",
+        "score": 0.6309000253677368
+      },
+      {
+        "id": "T12373",
+        "name": "Linguistic research and analysis",
+        "score": 0.3118000030517578
+      },
+      {
+        "id": "T10383",
+        "name": "Language, Discourse, Communication Strategies",
+        "score": 0.016200000420212746
+      }
+    ],
+    "keywords": [
+      "user names",
+      "online forums",
+      "German language",
+      "2015 refugee crisis",
+      "nicknames",
+      "pseudonyms",
+      "personal names",
+      "online identity",
+      "pragmatics",
+      "semantics"
+    ],
+    "sdgs": [],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.26881/sgg.2022.47.01",
+    "openalex_url": "https://openalex.org/W4383000505",
+    "pdf_url": "https://czasopisma.bg.ug.edu.pl/index.php/SGG/article/download/8905/7925",
+    "pmc_url": null,
+    "oa_locations": [
+      "https://czasopisma.bg.ug.edu.pl/index.php/SGG/article/download/8905/7925",
+      "https://czasopisma.bg.ug.edu.pl/index.php/SGG/article/view/8905"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.30853/phil20250704",
+    "arxiv_id": null,
+    "openalex_id": "W7114925080",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "Functions of nicknames in the works of Maxim Gorky",
+    "abstract": "The article is devoted to the complex analysis of onomastic space in Maxim Gorky\u2019s writings using the material of the writer\u2019s key works created in different periods of his creative life. The aim of the paper is to identify the semantics and functions of nicknames, their role in creating an artistic image in Maxim Gorky\u2019s work. The scientific novelty of the research lies in the fact that it is the first time that literary anthroponyms in Maxim Gorky\u2019s works are considered as a multifaceted linguistic and poetic phenomenon that plays a key role in the construction of the fictional world and the system of characters. As a result, it has been identified that, firstly, Gorky\u2019s nicknames often serve as a dominant identifier of a character, replacing their real name and emphasizing their \u201cnatural\u201d or social essence. Secondly, nicknames are an important element of the writer\u2019s poetics, performing a range of significant functions, including characterization, evaluation, social marking, description, and plot development. Thirdly, nicknames not only replace anthroponyms but also represent a concentrated expression of a character\u2019s essence, serving as a vivid means of characterization within Gorky\u2019s style.",
+    "authors": [
+      {
+        "name": "Marina Aleksandrovna Trostina",
+        "orcid": "https://orcid.org/0000-0001-6905-5438",
+        "affiliation": "National Research Mordovia State University",
+        "country": "RU",
+        "is_first": true,
+        "is_corresponding": false
+      },
+      {
+        "name": "Sergey Nikolaevich Stepin",
+        "orcid": null,
+        "affiliation": "Mordovia State Pedagogical Institute named after ME Evseveva",
+        "country": "RU",
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "Aleksey Sergeyevich Artemyev",
+        "orcid": null,
+        "affiliation": "National Research Mordovia State University",
+        "country": "RU",
+        "is_first": false,
+        "is_corresponding": false
+      }
+    ],
+    "year": 2025,
+    "venue": "Philology Theory & Practice",
+    "issn": "1997-2911",
+    "issns": [
+      "1997-2911",
+      "2782-4543"
+    ],
+    "type": "article",
+    "citation_count": 0,
+    "referenced_works_count": 1,
+    "fwci": 0.0,
+    "cited_by_percentile_year": null,
+    "topics": [
+      {
+        "id": "T12966",
+        "name": "Russian Literature and Bakhtin Studies",
+        "score": 0.8759999871253967
+      },
+      {
+        "id": "T13260",
+        "name": "Linguistics and Language Studies",
+        "score": 0.03999999910593033
+      },
+      {
+        "id": "T12373",
+        "name": "Linguistic research and analysis",
+        "score": 0.0340999998152256
+      }
+    ],
+    "keywords": [
+      "Maxim Gorky",
+      "nicknames",
+      "personal names",
+      "onomastics",
+      "characterization",
+      "literary poetics",
+      "fictional characters",
+      "social marking",
+      "plot development",
+      "Russian literature"
+    ],
+    "sdgs": [],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.30853/phil20250704",
+    "openalex_url": "https://openalex.org/W7114925080",
+    "pdf_url": "https://doi.org/10.30853/phil20250704",
+    "pmc_url": null,
+    "oa_locations": [
+      "https://doi.org/10.30853/phil20250704"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.18653/v1/d15-1240",
+    "arxiv_id": "1507.02045",
+    "openalex_id": "W850909210",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "What Your Username Says About You",
+    "abstract": "Usernames are ubiquitous on the Internet, and they are often suggestive of user demographics.This work looks at the degree to which gender and language can be inferred from a username alone by making use of unsupervised morphology induction to decompose usernames into sub-units.Experimental results on the two tasks demonstrate the effectiveness of the proposed morphological features compared to a character n-gram baseline.",
+    "authors": [
+      {
+        "name": "Aaron Jaech",
+        "orcid": "https://orcid.org/0009-0007-1530-2027",
+        "affiliation": "University of Washington",
+        "country": "US",
+        "is_first": true,
+        "is_corresponding": false
+      },
+      {
+        "name": "Mari Ostendorf",
+        "orcid": null,
+        "affiliation": "University of Washington",
+        "country": "US",
+        "is_first": false,
+        "is_corresponding": false
+      }
+    ],
+    "year": 2015,
+    "venue": "Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+    "issn": null,
+    "issns": [],
+    "type": "conference-paper",
+    "citation_count": 24,
+    "referenced_works_count": 10,
+    "fwci": 1.8604,
+    "cited_by_percentile_year": 98,
+    "topics": [
+      {
+        "id": "T12380",
+        "name": "Authorship Attribution and Profiling",
+        "score": 0.9868000149726868
+      },
+      {
+        "id": "T10181",
+        "name": "Natural Language Processing Techniques",
+        "score": 0.002899999963119626
+      },
+      {
+        "id": "T11800",
+        "name": "User Authentication and Security Systems",
+        "score": 0.002099999925121665
+      }
+    ],
+    "keywords": [
+      "user names",
+      "gender inference",
+      "morphological features",
+      "character n-grams",
+      "user demographics",
+      "online identity"
+    ],
+    "sdgs": [],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.18653/v1/d15-1240",
+    "openalex_url": "https://openalex.org/W850909210",
+    "pdf_url": "https://www.aclweb.org/anthology/D15-1240.pdf",
+    "pmc_url": null,
+    "oa_locations": [
+      "https://www.aclweb.org/anthology/D15-1240.pdf",
+      "https://arxiv.org/pdf/1507.02045",
+      "https://arxiv.org/pdf/1507.02045.pdf",
+      "https://doi.org/10.48550/arxiv.1507.02045"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.5281/zenodo.20067985",
+    "arxiv_id": null,
+    "openalex_id": "W7160539160",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "NICKNAMES IN FRENCH ANTHROPONYMY: A TYPOLOGICAL AND LINGUISTIC ANALYSIS",
+    "abstract": "This article examines nicknames as a distinct category within French anthroponymy from semantic, linguistic, and sociological perspectives. Drawing on the typological classification developed by Billy Pierre-Henri, the study analyses a range of nicknames attested in historical French-speaking communities and systematises them according to their onomastic etymons \u2014 geographical affiliation, occupational context, ethnic and national identity, family name derivation, personal given names, physical characteristics, and animal imagery. The research demonstrates that nicknames function as complex anthroponymic units that encode an individual's spatial, social, historical, and cultural positioning within a community. The findings contribute to the broader field of onomastics and offer a structured framework for the study of non-official naming practices in the French linguistic tradition.",
+    "authors": [
+      {
+        "name": "Sindarov Feruz",
+        "orcid": null,
+        "affiliation": null,
+        "country": null,
+        "is_first": true,
+        "is_corresponding": true
+      }
+    ],
+    "year": 2026,
+    "venue": "Journal of Applied Science and Social Science",
+    "issn": "2229-3205",
+    "issns": [
+      "2229-3205",
+      "2229-3213"
+    ],
+    "type": "article",
+    "citation_count": 0,
+    "referenced_works_count": 0,
+    "fwci": 0.0,
+    "cited_by_percentile_year": null,
+    "topics": [
+      {
+        "id": "T13260",
+        "name": "Linguistics and Language Studies",
+        "score": 0.7124000191688538
+      },
+      {
+        "id": "T12768",
+        "name": "Linguistics and language evolution",
+        "score": 0.12939999997615814
+      },
+      {
+        "id": "T12658",
+        "name": "Language and Culture",
+        "score": 0.09430000185966492
+      }
+    ],
+    "keywords": [
+      "nicknames",
+      "anthroponymy",
+      "French onomastics",
+      "ethnic and national identity",
+      "given names",
+      "physical characteristics",
+      "animal imagery",
+      "sociolinguistics of names"
+    ],
+    "sdgs": [],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.5281/zenodo.20067985",
+    "openalex_url": "https://openalex.org/W7160539160",
+    "pdf_url": "https://www.internationaljournal.co.in/index.php/jasass/article/download/4302/4241/8341",
+    "pmc_url": null,
+    "oa_locations": [
+      "https://www.internationaljournal.co.in/index.php/jasass/article/download/4302/4241/8341",
+      "https://doi.org/10.5281/zenodo.20067985",
+      "https://doi.org/10.5281/zenodo.20067986"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "openalex_id": "W2760810491",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "A morphological and semantic analysis of nicknames in Ng'umbo",
+    "abstract": "By exploring the morphology, meanings, significance and sources of names, one would be struck by the wealth of information which certain nicknames provide about the name bearers, society that gives them and the social environment they live in. Ng\u2019umbo people have nicknames as part of their naming practice which present peculiar morphological and semantic structures different from ordinary nicknames. Thus, this study aimed at analysing the morphology and semantics of selected nicknames in Ng\u2019umbo Language. Conducted in Samfya and Mufulira, 120 nicknames were collected from sixty elders and name bearers through snowballing, simple face to face interviews, introspection, document analysis of headmen\u2019s and school examination registers. The study applied descriptive research design largely informed by qualitative approach to data descriptive and lexical analysis of morphological structures by segmenting, identifying and describing morphemes that constitute these nicknames. The meanings were interpreted through Eclectic theories; the Nonsense Theory, Phenomenology and Thematic Analysis to determine their semantics. It established that nicknames have morphology where prefixes and extensions added to roots or stems alter their meanings. They are de-nominals, de-verbals and de-adjectivals. They displayed short, long, phrasal (compounding), sentence and proverbial structures where borrowed nicknames exhibit difficult morphological structures. Nicknames have various etymologies cardinal in providing meanings. The study concluded that nicknames are meaningful, but polysemous; have semantic value governed by socio-cultural factors and convey messages. Many people are proudly called by nicknames; hence become fixed and eventually stabilise into surnames, family names or in inherited names. Based on these findings, the study recommends for more researches with holistic approach to exhaustively deal with nickname\u2019s aspects since no single study can encompose all dimensins as Onomastics is a new multidisciplinary field of study in Zambia. Government and donnors should invest more resources; money and time in scholarly studies pertaining to nicknaming practices to generate valid knowledge that can be used as study materials in onomastics and general linguistics in schools and colleges. The investigations into nicknaming should be extended to other languages and dialects in Zambia especially those threatened with death to prevent language death and preserve them. Further, an investigation on the neologisms or loan nicknames should be conducted as they have portrayed very interesting linguistic features.",
+    "authors": [
+      {
+        "name": "Mwaba Fredgerious Kabaso",
+        "orcid": null,
+        "affiliation": null,
+        "country": null,
+        "is_first": true,
+        "is_corresponding": true
+      }
+    ],
+    "year": 2016,
+    "venue": null,
+    "issn": null,
+    "issns": [],
+    "type": "dissertation",
+    "citation_count": 6,
+    "referenced_works_count": 0,
+    "fwci": null,
+    "cited_by_percentile_year": null,
+    "topics": [
+      {
+        "id": "T12658",
+        "name": "Language and Culture",
+        "score": 0.5019999742507935
+      },
+      {
+        "id": "T13260",
+        "name": "Linguistics and Language Studies",
+        "score": 0.44850000739097595
+      },
+      {
+        "id": "T10034",
+        "name": "Syntax, Semantics, Linguistic Variation",
+        "score": 0.018699999898672104
+      }
+    ],
+    "keywords": [
+      "nicknames",
+      "morphology (linguistics)",
+      "semantics",
+      "naming practices",
+      "prefixes and suffixes",
+      "compounding",
+      "polysemy",
+      "etymology",
+      "loanwords",
+      "onomastics"
+    ],
+    "sdgs": [],
+    "is_oa": false,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": null,
+    "openalex_url": "https://openalex.org/W2760810491",
+    "pdf_url": null,
+    "pmc_url": null,
+    "oa_locations": [],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "openalex_id": "W7220108821",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "LINGUOCULTURAL CHARACTERISTICS OF NICKNAMES FORMED AS A RESULT OF PROFESSIONALISMS",
+    "abstract": "This article examines the linguocultural characteristics of nicknames formed on the basis of professions, occupations, official positions, and titles in the Uzbek language, particularly in the Khorezm dialects. The study analyzes the semantic, functional, and cultural features of occupationally motivated nicknames and their role in reflecting the social life, traditional crafts, and historical realities of the local population. Special attention is paid to the processes through which professional designations transform into anthroponymic units and become stable markers of individuals, families, and even entire lineages. The research demonstrates that such nicknames serve not only as means of personal identification and differentiation but also as carriers of cultural memory, preserving information about traditional occupations, social structures, and linguistic peculiarities. The article further explores the relationship between professional nicknames and the linguistic worldview of the Khorezm people, highlighting their significance as valuable sources for onomastic, ethnolinguistic, and linguocultural studies.",
+    "authors": [
+      {
+        "name": "Manzura Karimboyeva Dilmuratovna",
+        "orcid": null,
+        "affiliation": null,
+        "country": null,
+        "is_first": true,
+        "is_corresponding": true
+      }
+    ],
+    "year": 2026,
+    "venue": "International Journal of Literature and Language Studies",
+    "issn": "2828-6235",
+    "issns": [
+      "2828-6235"
+    ],
+    "type": "article",
+    "citation_count": 0,
+    "referenced_works_count": 0,
+    "fwci": 0.0,
+    "cited_by_percentile_year": null,
+    "topics": [
+      {
+        "id": "T12658",
+        "name": "Language and Culture",
+        "score": 0.9761000275611877
+      },
+      {
+        "id": "T13122",
+        "name": "Linguistics and Cultural Studies",
+        "score": 0.021700000390410423
+      },
+      {
+        "id": "T13260",
+        "name": "Linguistics and Language Studies",
+        "score": 0.0012000000569969416
+      }
+    ],
+    "keywords": [
+      "nicknames",
+      "linguocultural features",
+      "Uzbek language",
+      "Khorezm dialect",
+      "anthroponymy",
+      "professional designation",
+      "cultural memory",
+      "traditional occupations",
+      "linguistic worldview",
+      "onomastics"
+    ],
+    "sdgs": [],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": null,
+    "openalex_url": "https://openalex.org/W7220108821",
+    "pdf_url": "https://jiujournal.org/index.php/index/article/view/318",
+    "pmc_url": null,
+    "oa_locations": [
+      "https://jiujournal.org/index.php/index/article/view/318"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.1080/00277738.2017.1415523",
+    "arxiv_id": null,
+    "openalex_id": "W2782183714",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "Naming, Identity, and Social Positioning in Teenagers\u2019 Everyday Mobile Phone Interaction",
+    "abstract": "This article analyzes how a small group of Swedish teenagers handle onomastic choices of self- and other-referencing as part of their everyday mobile phone interaction. It further discusses how the teenagers explained their views regarding online names during interviews. The data are analyzed qualitatively using theories of identity and social positioning. Results show considerable differences between onomastic strategies used for self- and other-referencing. Self-referencing names were often practical, coherent, and authentic to the offline self, while other-referencing names were more flexible, creative, and socially positioned. However, the teenagers also displayed varying individual onomastic strategies and different folk-onomastic views on the function of usernames.",
+    "authors": [
+      {
+        "name": "Emilia Aldrin",
+        "orcid": "https://orcid.org/0000-0001-8085-1419",
+        "affiliation": "Halmstad University",
+        "country": "SE",
+        "is_first": true,
+        "is_corresponding": true
+      }
+    ],
+    "year": 2018,
+    "venue": "Names",
+    "issn": "0027-7738",
+    "issns": [
+      "0027-7738",
+      "1756-2279"
+    ],
+    "type": "article",
+    "citation_count": 16,
+    "referenced_works_count": 29,
+    "fwci": 2.4245,
+    "cited_by_percentile_year": 98,
+    "topics": [
+      {
+        "id": "T13155",
+        "name": "Digital Communication and Language",
+        "score": 0.760699987411499
+      },
+      {
+        "id": "T13727",
+        "name": "Linguistic and Sociocultural Studies",
+        "score": 0.17440000176429749
+      },
+      {
+        "id": "T10383",
+        "name": "Language, Discourse, Communication Strategies",
+        "score": 0.02459999918937683
+      }
+    ],
+    "keywords": [
+      "onomastics",
+      "user names",
+      "adolescents",
+      "mobile phone interaction",
+      "self-reference",
+      "identity",
+      "social positioning",
+      "everyday language use"
+    ],
+    "sdgs": [],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.1080/00277738.2017.1415523",
+    "openalex_url": "https://openalex.org/W2782183714",
+    "pdf_url": "http://ans-names.pitt.edu/ans/article/download/2174/2173",
+    "pmc_url": null,
+    "oa_locations": [
+      "http://ans-names.pitt.edu/ans/article/download/2174/2173"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.25205/1995-4328-2026-20-1-156-188",
+    "arxiv_id": null,
+    "openalex_id": "W7136666602",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "Call me Batieia. The meaning of nicknames in Amazon myths",
+    "abstract": "The Amazon stories in written sources have provided us with most of the names of their protagonists. Antiope, Hippolyta and Penthesilea are the best known, but there were many others. Sometimes they corresponded to secondary characters in works by lesser-known authors, which prevented them from achieving the same renown. The iconographic sources not only reveal the scope of these myths in certain social spheres, but also provide new variants, to the point of creating a panorama that is necessary for the analysis of the Amazon universe. Despite this, and the large volume of information available in art, only a small part of it includes written references to its protagonists. The present work offers a broad and complete record of Amazon onomastics present in art and literature throughout antiquity. Its study provides a basis for unravelling not only the Amazon image in the Hellenistic collective imaginary, but also its political organisation and the transfer of power associated with its mythical culture.",
+    "authors": [
+      {
+        "name": "Arturo Sanchez Sanz",
+        "orcid": null,
+        "affiliation": "Universidad Complutense de Madrid",
+        "country": "ES",
+        "is_first": true,
+        "is_corresponding": true
+      }
+    ],
+    "year": 2026,
+    "venue": "\u03a3\u03a7\u039f\u039b\u0397 Ancient Philosophy and the Classical Tradition",
+    "issn": "1995-4328",
+    "issns": [
+      "1995-4328",
+      "1995-4336"
+    ],
+    "type": "article",
+    "citation_count": 0,
+    "referenced_works_count": 0,
+    "fwci": 0.0,
+    "cited_by_percentile_year": null,
+    "topics": [
+      {
+        "id": "T10165",
+        "name": "Classical Antiquity Studies",
+        "score": 0.9810000061988831
+      },
+      {
+        "id": "T13068",
+        "name": "Ancient Mediterranean Archaeology and History",
+        "score": 0.006800000090152025
+      },
+      {
+        "id": "T14170",
+        "name": "Classical Studies and Philology",
+        "score": 0.00419999985024333
+      }
+    ],
+    "keywords": [
+      "Amazon",
+      "nicknames",
+      "onomastics",
+      "Amazon myth",
+      "Hellenistic iconography",
+      "Hellenistic literature",
+      "Hippolyta",
+      "Penthesilea",
+      "Antiope",
+      "political organization"
+    ],
+    "sdgs": [],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.25205/1995-4328-2026-20-1-156-188",
+    "openalex_url": "https://openalex.org/W7136666602",
+    "pdf_url": "https://doi.org/10.25205/1995-4328-2026-20-1-156-188",
+    "pmc_url": null,
+    "oa_locations": [
+      "https://doi.org/10.25205/1995-4328-2026-20-1-156-188"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.1179/nam.1990.38.4.273",
+    "arxiv_id": null,
+    "openalex_id": "W2064077802",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "Toward a Theory of Nicknames: A Case for Socio-Onomastics",
+    "abstract": "AbstractTo develop a form of analysis for nicknames and nicknaming, we propose a theoretical construct, using our empirical knowledge of nicknames, and posit a uniquely sociological perspective that describes and explains nicknames as aspects of the process of social action. Our approach is couched in terms of a theory of naming potentially useful to all scholars of names, whether they study human nicknames, the names of post offices in Kentucky, pet names of body parts, or the religious toponymsof Guatemala.",
+    "authors": [
+      {
+        "name": "Paul L. Leslie",
+        "orcid": null,
+        "affiliation": null,
+        "country": null,
+        "is_first": true,
+        "is_corresponding": false
+      },
+      {
+        "name": "James K. Skipper",
+        "orcid": null,
+        "affiliation": null,
+        "country": null,
+        "is_first": false,
+        "is_corresponding": false
+      }
+    ],
+    "year": 1990,
+    "venue": "Names",
+    "issn": "0027-7738",
+    "issns": [
+      "0027-7738",
+      "1756-2279"
+    ],
+    "type": "article",
+    "citation_count": 77,
+    "referenced_works_count": 20,
+    "fwci": 7.1339,
+    "cited_by_percentile_year": 99,
+    "topics": [
+      {
+        "id": "T13260",
+        "name": "Linguistics and Language Studies",
+        "score": 0.5932999849319458
+      },
+      {
+        "id": "T12658",
+        "name": "Language and Culture",
+        "score": 0.14259999990463257
+      },
+      {
+        "id": "T13727",
+        "name": "Linguistic and Sociocultural Studies",
+        "score": 0.13609999418258667
+      }
+    ],
+    "keywords": [
+      "nicknames",
+      "socio-onomastics",
+      "social action",
+      "onomastics"
+    ],
+    "sdgs": [],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.1179/nam.1990.38.4.273",
+    "openalex_url": "https://openalex.org/W2064077802",
+    "pdf_url": "https://ans-names.pitt.edu/ans/article/download/1253/1252",
+    "pmc_url": null,
+    "oa_locations": [
+      "https://ans-names.pitt.edu/ans/article/download/1253/1252",
+      "https://doaj.org/article/77b2c9cb31ae4dceae339a15f830dce3"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.1163/15685152-bja10073",
+    "arxiv_id": null,
+    "openalex_id": "W7160694881",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "What\u2019s in a Nickname? Barnabas and the Dynamics of Displacement, Belonging, and Identity",
+    "abstract": "Abstract In Acts, Joseph Barnabas is depicted as a key mediator between the Jerusalem and Pauline missions, simultaneously an insider and outsider. Barnabas is largely overlooked in scholarly literature, most commentary concentrating on his nickname. For many commentators, the narrative aside in Acts 4:36 (\u03bf\u0314\u0301 \u03b5\u0313\u03c3\u03c4\u03b9\u03bd \u03bc\u03b5\u03b8\u03b5\u03c1\u03bc\u03b7\u03bd\u03b5\u03c5\u03bf\u0301\u03bc\u03b5\u03bd\u03bf\u03bd \u03c5\u03b9\u0314\u03bf\u0300\u03c2 \u03c0\u03b1\u03c1\u03b1\u03ba\u03bb\u03b7\u0301\u03c3\u03b5\u03c9\u03c2) has obfuscated rather than clarified its meaning. Prior attempts to assign a single definition have overlooked the inherently multifaceted nature of nicknames. This paper argues that the significance of Barnabas\u2019 nickname lies not only in its linguistic definition, but also in the social process of nicknaming. This study reexamines Barnabas\u2019 nickname by analysing Jewish onomastics, drawing on social-scientific studies of nicknaming and migration, and considering Greco-Roman ethnic stereotypes of Cyprus. Barnabas\u2019 nickname illustrates Luke\u2019s narrative strategy of legitimising hybrid identities within the early Christian movement.",
+    "authors": [
+      {
+        "name": "Paul Wilson",
+        "orcid": "https://orcid.org/0000-0002-1594-259X",
+        "affiliation": "University of Edinburgh",
+        "country": "GB",
+        "is_first": true,
+        "is_corresponding": true
+      }
+    ],
+    "year": 2026,
+    "venue": "Biblical Interpretation",
+    "issn": "0927-2569",
+    "issns": [
+      "0927-2569",
+      "1568-5152"
+    ],
+    "type": "article",
+    "citation_count": 0,
+    "referenced_works_count": 0,
+    "fwci": 0.0,
+    "cited_by_percentile_year": null,
+    "topics": [
+      {
+        "id": "T10362",
+        "name": "Biblical Studies and Interpretation",
+        "score": 1.0
+      },
+      {
+        "id": "T10165",
+        "name": "Classical Antiquity Studies",
+        "score": 0.0
+      },
+      {
+        "id": "T14170",
+        "name": "Classical Studies and Philology",
+        "score": 0.0
+      }
+    ],
+    "keywords": [
+      "Barnabas",
+      "nicknames",
+      "Acts of the Apostles",
+      "displacement",
+      "sense of belonging",
+      "identity",
+      "migration",
+      "ethnic stereotypes",
+      "Cyprus",
+      "Luke-Acts"
+    ],
+    "sdgs": [],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.1163/15685152-bja10073",
+    "openalex_url": "https://openalex.org/W7160694881",
+    "pdf_url": "https://doi.org/10.1163/15685152-bja10073",
+    "pmc_url": null,
+    "oa_locations": [
+      "https://doi.org/10.1163/15685152-bja10073"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "openalex_id": "W2752226701",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "Names on the internet: towards electronic socio-onom@stics",
+    "abstract": "The Internet represents an abundant source material for linguistic research, which continues to pose new challenges and opportunities on how language is used by its speakers. Its personal naming system, for example, has remained largely unexplored. Of the many facets of names on the Internet awaiting closer scrutiny, the phenomenon of usernames is perhaps the most fundamental. This thesis investigates the role they play in online life, the most suitable methods to approach them, and how they compare with the names used offline and where their place is in onomastics in general. With people\u2019s names inevitably connected with one or another aspect of identity, this work focuses on the relationship between usernames and online identities. The data has been gathered from a forum on the Russian-speaking sector of the Internet (RuNet) and comprises all registered usernames (676 at the time of collection) as well as an extensive and methodically selected sample of users\u2019 conversations. As a general analytical framework, it utilises Garfinkel\u2019s (1967) ethnomethodology, which conceptualises identity as a result of the ongoing interaction that people negotiate and achieve in everyday life rather than a set of inherent inner qualities. More specifically, the following methodological tools devised by Sacks (e.g. 1995, 1984a, 1984b) have been used to perform the analysis: Membership Categorisation Analysis (MCA) to categorise the usernames of the forum participants, and Conversation Analysis (CA), to observe how usernames contribute to the construction of individual identities. Finally, the concept of Stance, as presented by Du Bois (2007), has been used as a lens to identify relevant evidence in the conversation samples. The analysis has demonstrated the need for a systematic categorisation of usernames. The way in which they associate sets of attributes, facilitates the allocation of named entities as members of certain categories of persons. Both linguistic and typographic elements of usernames contribute to how they are perceived and what impression they create. It is also argued that usernames have an important role to play in the active and ongoing construction of individual identities. The study concludes that CMC participants operate their usernames as meaningful linguistic devices to construct and co-construct each other\u2019s identities. CA and MCD are confirmed to be relevant methods to analyse onomastic data. This study has generated a reliable body of evidence for the assertion that usernames are far from meaningless, and demonstrates, moreover, how their meanings are established. In so doing, it constitutes an important contribution to onomastic theory with the potential to shed new light on personal naming in general.",
+    "authors": [
+      {
+        "name": "Katarzyna Aleksiejuk",
+        "orcid": "https://orcid.org/0000-0002-4544-7768",
+        "affiliation": null,
+        "country": null,
+        "is_first": true,
+        "is_corresponding": true
+      }
+    ],
+    "year": 2017,
+    "venue": "ERA",
+    "issn": null,
+    "issns": [],
+    "type": "dissertation",
+    "citation_count": 7,
+    "referenced_works_count": 68,
+    "fwci": null,
+    "cited_by_percentile_year": null,
+    "topics": [
+      {
+        "id": "T10383",
+        "name": "Language, Discourse, Communication Strategies",
+        "score": 0.6161999702453613
+      },
+      {
+        "id": "T13155",
+        "name": "Digital Communication and Language",
+        "score": 0.3075999915599823
+      },
+      {
+        "id": "T13727",
+        "name": "Linguistic and Sociocultural Studies",
+        "score": 0.033900000154972076
+      }
+    ],
+    "keywords": [
+      "user names",
+      "online identity",
+      "onomastics",
+      "personal naming",
+      "online forums",
+      "Runet",
+      "computer-mediated communication",
+      "ethnomethodology",
+      "membership categorization analysis",
+      "conversation analysis"
+    ],
+    "sdgs": [],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": null,
+    "openalex_url": "https://openalex.org/W2752226701",
+    "pdf_url": "http://hdl.handle.net/1842/23441",
+    "pmc_url": null,
+    "oa_locations": [
+      "http://hdl.handle.net/1842/23441"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.5281/zenodo.17896057",
+    "arxiv_id": null,
+    "openalex_id": "W7114924711",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "NICKNAMES MOTIVATED BY INTERNAL TRAITS IN THE ENGLISH LANGUAGE: A SOCIOLINGUISTIC ANALYSIS",
+    "abstract": "Nicknames motivated by internal traits constitute a significant category within English informal naming practices. Unlike externally motivated nicknames based on appearance, occupation, or social status, internal-trait nicknames reflect psychological, moral, emotional, and behavioral characteristics attributed to the individual by a speech community. This study investigates the linguistic mechanisms, semantic motivations, and sociocultural functions of internal-trait motivated nicknames in English. Drawing on data from historical records, media discourse, and fictional narratives, the analysis applies qualitative semantic classification and functional interpretation. The findings demonstrate that such nicknames serve evaluative, mnemonic, and identity-constructing functions, often employing alliteration, metaphor, and sound symbolism. The study contributes to onomastics and sociolinguistics by clarifying the role of internal traits in nickname formation and social perception.",
+    "authors": [
+      {
+        "name": "Obidova, A.",
+        "orcid": null,
+        "affiliation": null,
+        "country": null,
+        "is_first": true,
+        "is_corresponding": true
+      }
+    ],
+    "year": 2025,
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "issn": null,
+    "issns": [],
+    "type": "article",
+    "citation_count": 0,
+    "referenced_works_count": 0,
+    "fwci": 0.0,
+    "cited_by_percentile_year": null,
+    "topics": [
+      {
+        "id": "T13260",
+        "name": "Linguistics and Language Studies",
+        "score": 0.3621000051498413
+      },
+      {
+        "id": "T12658",
+        "name": "Language and Culture",
+        "score": 0.2964000105857849
+      },
+      {
+        "id": "T11640",
+        "name": "Linguistic Variation and Morphology",
+        "score": 0.13680000603199005
+      }
+    ],
+    "keywords": [
+      "nicknames",
+      "semantic motivation",
+      "alliteration",
+      "metaphor",
+      "sound symbolism",
+      "evaluative function",
+      "memory function",
+      "identity construction",
+      "social perception",
+      "onomastics"
+    ],
+    "sdgs": [],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.5281/zenodo.17896057",
+    "openalex_url": "https://openalex.org/W7114924711",
+    "pdf_url": "https://doi.org/10.5281/zenodo.17896057",
+    "pmc_url": null,
+    "oa_locations": [
+      "https://doi.org/10.5281/zenodo.17896057",
+      "https://doi.org/10.5281/zenodo.17896058"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.1179/0027773812z.00000000031",
+    "arxiv_id": null,
+    "openalex_id": "W2164431198",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "Projecting, Exposing, Revealing Self in the Digital World: Usernames as a Social Practice in a Moroccan Chatroom",
+    "abstract": "AbstractThis article analyzes the characteristics of 141 usernames in a Moroccan chatroom gathered over sixty days (September 4 2011, through November 3 2011). Analysis of the results of this study identifies eleven categories of usernames, including those using a common Moroccan first name, a first name followed by a last name, a name with a number, usernames referring to Anglo-Saxon and French cultures, and those referring to the Muslim religion. This study offers insights into the construction of Moroccan identity in the virtual world that fluctuates between a traditional local Muslim Moroccan identity and a desire to belong to the global community.",
+    "authors": [
+      {
+        "name": "Samira Hassa",
+        "orcid": "https://orcid.org/0000-0003-3579-4309",
+        "affiliation": "Manhattan University",
+        "country": "US",
+        "is_first": true,
+        "is_corresponding": true
+      }
+    ],
+    "year": 2012,
+    "venue": "Names",
+    "issn": "0027-7738",
+    "issns": [
+      "0027-7738",
+      "1756-2279"
+    ],
+    "type": "article",
+    "citation_count": 23,
+    "referenced_works_count": 33,
+    "fwci": 1.7721,
+    "cited_by_percentile_year": 98,
+    "topics": [
+      {
+        "id": "T13155",
+        "name": "Digital Communication and Language",
+        "score": 0.5360999703407288
+      },
+      {
+        "id": "T12658",
+        "name": "Language and Culture",
+        "score": 0.20399999618530273
+      },
+      {
+        "id": "T13727",
+        "name": "Linguistic and Sociocultural Studies",
+        "score": 0.08100000023841858
+      }
+    ],
+    "keywords": [
+      "user names",
+      "online identity",
+      "chat rooms",
+      "Moroccan identity",
+      "self-representation",
+      "Muslim identity",
+      "cultural identity"
+    ],
+    "sdgs": [],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.1179/0027773812z.00000000031",
+    "openalex_url": "https://openalex.org/W2164431198",
+    "pdf_url": "https://ans-names.pitt.edu/ans/article/download/1964/1963",
+    "pmc_url": null,
+    "oa_locations": [
+      "https://ans-names.pitt.edu/ans/article/download/1964/1963",
+      "https://doaj.org/article/bd90be60a1aa4b7d928445e616c485ef"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.52340/lac.2025.35.06",
+    "arxiv_id": null,
+    "openalex_id": "W7161799543",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "Nickname as a Cognitive-Discursive and Sociolinguistic Phenomenon: The Case of Akhaltsikhe Municipality",
+    "abstract": "This article examines the nicknames used in Akhaltsikhe Municipality from a cognitive-discursive and sociolinguistic perspective. The aim of the study is to identify the structural and semantic features of nicknames, as well as to determine the conceptual mechanisms that govern their formation. The analysis has shown that the examination of anthroponymic systems is particularly interesting, as they constitute an important component of the so-called \u201dLinguistic Picture of the World \u201c. The study emphasizes that nicknames are not merely the means of identification; they are rich in connotations and often reflect an individual\u2019s social status, ethnic affiliation, or personal traits. Thus, nicknames can also be regarded as extralinguistic signs that create a bridge between linguistic and social reality. The paper also emphasizes that nicknames are a deeply rooted and multifunctional phenomenon in Georgian reality, reflecting aspects of cultural humor, creativity, and social dynamics. Assigned names often become official names or are preserved in surnames, which increases their historical and linguistic significance. The Akhaltsikhe Municipality is characterized by linguistic diversity (Georgian, Armenian, and partially Turkish influences), which makes the formation of nicknames particularly interesting. Observation of the target material revealed that two main cognitive mechanisms play a leading role in the formation of nicknames: metaphor and metonymy. This means that nicknames are not only linguistic but also products of cognitive processes. Despite local peculiarities (features characteristic of the Samtskhe-Javakheti region), their structure remains compatible with general Kartvelian word-formation models, indicating a unified systemic foundation. Ultimately, the paper integrates cognitive, sociolinguistic, and cultural perspectives and clearly demonstrates that the study of nicknames provides important insights into both language and society.",
+    "authors": [
+      {
+        "name": "Lela Teliashvili",
+        "orcid": null,
+        "affiliation": "Samtskhe-Javakheti State University",
+        "country": "GE",
+        "is_first": true,
+        "is_corresponding": true
+      }
+    ],
+    "year": 2026,
+    "venue": "enadakultura",
+    "issn": "1987-7323",
+    "issns": [
+      "1987-7323"
+    ],
+    "type": "article",
+    "citation_count": 0,
+    "referenced_works_count": 0,
+    "fwci": 0.0,
+    "cited_by_percentile_year": null,
+    "topics": [
+      {
+        "id": "T12658",
+        "name": "Language and Culture",
+        "score": 0.826200008392334
+      },
+      {
+        "id": "T13260",
+        "name": "Linguistics and Language Studies",
+        "score": 0.07199999690055847
+      },
+      {
+        "id": "T12373",
+        "name": "Linguistic research and analysis",
+        "score": 0.04149999842047691
+      }
+    ],
+    "keywords": [
+      "nicknames",
+      "personal names",
+      "metaphor",
+      "metonymy",
+      "linguistic worldview",
+      "social status",
+      "ethnicity",
+      "linguistic diversity",
+      "Samtskhe-Javakheti"
+    ],
+    "sdgs": [],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.52340/lac.2025.35.06",
+    "openalex_url": "https://openalex.org/W7161799543",
+    "pdf_url": "https://journals.4science.ge/index.php/enadakultura/article/download/4801/4862",
+    "pmc_url": null,
+    "oa_locations": [
+      "https://journals.4science.ge/index.php/enadakultura/article/download/4801/4862"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "openalex_id": "W2601408595",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "Semantic and Word-Formation Features of Bulgarian \u201cStar\u201d Nicknames",
+    "abstract": null,
+    "authors": [
+      {
+        "name": "\u0420\u0430\u0434\u043e\u0441\u043b\u0430\u0432 \u0426\u043e\u043d\u0435\u0432",
+        "orcid": null,
+        "affiliation": null,
+        "country": null,
+        "is_first": true,
+        "is_corresponding": true
+      }
+    ],
+    "year": 2017,
+    "venue": null,
+    "issn": null,
+    "issns": [],
+    "type": "article",
+    "citation_count": 0,
+    "referenced_works_count": 0,
+    "fwci": 0.0,
+    "cited_by_percentile_year": null,
+    "topics": [
+      {
+        "id": "T13260",
+        "name": "Linguistics and Language Studies",
+        "score": 0.4684999883174896
+      },
+      {
+        "id": "T12658",
+        "name": "Language and Culture",
+        "score": 0.1468999981880188
+      },
+      {
+        "id": "T12373",
+        "name": "Linguistic research and analysis",
+        "score": 0.08449999988079071
+      }
+    ],
+    "keywords": [
+      "nicknames",
+      "Bulgarian language",
+      "word formation",
+      "semantic features",
+      "onomastics"
+    ],
+    "sdgs": [],
+    "is_oa": false,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": null,
+    "openalex_url": "https://openalex.org/W2601408595",
+    "pdf_url": null,
+    "pmc_url": null,
+    "oa_locations": [],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.47772/ijriss.2026.100700419",
+    "arxiv_id": null,
+    "openalex_id": "W7172417463",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "The Morpho-Syntactic Patterns and Semantic Uses of Student Nicknames in Ghana",
+    "abstract": "Nicknaming is a pervasive linguistic practice that indexes intimacy, identity, and social boundaries, yet it remains relatively underexplored in African sociolinguistic scholarship. This study presents an empirical analysis of 200 nicknames collected from students at a tertiary institution and a senior high school in Cape Coast, Ghana. Drawing on focus group discussions and semi-structured interviews, the paper examines the morpho-syntactic processes underlying nickname formation, including clipping, blending, compounding, reduplication, suffixation, and phonological manipulation. To account for meaning and social positioning, an adapted Natural Semantic Metalanguage (NSM) framework is combined with Appraisal theory to analyse the evaluative, affective, and stance dimensions encoded in the nicknames. The findings identify three dominant morphological categories, derivative, descriptive, and associative, each associated with distinct semantic and interactional functions. Nicknames are shown to enact identity work through affiliation, teasing, role ascription, boundary marking, and stigmatisation. From an Appraisal perspective, they function as condensed evaluative texts that mobilise Affect, Judgement, and Appreciation to position individuals within peer hierarchies and social networks. Distributional patterns further reveal gendered tendencies in the assignment and interpretation of nicknames, reflecting broader sociocultural ideologies and normative expectations. The study argues that nicknaming practices both reflect and actively construct social relations in Ghanaian educational contexts, contributing to African morpho-syntactic scholarship and sociolinguistic research on language, evaluation, and identity construction.",
+    "authors": [
+      {
+        "name": "Jane Yorke Obuajo",
+        "orcid": null,
+        "affiliation": "Rhodes University",
+        "country": "ZA",
+        "is_first": true,
+        "is_corresponding": true
+      }
+    ],
+    "year": 2026,
+    "venue": "International Journal of Research and Innovation in Social Science",
+    "issn": "2454-6186",
+    "issns": [
+      "2454-6186"
+    ],
+    "type": "article",
+    "citation_count": 0,
+    "referenced_works_count": 0,
+    "fwci": 0.0,
+    "cited_by_percentile_year": null,
+    "topics": [
+      {
+        "id": "T13727",
+        "name": "Linguistic and Sociocultural Studies",
+        "score": 0.6934000253677368
+      },
+      {
+        "id": "T13260",
+        "name": "Linguistics and Language Studies",
+        "score": 0.061400000005960464
+      },
+      {
+        "id": "T11640",
+        "name": "Linguistic Variation and Morphology",
+        "score": 0.06030000001192093
+      }
+    ],
+    "keywords": [
+      "nicknames",
+      "clipping",
+      "blending",
+      "compounding",
+      "reduplication",
+      "suffixation",
+      "Natural Semantic Metalanguage",
+      "appraisal theory",
+      "evaluative language",
+      "identity construction"
+    ],
+    "sdgs": [
+      {
+        "score": 0.4156000018119812,
+        "id": "https://metadata.un.org/sdg/4",
+        "display_name": "Quality education"
+      }
+    ],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.47772/ijriss.2026.100700419",
+    "openalex_url": "https://openalex.org/W7172417463",
+    "pdf_url": "https://rsisinternational.org/journals/ijriss/uploads/vol10-iss7-pg6146-6161-202608_pdf.pdf",
+    "pmc_url": null,
+    "oa_locations": [
+      "https://rsisinternational.org/journals/ijriss/uploads/vol10-iss7-pg6146-6161-202608_pdf.pdf"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.5195/names.2021.2234",
+    "arxiv_id": null,
+    "openalex_id": "W3195182609",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "Usernames on a Finnish Online Marketplace for Illegal Drugs",
+    "abstract": "Usernames play a major role in online communication by providing a vital first impression and including clues about the identities and personal characteristics of users. Usernames are extremely important in the online trade of illegal drugs, which carries several risks and therefore requires a high degree of trust between the transaction parties. This study examines how sellers and buyers of illegal drugs represent themselves in their usernames. Data on 1,654 usernames collected from a Finnish darknet marketplace, Torilauta (2017\u20132020) are analyzed both qualitatively and quantitatively. The usernames are mostly in Finnish and often feature slang and spoken language expressions. Many names include clues about a user\u2019s age, gender, and location. References to various illegal drugs in usernames were found to express a close relationship with the substances. In contrast, they only rarely utilize typical real-life marketing strategies, which suggests that the users do not seek publicity and do not wish to enhance their online reputation. Differences between drug sellers\u2019 and buyers\u2019 usernames are minimal, possibly because of group overlap. Overall, it appears that the users aim to blend in with the drug user community rather than stand out from it by building distinctive images of themselves.",
+    "authors": [
+      {
+        "name": "Lasse H\u00e4m\u00e4l\u00e4inen",
+        "orcid": "https://orcid.org/0000-0002-4804-258X",
+        "affiliation": "Tampere University",
+        "country": "FI",
+        "is_first": true,
+        "is_corresponding": false
+      },
+      {
+        "name": "Ari Haasio",
+        "orcid": "https://orcid.org/0000-0003-3723-4890",
+        "affiliation": "Sein\u00e4joki University of Applied Sciences",
+        "country": "FI",
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "J. Tuomas Harviainen",
+        "orcid": "https://orcid.org/0000-0002-6085-5663",
+        "affiliation": "Tampere University",
+        "country": "FI",
+        "is_first": false,
+        "is_corresponding": false
+      }
+    ],
+    "year": 2021,
+    "venue": "Names",
+    "issn": "0027-7738",
+    "issns": [
+      "0027-7738",
+      "1756-2279"
+    ],
+    "type": "article",
+    "citation_count": 6,
+    "referenced_works_count": 37,
+    "fwci": 1.3581,
+    "cited_by_percentile_year": 96,
+    "topics": [
+      {
+        "id": "T12519",
+        "name": "Cybercrime and Law Enforcement Studies",
+        "score": 0.9726999998092651
+      },
+      {
+        "id": "T13155",
+        "name": "Digital Communication and Language",
+        "score": 0.02019999921321869
+      },
+      {
+        "id": "T13727",
+        "name": "Linguistic and Sociocultural Studies",
+        "score": 0.00139999995008111
+      }
+    ],
+    "keywords": [
+      "user names",
+      "online drug markets",
+      "dark web",
+      "online anonymity",
+      "self-presentation",
+      "slang",
+      "online reputation",
+      "Finnish language"
+    ],
+    "sdgs": [],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.5195/names.2021.2234",
+    "openalex_url": "https://openalex.org/W3195182609",
+    "pdf_url": "https://ans-names.pitt.edu/ans/article/download/2234/2284",
+    "pmc_url": null,
+    "oa_locations": [
+      "https://ans-names.pitt.edu/ans/article/download/2234/2284",
+      "http://www.theseus.fi/bitstream/10024/703307/1/Usernames_on_a_Finnish_Online_Marketplace_for_Illegal_Drugs_.pdf",
+      "https://doaj.org/article/decfbc4b9a044eeba0e494cb8629d7ea",
+      "https://trepo.tuni.fi/handle/10024/218248"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.46687/cbvd7134",
+    "arxiv_id": null,
+    "openalex_id": "W7114997140",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "Dialect word as the basis of a nickname (Russian\u2013Belarusian dialect conti-nuum)",
+    "abstract": "The article deals with nicknames that correlate with dialectal appellatives. Based on the data of dialect dictionaries the author reconstructs the meaning of nicknames by comparing them with the lexicon denoting the realities and concepts that became the basis for nomination. To determine the semantics of the dialect lexicon, the dictionaries of the twentieth century, which record the dialect lexicon of Belarus, as well as the Smolensk and Bryansk regions of Russia, are used. Most of the lexemes considered in the article are not currently used by dialect speakers. The analyzed nicknames are most often connected with the characterization of a person by physical and mental attributes, mental abilities, his behavior, appearance, internal state, as well as by occupation and attitude to work. The study of regional nicknames allows us to carry out a comparative analysis and identify the peculiarities of naming in each of the regions, as well as to determine the influence and mutual influence on each of the regional onomasticons.",
+    "authors": [
+      {
+        "name": "Lena Levantsevich",
+        "orcid": "https://orcid.org/0009-0001-0425-6690",
+        "affiliation": null,
+        "country": null,
+        "is_first": true,
+        "is_corresponding": true
+      }
+    ],
+    "year": 2025,
+    "venue": "Problems of cognitive and functional description of Russian and Bulgarian languages",
+    "issn": "2603-3143",
+    "issns": [
+      "2603-3143",
+      "2603-3151"
+    ],
+    "type": "article",
+    "citation_count": 0,
+    "referenced_works_count": 0,
+    "fwci": 0.0,
+    "cited_by_percentile_year": null,
+    "topics": [
+      {
+        "id": "T11640",
+        "name": "Linguistic Variation and Morphology",
+        "score": 0.6606000065803528
+      },
+      {
+        "id": "T13260",
+        "name": "Linguistics and Language Studies",
+        "score": 0.12189999967813492
+      },
+      {
+        "id": "T12658",
+        "name": "Language and Culture",
+        "score": 0.07240000367164612
+      }
+    ],
+    "keywords": [
+      "nicknames",
+      "dialect vocabulary",
+      "dialect dictionary",
+      "Belarusian dialects"
+    ],
+    "sdgs": [],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.46687/cbvd7134",
+    "openalex_url": "https://openalex.org/W7114997140",
+    "pdf_url": "https://doi.org/10.46687/cbvd7134",
+    "pmc_url": null,
+    "oa_locations": [
+      "https://doi.org/10.46687/cbvd7134"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "openalex_id": "W7164718013",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "Linguistic and Sociocultural Characteristics of English Nicknames",
+    "abstract": "The bachelor's thesis provides a comprehensive analysis of nicknames in contemporary English. The study analyzes the linguistic features of English nicknames, focusing specifically on their structural composition, semantic content, and word-formation patterns. Special attention is given to the sociocultural factors that influence the choice and usage of nicknames in various contexts\u2014from everyday communication to the digital environment. The role of nicknames as means of identification, self-presentation, and reflection of cultural and social trends is also examined. The research traces the historical development of nickname studies, defines their classification and typology, and examines morphological and syntactic features along with symbolic associations tied to informal naming. It emphasizes the use of nicknames in politics, sports, entertainment, and digital culture, where they serve both identification and evaluative purposes. By combining onomastic approaches with contemporary tools for digital communication analysis, the thesis applies qualitative methods. The findings reveal how nicknames evolve dynamically within global English-speaking communities and contribute to the construction of personal and group identity. The analysis also explores pragmatic dimensions, showing how people use nicknames to express social status, convey emotional attitudes, and shape communicative strategies. Speakers rely on nicknames for evaluation, satire, self-irony, or emphasizing dominant personality traits. In digital spaces, users frequently replace real names with nicknames to construct virtual identities. The conclusions show that nicknames not only maintain traditional informal naming functions but also gain new meanings in the context of global digital interaction.",
+    "authors": [
+      {
+        "name": "\u0406\u0440\u0438\u043d\u0430 \u042e\u043d\u0430\u043a",
+        "orcid": null,
+        "affiliation": "Taras Shevchenko National University of Kyiv",
+        "country": "UA",
+        "is_first": true,
+        "is_corresponding": true
+      }
+    ],
+    "year": 2025,
+    "venue": "eKNUTSHIR",
+    "issn": null,
+    "issns": [],
+    "type": "dissertation",
+    "citation_count": 0,
+    "referenced_works_count": 0,
+    "fwci": null,
+    "cited_by_percentile_year": null,
+    "topics": [
+      {
+        "id": "T12658",
+        "name": "Language and Culture",
+        "score": 0.6176999807357788
+      },
+      {
+        "id": "T13260",
+        "name": "Linguistics and Language Studies",
+        "score": 0.17180000245571136
+      },
+      {
+        "id": "T13727",
+        "name": "Linguistic and Sociocultural Studies",
+        "score": 0.07320000231266022
+      }
+    ],
+    "keywords": [
+      "nicknames",
+      "word formation",
+      "onomastics",
+      "virtual identity",
+      "personal identity",
+      "self-presentation",
+      "sociocultural factors"
+    ],
+    "sdgs": [],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": null,
+    "openalex_url": "https://openalex.org/W7164718013",
+    "pdf_url": "https://ir.library.knu.ua/bitstreams/64bf76c7-7b7f-4f71-a4ac-fd1cbf2c0597/download",
+    "pmc_url": null,
+    "oa_locations": [
+      "https://ir.library.knu.ua/bitstreams/64bf76c7-7b7f-4f71-a4ac-fd1cbf2c0597/download"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.1080/14725843.2026.2685293",
+    "arxiv_id": null,
+    "openalex_id": "W7163749640",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "Beyond usage to the communicative elements of nicknames among \u00c1g\u00e1b\u00e1 Boys in Calabar South, Nigeria",
+    "abstract": "This study examined nicknames of \u00c1g\u00e1b\u00e1 Boys in Calabar South, Nigeria, and investigated the derivations, origins and communicative imports of nicknames among this youth group. This work was grounded in the socio-onomastic theory of nicknames, and based on contextual and cultural conventions. Data were collected through unstructured interviews, observations and informal conversations with members of this group in Calabar South. A snowballed sampling technique was used in drawing a sample of 60 participants, with 15 members from each of the four broad Agaba groups that exist in Calabar South. The data gathered were categorised and analysed under 15 sub-sects. This study revealed that the \u00c1g\u00e1b\u00e1 Boys derive their nicknames from music idols with strong ties to gang violence, violent oriented lyrics, acts of notoriety, football icons, movie stars with penchants for deviancy, international controversial figures, coinages, clippings, lifestyle, physical attributes, and place names, among others. The study showed that \u00c1g\u00e1b\u00e1 Boys create and define their identity; express in-group code, and enable group integration sufficiently through nicknames. They also express their worldview, culture and thoughts through nicknames. The study recommended a further study of the Agaba girls, a splinter group discovered during the study.",
+    "authors": [
+      {
+        "name": "Edemekong Ekpe",
+        "orcid": null,
+        "affiliation": "University of Calabar",
+        "country": "NG",
+        "is_first": true,
+        "is_corresponding": false
+      },
+      {
+        "name": "Patrick Ene Okon",
+        "orcid": "https://orcid.org/0000-0001-8474-5920",
+        "affiliation": "University of Calabar",
+        "country": "NG",
+        "is_first": false,
+        "is_corresponding": true
+      },
+      {
+        "name": "Presly Ruke Obukoadata",
+        "orcid": "https://orcid.org/0000-0003-4913-9313",
+        "affiliation": "Delta State University",
+        "country": "NG",
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "Eric Ugor Ogri",
+        "orcid": "https://orcid.org/0000-0003-0789-7300",
+        "affiliation": "University of Calabar",
+        "country": "NG",
+        "is_first": false,
+        "is_corresponding": false
+      }
+    ],
+    "year": 2026,
+    "venue": "African Identities",
+    "issn": "1472-5843",
+    "issns": [
+      "1472-5843",
+      "1472-5851"
+    ],
+    "type": "article",
+    "citation_count": 0,
+    "referenced_works_count": 11,
+    "fwci": 0.0,
+    "cited_by_percentile_year": null,
+    "topics": [
+      {
+        "id": "T13727",
+        "name": "Linguistic and Sociocultural Studies",
+        "score": 0.9179999828338623
+      },
+      {
+        "id": "T12658",
+        "name": "Language and Culture",
+        "score": 0.04989999905228615
+      },
+      {
+        "id": "T13043",
+        "name": "Youth Culture and Social Dynamics",
+        "score": 0.00989999994635582
+      }
+    ],
+    "keywords": [
+      "nicknames",
+      "youth identity",
+      "socio-onomastics",
+      "gang violence",
+      "group integration",
+      "Calabar South"
+    ],
+    "sdgs": [],
+    "is_oa": false,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.1080/14725843.2026.2685293",
+    "openalex_url": "https://openalex.org/W7163749640",
+    "pdf_url": null,
+    "pmc_url": null,
+    "oa_locations": [],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.1075/ip.00074.ker",
+    "arxiv_id": null,
+    "openalex_id": "W3138884823",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "Anonymity and authenticity on the web",
+    "abstract": "Abstract Building on our own research ( Kersten and Lotze 2018 , 2020 ; Lotze and Kersten in press , under review ) as well as other work in this area ( Bechar-Israeli 1995 ; Stommel 2007 ; Lindholm 2013 ; Aleksiejuk 2016a , 2016b ), this article will discuss the pragmatics of (self-)naming practices online and how they contribute to identity construction and face-work ( Bedijs, Held and Maa\u00df 2014 ; Seargeant and Tagg 2014 ). Drawing on the data collected, both existing and analysed as part of a wider study of usernames across 14 languages ( Schlobinski and Siever 2018a ), the use and function of anthroponyms and other names in online contexts are explored. Furthermore, we endeavour to situate both onomastic and sociolinguistic research in the field of digitally-mediated interaction (DMI) and in the field of pragmatics in general.",
+    "authors": [
+      {
+        "name": "Saskia Kersten",
+        "orcid": "https://orcid.org/0000-0001-9801-4109",
+        "affiliation": "University of Hertfordshire",
+        "country": "GB",
+        "is_first": true,
+        "is_corresponding": false
+      },
+      {
+        "name": "Netaya Lotze",
+        "orcid": null,
+        "affiliation": "University of M\u00fcnster",
+        "country": "DE",
+        "is_first": false,
+        "is_corresponding": false
+      }
+    ],
+    "year": 2021,
+    "venue": "Internet Pragmatics",
+    "issn": "2542-3851",
+    "issns": [
+      "2542-3851",
+      "2542-386X"
+    ],
+    "type": "article",
+    "citation_count": 6,
+    "referenced_works_count": 66,
+    "fwci": 0.3027,
+    "cited_by_percentile_year": 97,
+    "topics": [
+      {
+        "id": "T13155",
+        "name": "Digital Communication and Language",
+        "score": 0.5634999871253967
+      },
+      {
+        "id": "T10383",
+        "name": "Language, Discourse, Communication Strategies",
+        "score": 0.420199990272522
+      },
+      {
+        "id": "T12119",
+        "name": "Linguistics and Discourse Analysis",
+        "score": 0.006599999964237213
+      }
+    ],
+    "keywords": [
+      "online anonymity",
+      "self-naming",
+      "user names",
+      "personal names",
+      "identity construction",
+      "facework",
+      "onomastics",
+      "online identity"
+    ],
+    "sdgs": [],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.1075/ip.00074.ker",
+    "openalex_url": "https://openalex.org/W3138884823",
+    "pdf_url": "https://uhra.herts.ac.uk/id/eprint/8353/1/3_KER_editing_revisedSK_NL_without_markup.pdf",
+    "pmc_url": null,
+    "oa_locations": [
+      "https://uhra.herts.ac.uk/id/eprint/8353/1/3_KER_editing_revisedSK_NL_without_markup.pdf"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "openalex_id": "W7217162216",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "The Morphological Structure of Igbo Male Nicknames",
+    "abstract": "The study examines the morphological structure of Igbo male nicknames. It is aimed at analysing the morphology of Igbo male nicknames selected from elders and name bearers through snowballing and simple face to face interviews. Participant observation was employed from naturally occurring interactions in public and private spheres over a period of six months. The study applied descriptive research design largely informed by qualitative approach. The study employed descriptive linguistic theory in order to analyse and provide adequate descriptions of the identified morphological patterns of selected nicknames as they appear in the Igbo language. The findings of the study revealed that, Igbo nicknames have references and sense relations which are denotative and connotative and these make them meaningful. It was also revealed that Igbo nicknames have a morphological structure where prefixes and suffixes added to roots or stems alter their meanings. They are de-nominal, de-verbal and de-adjectival. They display long, and short clauses and a proverbial structure. The study revealed that conventions regarding nickname coinage and usage are intimately connected to the gender of bearers and users.",
+    "authors": [
+      {
+        "name": "John Odo Onu",
+        "orcid": null,
+        "affiliation": "University of Benin",
+        "country": "NG",
+        "is_first": true,
+        "is_corresponding": false
+      },
+      {
+        "name": "Inoma Nsima George Essien",
+        "orcid": null,
+        "affiliation": "University of Benin",
+        "country": "NG",
+        "is_first": false,
+        "is_corresponding": false
+      }
+    ],
+    "year": 2024,
+    "venue": "International Journal of Arts Languages Linguistics and Literary Studies",
+    "issn": "2636-7149",
+    "issns": [
+      "2636-7149"
+    ],
+    "type": "article",
+    "citation_count": 0,
+    "referenced_works_count": 0,
+    "fwci": 0.0,
+    "cited_by_percentile_year": null,
+    "topics": [
+      {
+        "id": "T10034",
+        "name": "Syntax, Semantics, Linguistic Variation",
+        "score": 0.6991999745368958
+      },
+      {
+        "id": "T13260",
+        "name": "Linguistics and Language Studies",
+        "score": 0.22380000352859497
+      },
+      {
+        "id": "T13727",
+        "name": "Linguistic and Sociocultural Studies",
+        "score": 0.027400000020861626
+      }
+    ],
+    "keywords": [
+      "Igbo",
+      "nicknames",
+      "morphology (linguistics)",
+      "prefixes and suffixes",
+      "word formation",
+      "denotation and connotation",
+      "gender norms",
+      "proverbs"
+    ],
+    "sdgs": [],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": null,
+    "openalex_url": "https://openalex.org/W7217162216",
+    "pdf_url": "https://jolls.com.ng/v2/index.php/jolls/article/download/127/108",
+    "pmc_url": null,
+    "oa_locations": [
+      "https://jolls.com.ng/v2/index.php/jolls/article/download/127/108"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.21618/fil1613057p",
+    "arxiv_id": null,
+    "openalex_id": "W2558248871",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "From the Onomastics of the Area \u043ef Radjevina. Nicknames From Two Villages of the Radjevina Area: Semantics and Motivation",
+    "abstract": "\u0423 \u0440\u0430\u0434\u0443 \u0441\u0435 \u0430\u043d\u0430\u043b\u0438\u0437\u0438\u0440\u0430 \u043e\u043a\u043e 300 \u043b\u0438\u0447\u043d\u0438\u0445 \u043d\u0430\u0434\u0438\u043c\u0430\u043a\u0430 \u0438\u0437 \u0434\u0432\u0430 \u0441\u0435\u043b\u0430 \u0443 \u0420\u0430\u0452\u0435\u0432\u0438\u043d\u0438: \u0411\u0435\u043b\u0430 \u0426\u0440\u043a\u0432\u0430 \u0438 \u041c\u043e\u0458\u043a\u043e\u0432\u0438\u045b. \u0413\u0440\u0430\u0452\u0443 \u0441\u043c\u043e \u043d\u0430\u0458\u043f\u0440\u0435 \u043f\u043e\u0434\u0435\u043b\u0438\u043b\u0438 \u043d\u0430 \u043c\u0443\u0448\u043a\u0435 \u0438 \u0436\u0435\u043d\u0441\u043a\u0435 \u043d\u0430\u0434\u0438\u043c\u043a\u0435 \u0438 \u0434\u0430\u0459\u0435 \u043f\u0440\u0435\u043c\u0430 \u0441\u0438\u0442\u043d\u0438\u0458\u0438\u043c \u0441\u0435\u043c\u0430\u043d\u0442\u0438\u0447\u043a\u0438\u043c \u0438\u043b\u0438 \u043c\u043e\u0442\u0438\u0432\u0430\u0446\u0438\u043e\u043d\u0438\u043c \u043e\u0441\u043e\u0431\u0435\u043d\u043e\u0441\u0442\u0438\u043c\u0430. \u041d\u0430 \u0441\u0430\u043c\u043e\u043c \u043a\u0440\u0430\u0458\u0443 \u043d\u0430\u043b\u0430\u0437\u0438 \u0441\u0435 \u0440\u0435\u0433\u0438\u0441\u0442\u0430\u0440 \u043b\u0438\u0447\u043d\u0438\u0445 \u043d\u0430\u0434\u0438\u043c\u0430\u043aa \u0441\u0430 \u043d\u0430\u0432\u0435\u0434\u0435\u043d\u0438\u043c \u043f\u0440\u0435\u043d\u0435\u0441\u0435\u043d\u0438\u043c \u0437\u043d\u0430\u0447\u0435\u045a\u0435\u043c \u043e\u0434\u0433\u043e\u0432\u0430\u0440\u0430\u0458\u0443\u045b\u0435\u0433 \u0430\u043f\u0435\u043b\u0430\u0442\u0438\u0432\u0430, \u0443\u043a\u043e\u043b\u0438\u043a\u043e \u0458\u0435 \u0437\u0430\u0431\u0435\u043b\u0435\u0436\u0435\u043d\u043e \u0443 \u0440\u0435\u0447\u043d\u0438\u0446\u0438\u043c\u0430.",
+    "authors": [
+      {
+        "name": "\u041c\u0438\u0440\u0458\u0430\u043d\u0430 \u041f\u0435\u0442\u0440\u043e\u0432\u0438\u045b-\u0421\u0430\u0432\u0438\u045b",
+        "orcid": "https://orcid.org/0000-0001-6129-4741",
+        "affiliation": "Serbian Academy of Sciences and Arts",
+        "country": "RS",
+        "is_first": true,
+        "is_corresponding": true
+      }
+    ],
+    "year": 2016,
+    "venue": "\u0424\u0438\u043b\u043e\u043b\u043e\u0433 \u2013 \u0447\u0430\u0441\u043e\u043f\u0438\u0441 \u0437\u0430 \u0458\u0435\u0437\u0438\u043a \u043a\u045a\u0438\u0436\u0435\u0432\u043d\u043e\u0441\u0442 \u0438 \u043a\u0443\u043b\u0442\u0443\u0440\u0443",
+    "issn": "1986-5864",
+    "issns": [
+      "1986-5864",
+      "2233-1158"
+    ],
+    "type": "article",
+    "citation_count": 0,
+    "referenced_works_count": 0,
+    "fwci": 0.0,
+    "cited_by_percentile_year": null,
+    "topics": [
+      {
+        "id": "T12768",
+        "name": "Linguistics and language evolution",
+        "score": 0.444599986076355
+      },
+      {
+        "id": "T13260",
+        "name": "Linguistics and Language Studies",
+        "score": 0.4302000105381012
+      },
+      {
+        "id": "T12658",
+        "name": "Language and Culture",
+        "score": 0.05649999901652336
+      }
+    ],
+    "keywords": [
+      "nicknames",
+      "onomastics",
+      "semantics",
+      "motivation",
+      "appellatives",
+      "transferred meaning",
+      "Serbian dialects"
+    ],
+    "sdgs": [],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.21618/fil1613057p",
+    "openalex_url": "https://openalex.org/W2558248871",
+    "pdf_url": "https://doi.org/10.21618/fil1613057p",
+    "pmc_url": null,
+    "oa_locations": [
+      "https://doi.org/10.21618/fil1613057p",
+      "https://doaj.org/article/bef8583455cc4dd080df8cff1adfc24a"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "openalex_id": "W7127811881",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "An Onomastic and Cultural Linguistic Study on the Nicknames of the Turcomans of Sar\u0131lar Village",
+    "abstract": null,
+    "authors": [
+      {
+        "name": "Sinan Yaman",
+        "orcid": null,
+        "affiliation": null,
+        "country": null,
+        "is_first": true,
+        "is_corresponding": true
+      }
+    ],
+    "year": 2025,
+    "venue": "DergiPark (Istanbul University)",
+    "issn": null,
+    "issns": [],
+    "type": "article",
+    "citation_count": 0,
+    "referenced_works_count": 0,
+    "fwci": 0.0,
+    "cited_by_percentile_year": null,
+    "topics": [
+      {
+        "id": "T13122",
+        "name": "Linguistics and Cultural Studies",
+        "score": 0.8036999702453613
+      },
+      {
+        "id": "T12658",
+        "name": "Language and Culture",
+        "score": 0.16169999539852142
+      },
+      {
+        "id": "T13367",
+        "name": "Cultural and Sociopolitical Studies",
+        "score": 0.02930000051856041
+      }
+    ],
+    "keywords": [
+      "onomastics",
+      "nicknames",
+      "personal names",
+      "cultural linguistics",
+      "Turkic ethnonyms"
+    ],
+    "sdgs": [],
+    "is_oa": false,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": null,
+    "openalex_url": "https://openalex.org/W7127811881",
+    "pdf_url": null,
+    "pmc_url": null,
+    "oa_locations": [],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.1080/09718923.2016.11893634",
+    "arxiv_id": null,
+    "openalex_id": "W2768430956",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "Nicknaming and Nicknames in Xitsonga Culture: An Onomastic Study",
+    "abstract": "This paper deals with nicknames and their significance among Xitsonga speaking people. Vatsonga have the tendency of giving nicknames, which act as tokens of appreciation or disapproval. Nicknames are one of the forms of address, which Vatsonga as a nation uses to either praise or show disapproval of a person\u2019s behavior. Amongst Vatsonga, in informal situations, first names are often used interchangeably with nicknames. This form of address is commonly used by peers in particular age groups namely, children, adolescents and young adults. This practice is also common among friends. It is rare to find the elderly using this form of address because they prefer to use pet or endearment names when addressing their children. This paper is mainly a semantic analysis of Xitsonga nicknaming and nicknames by bringing to the reader\u2019s attention the circumstances that led to the names given to the referents.",
+    "authors": [
+      {
+        "name": "Mkhacani Thomas Chauke",
+        "orcid": "https://orcid.org/0000-0001-8935-3731",
+        "affiliation": "University of Venda",
+        "country": "ZA",
+        "is_first": true,
+        "is_corresponding": true
+      }
+    ],
+    "year": 2016,
+    "venue": "Journal of Social Sciences",
+    "issn": "0971-8923",
+    "issns": [
+      "0971-8923",
+      "2456-6756"
+    ],
+    "type": "article",
+    "citation_count": 3,
+    "referenced_works_count": 3,
+    "fwci": 1.4791,
+    "cited_by_percentile_year": 96,
+    "topics": [
+      {
+        "id": "T12658",
+        "name": "Language and Culture",
+        "score": 0.9663000106811523
+      },
+      {
+        "id": "T13260",
+        "name": "Linguistics and Language Studies",
+        "score": 0.02070000022649765
+      },
+      {
+        "id": "T13727",
+        "name": "Linguistic and Sociocultural Studies",
+        "score": 0.008999999612569809
+      }
+    ],
+    "keywords": [
+      "nicknames",
+      "address terms",
+      "onomastics",
+      "semantic analysis",
+      "pet names",
+      "given names"
+    ],
+    "sdgs": [],
+    "is_oa": false,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.1080/09718923.2016.11893634",
+    "openalex_url": "https://openalex.org/W2768430956",
+    "pdf_url": null,
+    "pmc_url": null,
+    "oa_locations": [],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.15826/vopr_onom.2024.21.1.004",
+    "arxiv_id": null,
+    "openalex_id": "W4399189161",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "Socio-Onomastics of Distorted Names: Nicknaming Practices among Punjabi Speakers in Pakistan",
+    "abstract": "Due to hierarchical power relations and the difficulty of confronting others or expressing disdain explicitly in small rural communities, nicknames and spoiled names can be an overt avenue for venting displeasure, ridiculing, expressing social inequality, asserting superiority, conveying judgment, or warning against improper behaviour. The study focuses on how native Punjabi speakers in rural Punjab, Pakistan, distort names to express disdain, rage, affection, or frankness towards people in their presence or absence. Distorted names used both overtly (in the person\u2019s presence) or secretly have been collected through a questionnaire filled in by 22 participants belonging to 22 villages in Punjab, Pakistan. Socio-cultural implications of those names have also been investigated and discussed. The author shows that the boundary between distorted names and nicknames is indistinct. This applies to both their formal features, semantic and pragmatic properties. Speakers not only morphologically distort the formal names but also use the names of castes, animals, physical attributes, and professional titles as address forms or referential expressions. Although distorted names generally offend the referent, they, like nicknames, can be used in both positive and negative contexts. The article describes the main motivational patterns of distorted names, similar to those usually pointed out for nicknames, and focuses mainly on their pragmatic features as noted in the metalinguistic comments of the respondents. Though the use of such naming labels may display quite universal regularities, the socio-cultural situation of the caste-based traditional rural communities of Punjab brings its own specifics to the way distorted names and nicknames are used in the area under study.",
+    "authors": [
+      {
+        "name": "Mehvish Riaz",
+        "orcid": "https://orcid.org/0000-0001-6384-6124",
+        "affiliation": null,
+        "country": null,
+        "is_first": true,
+        "is_corresponding": true
+      }
+    ],
+    "year": 2024,
+    "venue": "\u0412\u043e\u043f\u0440\u043e\u0441\u044b \u043e\u043d\u043e\u043c\u0430\u0441\u0442\u0438\u043a\u0438",
+    "issn": "1994-2400",
+    "issns": [
+      "1994-2400",
+      "1994-2451"
+    ],
+    "type": "article",
+    "citation_count": 0,
+    "referenced_works_count": 201,
+    "fwci": 0.0,
+    "cited_by_percentile_year": null,
+    "topics": [
+      {
+        "id": "T12658",
+        "name": "Language and Culture",
+        "score": 0.5644999742507935
+      },
+      {
+        "id": "T13727",
+        "name": "Linguistic and Sociocultural Studies",
+        "score": 0.10729999840259552
+      },
+      {
+        "id": "T11640",
+        "name": "Linguistic Variation and Morphology",
+        "score": 0.09759999811649323
+      }
+    ],
+    "keywords": [
+      "nicknames",
+      "onomastics",
+      "Punjabi language",
+      "rural Punjab",
+      "address terms",
+      "social inequality",
+      "metalinguistic commentary"
+    ],
+    "sdgs": [],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.15826/vopr_onom.2024.21.1.004",
+    "openalex_url": "https://openalex.org/W4399189161",
+    "pdf_url": "http://dx.doi.org/10.15826/vopr_onom.2024.21.1.004",
+    "pmc_url": null,
+    "oa_locations": [
+      "http://dx.doi.org/10.15826/vopr_onom.2024.21.1.004",
+      "https://elar.urfu.ru/bitstream/10995/136107/1/vopon_2024_1_04.pdf",
+      "https://doaj.org/article/ba46dd4129ba439fa28a8fe6ef2dd967"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "openalex_id": "W2315051260",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "The Semantics of Nicknames of the American Presidents",
+    "abstract": "Nicknames as optional and transient terms of address and reference can provide insights into social relationships, culture and language (De Klerk and Bosch 1997:101). The nickname captures a characteristic of a person if it seems relevant to the name-giver. When an additional name is given to a political leader of the country it means that the reason for naming is considered to be important in the public opinion. The study of \"official\" or \"public\" nicknames of American presidents can reveal cultural assumptions and stereotypes of the country's political leader existing in the American society. This study is focused on the recorded public nicknames of the American presidents, which were collected from onomastic dictionaries, reference literature on American presidents, and the Internet. The data constituted the approximate amount of 430 nicknames for 43 presidents.",
+    "authors": [
+      {
+        "name": "Anna Gladkova",
+        "orcid": "https://orcid.org/0000-0002-4225-4805",
+        "affiliation": null,
+        "country": null,
+        "is_first": true,
+        "is_corresponding": true
+      }
+    ],
+    "year": 2002,
+    "venue": "RUNE (Research UNE)",
+    "issn": null,
+    "issns": [],
+    "type": "conference-paper",
+    "citation_count": 18,
+    "referenced_works_count": 5,
+    "fwci": 0.0,
+    "cited_by_percentile_year": 97,
+    "topics": [
+      {
+        "id": "T12658",
+        "name": "Language and Culture",
+        "score": 0.478300005197525
+      },
+      {
+        "id": "T13260",
+        "name": "Linguistics and Language Studies",
+        "score": 0.19779999554157257
+      },
+      {
+        "id": "T13814",
+        "name": "Cultural and political discourse analysis",
+        "score": 0.061900001019239426
+      }
+    ],
+    "keywords": [
+      "nicknames",
+      "American presidents",
+      "address terms",
+      "political language",
+      "semantics",
+      "interpersonal relationships",
+      "political culture"
+    ],
+    "sdgs": [],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": null,
+    "openalex_url": "https://openalex.org/W2315051260",
+    "pdf_url": "http://www.als.asn.au/proceedings/als2002/Gladkova.pdf",
+    "pmc_url": null,
+    "oa_locations": [
+      "http://www.als.asn.au/proceedings/als2002/Gladkova.pdf"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.34216/1998-0817-2024-30-1-185-192",
+    "arxiv_id": null,
+    "openalex_id": "W4399749696",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "DYNAMICS OF NICKNAMES OF RUSSIAN SERVICEMEN",
+    "abstract": "Currently, the life of military societas is of an increased interest in society in various issues, in particular \u2013 the peculiarities of communication of the language personality of the said society\u2019s representative. The article is devoted to the analysis of the variability of nicknames of modern Russian servicemen. The research material included the linguistic and lexis obtained by questioning and by direct interviewing of cadets of Russian military higher educational institutions in two stages with a time interval of 8 years, which allows drawing objective and reliable conclusions on the nature of the dynamics of the existence of nickname nominations in military societas. Semantic groups of nicknames, characteristics of the structure, features of functioning, psychological attitude of the carriers and the environment are given. Based on the comparative analysis, conclusions were drawn about the similar and distinctive features of existence and the variability of unofficial military anthroponyms. The results of the study make it possible to identify such features of a language personality as the specificity of human perception in military communication, priority characteristics of the personality as a whole, and features of associative thinking. The research materials can be used to conduct seminars and special courses in both civilian and military higher educational institutions. The experience presented is also important for further research in the field of onomastics, sociolinguistics and linguoculturology.",
+    "authors": [
+      {
+        "name": "Nadezhda A. Rodina",
+        "orcid": "https://orcid.org/0000-0003-4013-919X",
+        "affiliation": "Military University",
+        "country": "RU",
+        "is_first": true,
+        "is_corresponding": true
+      }
+    ],
+    "year": 2024,
+    "venue": "\u0412\u0435\u0441\u0442\u043d\u0438\u043a \u041a\u043e\u0441\u0442\u0440\u043e\u043c\u0441\u043a\u043e\u0433\u043e \u0433\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0430 \u0438\u043c. \u041d.\u0410. \u041d\u0435\u043a\u0440\u0430\u0441\u043e\u0432\u0430",
+    "issn": "1998-0817",
+    "issns": [
+      "1998-0817"
+    ],
+    "type": "article",
+    "citation_count": 0,
+    "referenced_works_count": 1,
+    "fwci": 0.0,
+    "cited_by_percentile_year": null,
+    "topics": [
+      {
+        "id": "T12658",
+        "name": "Language and Culture",
+        "score": 0.5576000213623047
+      },
+      {
+        "id": "T13727",
+        "name": "Linguistic and Sociocultural Studies",
+        "score": 0.2615000009536743
+      },
+      {
+        "id": "T13260",
+        "name": "Linguistics and Language Studies",
+        "score": 0.10670000314712524
+      }
+    ],
+    "keywords": [
+      "nicknames",
+      "military communications",
+      "linguistic personality",
+      "military cadets",
+      "onomastics",
+      "sociolinguistics",
+      "linguoculturology"
+    ],
+    "sdgs": [],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.34216/1998-0817-2024-30-1-185-192",
+    "openalex_url": "https://openalex.org/W4399749696",
+    "pdf_url": "https://vestnik.kosgos.ru/attachments/article/1229/rodina-na-vestnik-ksu-2024-1.pdf",
+    "pmc_url": null,
+    "oa_locations": [
+      "https://vestnik.kosgos.ru/attachments/article/1229/rodina-na-vestnik-ksu-2024-1.pdf"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.36941/ajis-2019-0037",
+    "arxiv_id": null,
+    "openalex_id": "W2999085936",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "Phonetic and Morphological Analysis of Word Formation of Tatar Names",
+    "abstract": "There is a growing need for a scientific study of all types of proper names that represent a certain category of words in the lexical system of any language. The current stage of linguistics development is characterized by the rapid growth of the onomastics research conducted on the material of various languages. This research targeted at Tatar surnames aims to understand their origin and phonetic-morphological changes. The research considers proper names that are formed by adding two or three stems. It distinguishes the following models of word formation of proper names: noun + noun, noun + adjective, noun + verb, adjective + noun. After the ethnolinguistic features and phenomena of interlinguistic contact have been studied, it is found that Tatar surnames originate from nicknames, class titles and names of professions, place names, ethnonyms, appellatives. The methods are chosen due to the purpose and objectives of the research, as well as to the specifics of the material under study. This research mainly uses the methods of grammatical analysis, namely: a descriptive method, a comparative-historical method, a descriptive-analytical method, and the method of continuous sampling. The descriptive method involves collecting the material followed by its systematization that allows considering different forms and types, general and specific characteristics. The comparative-historical approach helps to study the peculiarities of interaction between the Tatar language and other languages.",
+    "authors": [
+      {
+        "name": "Damir Haydarovich Husnutdinov",
+        "orcid": null,
+        "affiliation": "Kazan Federal University",
+        "country": "RU",
+        "is_first": true,
+        "is_corresponding": false
+      },
+      {
+        "name": "Ramilya K. Sagdieva",
+        "orcid": "https://orcid.org/0000-0001-8723-9740",
+        "affiliation": "Kazan Federal University",
+        "country": "RU",
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "Ramil Hamitovich Mirzagitov",
+        "orcid": "https://orcid.org/0000-0001-7022-0146",
+        "affiliation": "Kazan Federal University",
+        "country": "RU",
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "R. R. Galiullin",
+        "orcid": "https://orcid.org/0000-0002-5512-3548",
+        "affiliation": "Naberezhnye Chelny State Pedagogical Institute",
+        "country": "RU",
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "Ayakoz Oteukyzy Baidauletova",
+        "orcid": null,
+        "affiliation": null,
+        "country": null,
+        "is_first": false,
+        "is_corresponding": false
+      }
+    ],
+    "year": 2019,
+    "venue": "Academic Journal of Interdisciplinary Studies",
+    "issn": "2281-3993",
+    "issns": [
+      "2281-3993",
+      "2281-4612"
+    ],
+    "type": "article",
+    "citation_count": 1,
+    "referenced_works_count": 6,
+    "fwci": 1.2027,
+    "cited_by_percentile_year": 93,
+    "topics": [
+      {
+        "id": "T13122",
+        "name": "Linguistics and Cultural Studies",
+        "score": 0.9990000128746033
+      },
+      {
+        "id": "T13260",
+        "name": "Linguistics and Language Studies",
+        "score": 0.0006000000284984708
+      },
+      {
+        "id": "T12768",
+        "name": "Linguistics and language evolution",
+        "score": 0.0003000000142492354
+      }
+    ],
+    "keywords": [
+      "proper names",
+      "word formation",
+      "nicknames",
+      "professions",
+      "place names",
+      "ethnonyms",
+      "appellatives",
+      "Tatar language",
+      "onomastics"
+    ],
+    "sdgs": [],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.36941/ajis-2019-0037",
+    "openalex_url": "https://openalex.org/W2999085936",
+    "pdf_url": "http://www.richtmann.org/journal/index.php/ajis/article/download/10608/10232/41117",
+    "pmc_url": null,
+    "oa_locations": [
+      "http://www.richtmann.org/journal/index.php/ajis/article/download/10608/10232/41117"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.24919/2308-4863/92-1-37",
+    "arxiv_id": null,
+    "openalex_id": "W7116630826",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "NICKNAMES OF RESIDENTS OF THE CITY OF TURKA, SAMBIR DISTRICT, LVIV REGION: FUNCTIONAL, MOTIVATIONAL AND WORD-FORMATION FEATURES",
+    "abstract": "\u0430\u0441\u043f\u0456\u0440\u0430\u043d\u0442 \u043a\u0430\u0444\u0435\u0434\u0440\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u043c\u043e\u0432\u0438 \u0456\u043c\u0435\u043d\u0456 \u043f\u0440\u043e\u0444\u0435\u0441\u043e\u0440\u0430",
+    "authors": [
+      {
+        "name": "Nazar HODOVANETS",
+        "orcid": "https://orcid.org/0009-0008-9143-8353",
+        "affiliation": "Lviv University",
+        "country": "UA",
+        "is_first": true,
+        "is_corresponding": true
+      }
+    ],
+    "year": 2025,
+    "venue": "Humanities science current issues",
+    "issn": "2308-4855",
+    "issns": [
+      "2308-4855",
+      "2308-4863"
+    ],
+    "type": "article",
+    "citation_count": 0,
+    "referenced_works_count": 0,
+    "fwci": 0.0,
+    "cited_by_percentile_year": null,
+    "topics": [
+      {
+        "id": "T13260",
+        "name": "Linguistics and Language Studies",
+        "score": 0.5102999806404114
+      },
+      {
+        "id": "T12658",
+        "name": "Language and Culture",
+        "score": 0.19300000369548798
+      },
+      {
+        "id": "T13320",
+        "name": "Ukrainian Cultural and Linguistic Studies",
+        "score": 0.07410000264644623
+      }
+    ],
+    "keywords": [
+      "nicknames",
+      "Ukrainian onomastics",
+      "personal names"
+    ],
+    "sdgs": [],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.24919/2308-4863/92-1-37",
+    "openalex_url": "https://openalex.org/W7116630826",
+    "pdf_url": "https://doi.org/10.24919/2308-4863/92-1-37",
+    "pmc_url": null,
+    "oa_locations": [
+      "https://doi.org/10.24919/2308-4863/92-1-37"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.2478/plc-2022-0003",
+    "arxiv_id": null,
+    "openalex_id": "W4226395197",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "Identity markers in the Internet usernames adopted by female users of a Persian public discussion forum: A sociolinguistic analysis",
+    "abstract": "Abstract Drawing on the feminist poststructuralist perspective, the current study explored the usernames adopted by female users of Ninisite, that is, a Persian discussion forum, and aimed at identifying their identity markers. To this end, a corpus of 947 usernames in Ninisite was compiled. Using thematic analysis, the recurrent themes in the usernames were pinpointed, which led to the identification of six themes as identity markers, namely, gender, religion/ideology, ethnicity, occupation/profession, being humorous, and sense of uniqueness. With regard to the socioculturally unique context of Iran, a continuum of specificity versus generality can be observed in the usernames on Ninisite, with specificity emphasizing differences, sense of uniqueness, and individualization of the users, and generality highlighting neutrality, commonalities, and conventionality.",
+    "authors": [
+      {
+        "name": "Nasimeh Nouhi Jadesi",
+        "orcid": "https://orcid.org/0000-0001-8389-0253",
+        "affiliation": "Salman Farsi University of Kazerun",
+        "country": "IR",
+        "is_first": true,
+        "is_corresponding": true
+      }
+    ],
+    "year": 2022,
+    "venue": "Psychology of Language and Communication",
+    "issn": "1234-2238",
+    "issns": [
+      "1234-2238",
+      "2083-8506"
+    ],
+    "type": "article",
+    "citation_count": 3,
+    "referenced_works_count": 33,
+    "fwci": 0.3611,
+    "cited_by_percentile_year": 94,
+    "topics": [
+      {
+        "id": "T13155",
+        "name": "Digital Communication and Language",
+        "score": 0.5878999829292297
+      },
+      {
+        "id": "T13173",
+        "name": "Gender Studies in Language",
+        "score": 0.3334999978542328
+      },
+      {
+        "id": "T12373",
+        "name": "Linguistic research and analysis",
+        "score": 0.01269999984651804
+      }
+    ],
+    "keywords": [
+      "online identity",
+      "user names",
+      "identity markers",
+      "feminist poststructuralism",
+      "gender identity",
+      "religion and ideology",
+      "ethnicity",
+      "humor",
+      "online communities"
+    ],
+    "sdgs": [
+      {
+        "display_name": "Gender equality",
+        "id": "https://metadata.un.org/sdg/5",
+        "score": 0.7307999730110168
+      }
+    ],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.2478/plc-2022-0003",
+    "openalex_url": "https://openalex.org/W4226395197",
+    "pdf_url": "https://www.sciendo.com/pdf/10.2478/plc-2022-0003",
+    "pmc_url": null,
+    "oa_locations": [
+      "https://www.sciendo.com/pdf/10.2478/plc-2022-0003"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.35877/454ri.daengku3733",
+    "arxiv_id": null,
+    "openalex_id": "W7128207061",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "A Lexical Morphological Analysis of Nicknames in Ng'umbo - A Dialect of Bemba, Zambia",
+    "abstract": "N\u2019gumbo, a dialect of Bemba, is predominantly spoken in the Luapula and Copperbelt provinces of Zambia. This dialect is characterized by various types of nicknames that reflect its speakers' shared experiences, values, and beliefs. This study aims to analyze the morphological structures of selected nicknames within the N\u2019gumbo dialect. Using a sample of 60 nicknames gathered through document analysis, interviews, and self-introspection, the study demonstrates that these nicknames exhibit distinct morphological structures primarily influenced by the morphology of Bantu languages. The analysis identifies several structures, including: stem only, prefix, stem with a final vowel, root with a final vowel, and combinations of prefixes and stems. Additionally, the study recognizes structures related to denominals, deverbals, and de-adjectival forms. Furthermore, some nicknames were found to be neologisms (newly created terms) or derived from loanwords. The study involved eight (8) participants to gather nicknames and their meanings, alongside insights from one of the researchers, who is a speaker of the dialect. The analysis was anchored in lexical morphology, allowing for the segmentation of nicknames as lexemes of the dialect, thus facilitating a clearer analysis and interpretation of the data.",
+    "authors": [
+      {
+        "name": "Mwaba Fredgerious Kabaso",
+        "orcid": null,
+        "affiliation": null,
+        "country": null,
+        "is_first": true,
+        "is_corresponding": false
+      },
+      {
+        "name": "Kelvin Mambwe",
+        "orcid": "https://orcid.org/0009-0004-4909-9408",
+        "affiliation": "University of Zambia",
+        "country": "ZM",
+        "is_first": false,
+        "is_corresponding": false
+      }
+    ],
+    "year": 2025,
+    "venue": "Daengku Journal of Humanities and Social Sciences Innovation",
+    "issn": "2775-6165",
+    "issns": [
+      "2775-6165"
+    ],
+    "type": "article",
+    "citation_count": 0,
+    "referenced_works_count": 0,
+    "fwci": 0.0,
+    "cited_by_percentile_year": null,
+    "topics": [
+      {
+        "id": "T13260",
+        "name": "Linguistics and Language Studies",
+        "score": 0.5264000296592712
+      },
+      {
+        "id": "T10034",
+        "name": "Syntax, Semantics, Linguistic Variation",
+        "score": 0.3944999873638153
+      },
+      {
+        "id": "T12658",
+        "name": "Language and Culture",
+        "score": 0.020800000056624413
+      }
+    ],
+    "keywords": [
+      "nicknames",
+      "Bemba language",
+      "lexical morphology",
+      "prefixes",
+      "deverbals",
+      "neologisms",
+      "loanwords",
+      "Zambia"
+    ],
+    "sdgs": [],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.35877/454ri.daengku3733",
+    "openalex_url": "https://openalex.org/W7128207061",
+    "pdf_url": "https://jurnal.ahmar.id/index.php/daengku/article/download/3733/2224",
+    "pmc_url": null,
+    "oa_locations": [
+      "https://jurnal.ahmar.id/index.php/daengku/article/download/3733/2224"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.1179/nam.1990.38.4.255",
+    "arxiv_id": null,
+    "openalex_id": "W1966065718",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "The Many Faces of Nicknames",
+    "abstract": "AbstractDespite a vast scholarly literature on general naming practices, the serious investigation of nicknaming has barely begun. Pertinent literature lies thinly and sporadically scattered throughout the journals of social science disciplines, with most studies of nicknames assuming a structural, functional, psychodynamic, or socio-historical perspective. Taken as a whole, this body of literature is suggestive of the true dimensions of nicknaming.",
+    "authors": [
+      {
+        "name": "Theodore J. Holland",
+        "orcid": null,
+        "affiliation": null,
+        "country": null,
+        "is_first": true,
+        "is_corresponding": true
+      }
+    ],
+    "year": 1990,
+    "venue": "Names",
+    "issn": "0027-7738",
+    "issns": [
+      "0027-7738",
+      "1756-2279"
+    ],
+    "type": "article",
+    "citation_count": 42,
+    "referenced_works_count": 47,
+    "fwci": 7.1108,
+    "cited_by_percentile_year": 97,
+    "topics": [
+      {
+        "id": "T13260",
+        "name": "Linguistics and Language Studies",
+        "score": 0.6460000276565552
+      },
+      {
+        "id": "T12658",
+        "name": "Language and Culture",
+        "score": 0.12210000306367874
+      },
+      {
+        "id": "T13727",
+        "name": "Linguistic and Sociocultural Studies",
+        "score": 0.10409999638795853
+      }
+    ],
+    "keywords": [
+      "nicknames",
+      "naming practices",
+      "personal names",
+      "onomastics"
+    ],
+    "sdgs": [],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.1179/nam.1990.38.4.255",
+    "openalex_url": "https://openalex.org/W1966065718",
+    "pdf_url": "https://ans-names.pitt.edu/ans/article/download/1252/1251",
+    "pmc_url": null,
+    "oa_locations": [
+      "https://ans-names.pitt.edu/ans/article/download/1252/1251",
+      "https://doaj.org/article/c2e176434d6e4214b02787d911e55a87"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "openalex_id": "W3197272478",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "A Psycholinguistic Approach to Nicknaming (With Reference to Nicknames Given by Students to Teachers)",
+    "abstract": "The present paper aims to study the psychological processes (and, implicitly, the linguistic products) by means of which students nickname teachers and to analyse the discursive functions that the corresponding onomastic variants develop in actual communication situations. A multi-disciplinary approach is proposed, as the intention is to deal with language facts from an onomastic, psycholinguistic, and sociolinguistic perspective. While describing the link between the structure of nicknames and mental processes that underlie their production, these language units are interpreted against the backgrounds in which they occur (in schools and universities). Moreover, the paper assesses the extent to which name givers\u2019 temperamental traits affect unconventional onymic creation. The products of unofficial name giving can be stored for a short or long period of time, in a micro-community (the classroom or school) or a macro-community (nicknames that frequently occur beyond the confines of the institutional framework in which they were created). Some nicknames can even be studied diachronically (i.e. nicknames passed down to successive generations of users). Methodologically, this research is based on three methods (survey, observation, and experiment), which my students have helped to apply in schools and universities in north-western Romania, a multi-ethnic area.",
+    "authors": [
+      {
+        "name": "Oliviu Felecan",
+        "orcid": "https://orcid.org/0000-0002-0078-4437",
+        "affiliation": null,
+        "country": null,
+        "is_first": true,
+        "is_corresponding": true
+      }
+    ],
+    "year": 2016,
+    "venue": "Dialnet (Universidad de la Rioja)",
+    "issn": null,
+    "issns": [],
+    "type": "article",
+    "citation_count": 6,
+    "referenced_works_count": 0,
+    "fwci": 4.3172,
+    "cited_by_percentile_year": 96,
+    "topics": [
+      {
+        "id": "T13260",
+        "name": "Linguistics and Language Studies",
+        "score": 0.25459998846054077
+      },
+      {
+        "id": "T13727",
+        "name": "Linguistic and Sociocultural Studies",
+        "score": 0.24770000576972961
+      },
+      {
+        "id": "T12658",
+        "name": "Language and Culture",
+        "score": 0.20350000262260437
+      }
+    ],
+    "keywords": [
+      "nicknames",
+      "onomastics",
+      "psycholinguistics",
+      "naming",
+      "classroom discourse"
+    ],
+    "sdgs": [
+      {
+        "display_name": "Quality education",
+        "id": "https://metadata.un.org/sdg/4",
+        "score": 0.6164000034332275
+      }
+    ],
+    "is_oa": false,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": null,
+    "openalex_url": "https://openalex.org/W3197272478",
+    "pdf_url": null,
+    "pmc_url": null,
+    "oa_locations": [],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "openalex_id": "W7220255874",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "Nicknaming And Self-Nicknaming In South Africa: Emerging Trends In Tsonga Onomastics",
+    "abstract": "A nickname is an unofficial name that is used to identify a person. The name is either given by another person or, in some context, a person names himself or herself. Worth mentioning is the fact that nicknames do not appear on a person\u2019s identity document but they are at times more popular than those names that have been registered as official. The writer employed interviews and observation techniques to gather the necessary information for the paper. Ten interviewees (who have been identified as denominatums with self-given nicknames) have been contacted in soliciting data for the paper. The purpose of this paper is to analyse Tsonga nicknames that people use to name themselves.",
+    "authors": [
+      {
+        "name": "Chauke O.R",
+        "orcid": null,
+        "affiliation": null,
+        "country": null,
+        "is_first": true,
+        "is_corresponding": true
+      }
+    ],
+    "year": 2022,
+    "venue": "Journal of Positive School Psychology",
+    "issn": "2717-7564",
+    "issns": [
+      "2717-7564"
+    ],
+    "type": "article",
+    "citation_count": 0,
+    "referenced_works_count": 0,
+    "fwci": 0.0,
+    "cited_by_percentile_year": null,
+    "topics": [
+      {
+        "id": "T12658",
+        "name": "Language and Culture",
+        "score": 0.7782999873161316
+      },
+      {
+        "id": "T13727",
+        "name": "Linguistic and Sociocultural Studies",
+        "score": 0.13699999451637268
+      },
+      {
+        "id": "T13260",
+        "name": "Linguistics and Language Studies",
+        "score": 0.07289999723434448
+      }
+    ],
+    "keywords": [
+      "nicknames",
+      "onomastics",
+      "personal names",
+      "South Africa"
+    ],
+    "sdgs": [],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": null,
+    "openalex_url": "https://openalex.org/W7220255874",
+    "pdf_url": "https://journalppw.com/index.php/jpsp/article/download/11981/7784",
+    "pmc_url": null,
+    "oa_locations": [
+      "https://journalppw.com/index.php/jpsp/article/download/11981/7784"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.2989/na.2024.38.1.4.1382",
+    "arxiv_id": null,
+    "openalex_id": "W4404332312",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "A morphosemantic analysis of personal nicknames in Swahili",
+    "abstract": null,
+    "authors": [
+      {
+        "name": "Julius Taji",
+        "orcid": "https://orcid.org/0000-0003-0516-0583",
+        "affiliation": null,
+        "country": null,
+        "is_first": true,
+        "is_corresponding": true
+      }
+    ],
+    "year": 2024,
+    "venue": "Nomina Africana Journal of African Onomastics",
+    "issn": "1012-0254",
+    "issns": [
+      "1012-0254",
+      "2706-9842"
+    ],
+    "type": "article",
+    "citation_count": 2,
+    "referenced_works_count": 0,
+    "fwci": 3.3005,
+    "cited_by_percentile_year": 96,
+    "topics": [
+      {
+        "id": "T13260",
+        "name": "Linguistics and Language Studies",
+        "score": 0.6826000213623047
+      },
+      {
+        "id": "T12658",
+        "name": "Language and Culture",
+        "score": 0.16760000586509705
+      },
+      {
+        "id": "T10034",
+        "name": "Syntax, Semantics, Linguistic Variation",
+        "score": 0.06369999796152115
+      }
+    ],
+    "keywords": [
+      "Swahili language",
+      "morphosemantics",
+      "onomastics",
+      "nicknames",
+      "morphology (linguistics)",
+      "semantics"
+    ],
+    "sdgs": [],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.2989/na.2024.38.1.4.1382",
+    "openalex_url": "https://openalex.org/W4404332312",
+    "pdf_url": "https://doi.org/10.2989/na.2024.38.1.4.1382",
+    "pmc_url": null,
+    "oa_locations": [
+      "https://doi.org/10.2989/na.2024.38.1.4.1382"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.5937/sinteze1202095k",
+    "arxiv_id": null,
+    "openalex_id": "W2747269662",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "Teachers nicknames: Micro research in onomastics",
+    "abstract": "This paper studies teacher's nicknames in the primary school Vuk Karad\u017ei\u0107 in Kru\u0161evac gathered through a survey for which the students were requested to state a teacher\u201fs nickname, its originator and motivations. By method of random sampling, 243 students were polled, and 217 nicknames were collected. This paper serves as yet another confirmation of the functionality of our language in various forms of expression. We observed that while most nicknames are invented by students, many are also thought up by teachers as well. Students readily adopted nicknames created by other teachers. We also observed that a teacher can have two, even three nicknames. This comes about when nicknames conceived by previous generations are passed on. We drew the conclusion that each new generation of students creates nicknames of their own, in addition to the 'old', previously existing ones. The nicknames reported reveal creativity, imagination and originality of students as well as their relation to their teachers, based on understanding and respect for teachers' personalities.",
+    "authors": [
+      {
+        "name": "Karolina Kostic-Stamenovic",
+        "orcid": null,
+        "affiliation": null,
+        "country": null,
+        "is_first": true,
+        "is_corresponding": false
+      },
+      {
+        "name": "Marija Dragumilo-Stefanovic",
+        "orcid": null,
+        "affiliation": null,
+        "country": null,
+        "is_first": false,
+        "is_corresponding": false
+      }
+    ],
+    "year": 2012,
+    "venue": "Sinteze",
+    "issn": "2217-902X",
+    "issns": [
+      "2217-902X",
+      "2560-3078"
+    ],
+    "type": "article",
+    "citation_count": 0,
+    "referenced_works_count": 0,
+    "fwci": 0.0,
+    "cited_by_percentile_year": null,
+    "topics": [
+      {
+        "id": "T13260",
+        "name": "Linguistics and Language Studies",
+        "score": 0.5741999745368958
+      },
+      {
+        "id": "T12658",
+        "name": "Language and Culture",
+        "score": 0.25780001282691956
+      },
+      {
+        "id": "T13727",
+        "name": "Linguistic and Sociocultural Studies",
+        "score": 0.08250000327825546
+      }
+    ],
+    "keywords": [
+      "onomastics",
+      "nicknames",
+      "elementary school students",
+      "teacher-student relationship",
+      "teacher personality",
+      "student creativity",
+      "Kru\u0161evac"
+    ],
+    "sdgs": [
+      {
+        "display_name": "Quality education",
+        "id": "https://metadata.un.org/sdg/4",
+        "score": 0.975600004196167
+      }
+    ],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.5937/sinteze1202095k",
+    "openalex_url": "https://openalex.org/W2747269662",
+    "pdf_url": "https://scindeks-clanci.ceon.rs/data/pdf/2217-902X/2012/2217-902X1202095K.pdf",
+    "pmc_url": null,
+    "oa_locations": [
+      "https://scindeks-clanci.ceon.rs/data/pdf/2217-902X/2012/2217-902X1202095K.pdf"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.1515/9783110547023",
+    "arxiv_id": null,
+    "openalex_id": "W4256176861",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "Sonstige Namenarten",
+    "abstract": "Largely neglected by researchers but nonetheless ubiquitous in everyday speech are names for political and cultural events, goods and services, and institutions (i.e. schools, teams). Recent coined names for persons and places (i.e. user names, climbing routes) also fall under this category. Typically classed in the literature as \u201cother types of names,\u201d these richly diverse \u201corphans of onomastic research\u201d are the focus of the volume.",
+    "authors": [],
+    "year": 2018,
+    "venue": "De Gruyter eBooks",
+    "issn": null,
+    "issns": [],
+    "type": "book",
+    "citation_count": 2,
+    "referenced_works_count": 0,
+    "fwci": 0.3618,
+    "cited_by_percentile_year": 93,
+    "topics": [
+      {
+        "id": "T13260",
+        "name": "Linguistics and Language Studies",
+        "score": 0.8115000128746033
+      },
+      {
+        "id": "T12353",
+        "name": "Lexicography and Language Studies",
+        "score": 0.0689999982714653
+      },
+      {
+        "id": "T12658",
+        "name": "Language and Culture",
+        "score": 0.03539999946951866
+      }
+    ],
+    "keywords": [
+      "user names",
+      "onomastics",
+      "proper names",
+      "place names"
+    ],
+    "sdgs": [],
+    "is_oa": false,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.1515/9783110547023",
+    "openalex_url": "https://openalex.org/W4256176861",
+    "pdf_url": null,
+    "pmc_url": null,
+    "oa_locations": [],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.1179/nam.1988.36.3-4.193",
+    "arxiv_id": null,
+    "openalex_id": "W1964499760",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "Women, Nicknames, and Blues Singers",
+    "abstract": "A nickname may be defined as a name not derivative from, or a diminutive of, a person's given names, but one which is added to, substituted for, or used alternatively with a person's given names.As reviewed elsewhere (Skipper, \"Significance of Nicknames\"), nicknames are an important and deeply embedded element in American culture, but there has been little systematic research reported in the literature.This is true not only for onomastics, but also for such disciplines as history, sociology, psychology, and so forth.What little research has been done usually focuses on the nicknames of males.With few exceptions, the nicknames of females have almost b.een entirely ignored.The purpose of this report is to review the little we know about the use of nicknames in American society and especially those of women, analyze a set of women's nicknames derived from a study of American Blues singers 1890-1975, present a conceptual orientation by which to better understand the role of women's nicknames in American society, and suggest some avenues for future research.",
+    "authors": [
+      {
+        "name": "James K. Skipper",
+        "orcid": null,
+        "affiliation": null,
+        "country": null,
+        "is_first": true,
+        "is_corresponding": false
+      },
+      {
+        "name": "Paul, L. Leslie",
+        "orcid": null,
+        "affiliation": null,
+        "country": null,
+        "is_first": false,
+        "is_corresponding": false
+      }
+    ],
+    "year": 1988,
+    "venue": "Names",
+    "issn": "0027-7738",
+    "issns": [
+      "0027-7738",
+      "1756-2279"
+    ],
+    "type": "article",
+    "citation_count": 16,
+    "referenced_works_count": 9,
+    "fwci": 16.858,
+    "cited_by_percentile_year": 96,
+    "topics": [
+      {
+        "id": "T12658",
+        "name": "Language and Culture",
+        "score": 0.27149999141693115
+      },
+      {
+        "id": "T13260",
+        "name": "Linguistics and Language Studies",
+        "score": 0.24549999833106995
+      },
+      {
+        "id": "T11640",
+        "name": "Linguistic Variation and Morphology",
+        "score": 0.22179999947547913
+      }
+    ],
+    "keywords": [
+      "nicknames",
+      "blues singers",
+      "American culture",
+      "onomastics",
+      "diminutives",
+      "gender and naming",
+      "American society"
+    ],
+    "sdgs": [],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.1179/nam.1988.36.3-4.193",
+    "openalex_url": "https://openalex.org/W1964499760",
+    "pdf_url": "https://ans-names.pitt.edu/ans/article/download/1192/1191",
+    "pmc_url": null,
+    "oa_locations": [
+      "https://ans-names.pitt.edu/ans/article/download/1192/1191",
+      "https://doaj.org/article/d7ebeefb75264b3388dd173d4ff1527a"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.2307/2802040",
+    "arxiv_id": null,
+    "openalex_id": "W2796790802",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "Some Notes on Community Nicknaming in Spain",
+    "abstract": null,
+    "authors": [
+      {
+        "name": "David D. Gilmore",
+        "orcid": null,
+        "affiliation": null,
+        "country": null,
+        "is_first": true,
+        "is_corresponding": true
+      }
+    ],
+    "year": 1982,
+    "venue": "Man",
+    "issn": "0025-1496",
+    "issns": [
+      "0025-1496",
+      "2397-2548"
+    ],
+    "type": "article",
+    "citation_count": 54,
+    "referenced_works_count": 15,
+    "fwci": 4.117,
+    "cited_by_percentile_year": 100,
+    "topics": [
+      {
+        "id": "T12341",
+        "name": "Spanish Linguistics and Language Studies",
+        "score": 0.8339999914169312
+      },
+      {
+        "id": "T14332",
+        "name": "European Linguistics and Anthropology",
+        "score": 0.05829999968409538
+      },
+      {
+        "id": "T12658",
+        "name": "Language and Culture",
+        "score": 0.0575999990105629
+      }
+    ],
+    "keywords": [
+      "nicknames",
+      "onomastics",
+      "toponymy",
+      "place names",
+      "ethnonyms"
+    ],
+    "sdgs": [],
+    "is_oa": false,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.2307/2802040",
+    "openalex_url": "https://openalex.org/W2796790802",
+    "pdf_url": null,
+    "pmc_url": null,
+    "oa_locations": [],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  }
+]

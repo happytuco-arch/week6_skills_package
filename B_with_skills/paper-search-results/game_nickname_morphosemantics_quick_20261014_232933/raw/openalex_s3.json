@@ -1,0 +1,3210 @@
+[
+  {
+    "doi": "10.22070/rsci.2025.19962.1775",
+    "arxiv_id": null,
+    "openalex_id": "W7214212604",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "Co-word Analysis of the Persian Translation of Nahj al-Balagheh Letters Using Scientometric Approach: Identifying Key Concepts and Semantic Network through Centrality Measures and Clustering",
+    "abstract": "Purpose: Co-word analysis has been employed to map the structure and relationships among topics, concepts, and terms present in studies of the Persian translation letters of Nahj al-Balagheh. A scientometric approach, including the identification of key concepts and semantic networks through centrality measures and clustering, was used. These techniques help identify hidden patterns within the text and provide a deeper understanding of the structure and content of the letters.Methodology: This research employs a descriptive-analytical design, utilizing an inductive and exploratory approach through document analysis. The study aims to support practical applications in science policymaking by employing content analysis techniques. The qualitative data and statistical population for this study consist of the Persian translation of the letters from \"Nahj al-Balagha\" by Imam Ali (PBUH). A total of 79 letters were compiled into a Word document according to the research objectives. Key vocabulary was extracted through indexing and saved in Excel format. For topic mapping and clustering, important vocabulary lists were selected based on Bradford's law and keyword inclusivity. The PreMap tool was used to extract terms and create the matrix. SPSS was employed for clustering, while UCINET and NetDraw were utilized for cluster analysis and topic visualization. A total of 79 letters from Nahj al-Balagha, translated by Mohammad Dashti, were compiled. Each letter was examined to select meaningful keywords, which were then standardized and stored in a Word document. After standardizing the keywords, a threshold was established to prepare the co-occurrence matrix. PreMap facilitated the creation of a co-word matrix, resulting in a square matrix that indicates how frequently each keyword co-occurs with others in the documents. The matrix dimensions correspond to the number of selected concepts, with each entry representing the frequency of co-occurrence between pairs of keywords. For this study, a 79 \u00d7 79 matrix was created by selecting 79 frequently occurring keywords. Hierarchical clustering was employed for co-word analysis, leveraging its ability to identify clusters relevant to each keyword and to illustrate the relationships among them. Using SPSS, hierarchical clustering was performed with the Ward method, and a dendrogram of co-occurring terms was generated. The resulting matrix was transformed into the desired format and imported into the UCINET software to calculate degree centrality, closeness, and betweenness indices. Subsequently, the NetDraw extension of UCINET was used to visualize the maps of degree centrality, closeness, and betweenness.Findings: Results indicate that the keyword \"people\" ranks first in word frequency, appearing 26 times. This aligns with Quranic verses emphasizing the significance of the mutual relationship between the ruler and the people. Therefore, the reciprocal relationship between the ruler and the people is one of the most important social bonds, and understanding their mutual duties and obligations is essential. The key findings reveal that the highest ranks in degree centrality, betweenness centrality, and closeness centrality belong to the words \u201cworld,\u201d \u201cpeople,\u201d and \u201ctruth,\u201d respectively. Degree centrality is calculated based on the number of incoming and outgoing connections of each node. According to Imam Ali\u2019s teachings, the \u201cworld\u201d is the foundation of all events affecting people; it can play both positive and negative roles. The world can either be a source of growth and development or cause blindness and lead to misguidedness. If one views the world with insight, it offers lessons and guidance, serving as a means of salvation and spiritual and moral elevation. Conversely, the world can blind people and obscure their ability to see the truth, leading to destruction. The word \u201cpeople\u201d holds the highest rank in terms of betweenness centrality. This finding is further supported by the words of Imam Ali regarding efforts to strengthen societal bonds. He refers to Muslims as brothers and urges them to unite in order to combat discord. In another sermon, Imam Ali states, \"God's hand is with the community; avoid division and separation, for whoever leaves the community falls prey to Satan, just as a stray sheep becomes the prey of a wolf.\" Based on the closeness centrality metric, nodes with high closeness centrality are not only more accessible to other nodes but also wield greater influence within the network, thereby playing the most central role. According to a study, the keyword \"truth\" ranks highest in terms of closeness centrality.Conclusion: From the perspective of Nahj al-Balagha, the term \"truth\" encompasses numerous interpretations and descriptions. Imam Ali referred to it as \"the most comprehensive thing in description,\" stating, \"Indeed, the truth is the most spacious thing in description.\" This highlights that the word \"people\" appears with the highest frequency. Accordingly, it is essential for politicians and government officials, like Imam Ali, to prioritize the welfare of the people and to seek their satisfaction as a primary concern in governance.",
+    "authors": [
+      {
+        "name": "Hamid Ebrahimi",
+        "orcid": null,
+        "affiliation": null,
+        "country": null,
+        "is_first": true,
+        "is_corresponding": false
+      },
+      {
+        "name": "Ebrahim Zalzadeh",
+        "orcid": null,
+        "affiliation": null,
+        "country": null,
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "Ismael Mostafavi",
+        "orcid": null,
+        "affiliation": null,
+        "country": null,
+        "is_first": false,
+        "is_corresponding": false
+      }
+    ],
+    "year": 2026,
+    "venue": "DOAJ (DOAJ: Directory of Open Access Journals)",
+    "issn": null,
+    "issns": [],
+    "type": "article",
+    "citation_count": 0,
+    "referenced_works_count": 0,
+    "fwci": 0.0,
+    "cited_by_percentile_year": null,
+    "topics": [
+      {
+        "id": "T10102",
+        "name": "scientometrics and bibliometrics research",
+        "score": 0.7484999895095825
+      },
+      {
+        "id": "T12881",
+        "name": "linguistics and terminology studies",
+        "score": 0.04650000110268593
+      },
+      {
+        "id": "T13815",
+        "name": "Islamic Thought and Society Studies",
+        "score": 0.046300001442432404
+      }
+    ],
+    "keywords": [
+      "Nahj al-Balagha",
+      "Imam Ali",
+      "Persian translation",
+      "co-word analysis",
+      "semantic networks",
+      "key concepts",
+      "degree centrality",
+      "betweenness centrality",
+      "closeness centrality",
+      "hierarchical clustering"
+    ],
+    "sdgs": [],
+    "is_oa": false,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.22070/rsci.2025.19962.1775",
+    "openalex_url": "https://openalex.org/W7214212604",
+    "pdf_url": null,
+    "pmc_url": null,
+    "oa_locations": [],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "openalex_id": "W7112167286",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "The Qur\u2019an as a Big Data Corpus \u2013 Computational Text-Mining, Semantic Networks, and Ethical Frameworks",
+    "abstract": "This OSF project hosts all materials for a study that reconceives the Qur\u2019an as a \u201cBig Data\u201d resource. It includes: - The fully annotated Qur\u2019anic Arabic Corpus (Uthmani script, morphological & syntactic tags) - Python and R scripts for TF-IDF analysis, LDA topic modeling, and word-embedding predictive models - Network-analysis notebooks visualizing root-word co-occurrence graphs - Manuscript PDF, README documentation, preregistration template, and metadata - CC-BY 4.0 license and version history for full reproducibility",
+    "authors": [
+      {
+        "name": "Rahman Ardi Wardana",
+        "orcid": null,
+        "affiliation": null,
+        "country": null,
+        "is_first": true,
+        "is_corresponding": true
+      }
+    ],
+    "year": 2025,
+    "venue": "OSF Preprints (OSF Preprints)",
+    "issn": null,
+    "issns": [],
+    "type": "preprint",
+    "citation_count": 0,
+    "referenced_works_count": 0,
+    "fwci": null,
+    "cited_by_percentile_year": null,
+    "topics": [
+      {
+        "id": "T12377",
+        "name": "Digital Humanities and Scholarship",
+        "score": 0.8593999743461609
+      },
+      {
+        "id": "T13910",
+        "name": "Computational and Text Analysis Methods",
+        "score": 0.12479999661445618
+      },
+      {
+        "id": "T10181",
+        "name": "Natural Language Processing Techniques",
+        "score": 0.00989999994635582
+      }
+    ],
+    "keywords": [
+      "Quran",
+      "semantic networks",
+      "topic modeling",
+      "word embeddings",
+      "TF-IDF",
+      "morphological annotation",
+      "syntactic annotation",
+      "ethical frameworks",
+      "big data"
+    ],
+    "sdgs": [],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": null,
+    "openalex_url": "https://openalex.org/W7112167286",
+    "pdf_url": "https://osf.io/cj7bp",
+    "pmc_url": null,
+    "oa_locations": [
+      "https://osf.io/cj7bp"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "openalex_id": "W2138171130",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "Corpus Linguistics, Network Analysis and Co-occurrence Matrices",
+    "abstract": "This article describes research undertaken in order to design a methodology for the reticular representation of knowledge of a specific discourse community. To achieve this goal, a representative corpus of the scientific production of the members of this discourse community (Universidad Politecnica de Valencia, UPV) was created. The article presents the practical analysis (frequency, keyword, collocation and cluster analysis) that was carried out in the initial phases of the study aimed at establishing the theoretical and practical background and framework for our matrix and network analysis of the scientific discourse of the UPV. In the methodology section, the processes that have allowed us to extract from the corpus the linguistic elements needed to develop co-occurrence matrices, as well as the computer tools used in the research, are described. From these co-occurrence matrices, semantic networks of subject and discipline knowledge were generated. Finally, based on the results obtained, we suggest that it may be viable to extract and to represent the intellectual capital of an academic institution using corpus linguistics methods in combination with the formulations of network theory.",
+    "authors": [
+      {
+        "name": "Keith Douglas Stuart",
+        "orcid": null,
+        "affiliation": null,
+        "country": null,
+        "is_first": true,
+        "is_corresponding": false
+      },
+      {
+        "name": "Ana Botella Trelis",
+        "orcid": null,
+        "affiliation": null,
+        "country": null,
+        "is_first": false,
+        "is_corresponding": false
+      }
+    ],
+    "year": 2009,
+    "venue": "Digitum: Institutional Repository of the University of Murcia (University of Murcia)",
+    "issn": null,
+    "issns": [],
+    "type": "article",
+    "citation_count": 9,
+    "referenced_works_count": 21,
+    "fwci": 0.0,
+    "cited_by_percentile_year": 96,
+    "topics": [
+      {
+        "id": "T10102",
+        "name": "scientometrics and bibliometrics research",
+        "score": 0.676800012588501
+      },
+      {
+        "id": "T12881",
+        "name": "linguistics and terminology studies",
+        "score": 0.09539999812841415
+      },
+      {
+        "id": "T10366",
+        "name": "Discourse Analysis in Language Studies",
+        "score": 0.04740000143647194
+      }
+    ],
+    "keywords": [
+      "co-occurrence matrix",
+      "semantic networks",
+      "discourse communities",
+      "intellectual capital",
+      "collocation analysis",
+      "keyword analysis",
+      "clustering",
+      "network theory",
+      "corpus linguistics",
+      "Universitat Polit\u00e8cnica de Val\u00e8ncia"
+    ],
+    "sdgs": [],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": null,
+    "openalex_url": "https://openalex.org/W2138171130",
+    "pdf_url": "http://hdl.handle.net/10201/23411",
+    "pmc_url": null,
+    "oa_locations": [
+      "http://hdl.handle.net/10201/23411"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.1109/mlnlp66797.2025.11388405",
+    "arxiv_id": null,
+    "openalex_id": "W7131133110",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "The LDA and Semantic Network Analysis of Hate Speech in The Guardian's LGBTQ+ Corpus (2019-2025)",
+    "abstract": "Recently, with the widespread use of social media, hate speech targeting the LGBTQ+ community has evolved toward more concealed and complex forms. This study adopts a combined approach of LDA (Latent Dirichlet Allocation) Topic Modeling and Semantic Network Analysis to conduct a multidimensional and in-depth examination of LGBTQ+ hate speech on major international media platforms. First, the LDA model is employed to uncover core thematic domains of hate speech and to quantify the relative proportion of each topic. Subsequently, semantic network visualization is used to illustrate the patterns of keyword co-occurrence and the strength of associations within each theme. By integrating these two analytical methods, the study not only identifies the explicit thematic distribution of hate speech but also reveals its implicit mechanisms of dissemination and sociocultural roots. The findings provide both methodological and empirical insights for the understanding, detection, and intervention of online hate speech, offering meaningful implications for fostering a more inclusive digital public sphere.",
+    "authors": [
+      {
+        "name": "Sheng Qin",
+        "orcid": null,
+        "affiliation": "Xi'an International Studies University",
+        "country": "CN",
+        "is_first": true,
+        "is_corresponding": false
+      },
+      {
+        "name": "Zhi Liang",
+        "orcid": null,
+        "affiliation": "Xi'an University of Science and Technology",
+        "country": "CN",
+        "is_first": false,
+        "is_corresponding": false
+      }
+    ],
+    "year": 2025,
+    "venue": "International Conference on Machine Learning and Natural Language Processing (MLNLP)",
+    "issn": null,
+    "issns": [],
+    "type": "conference-paper",
+    "citation_count": 0,
+    "referenced_works_count": 12,
+    "fwci": 0.0,
+    "cited_by_percentile_year": null,
+    "topics": [
+      {
+        "id": "T12262",
+        "name": "Hate Speech and Cyberbullying Detection",
+        "score": 0.9961000084877014
+      },
+      {
+        "id": "T10664",
+        "name": "Sentiment Analysis and Opinion Mining",
+        "score": 0.0007999999797903001
+      },
+      {
+        "id": "T13910",
+        "name": "Computational and Text Analysis Methods",
+        "score": 0.0007999999797903001
+      }
+    ],
+    "keywords": [
+      "online hate speech",
+      "The Guardian",
+      "topic modeling",
+      "semantic network analysis",
+      "keyword co-occurrence",
+      "social media",
+      "digital public sphere"
+    ],
+    "sdgs": [
+      {
+        "score": 0.7578999996185303,
+        "display_name": "Reduced inequalities",
+        "id": "https://metadata.un.org/sdg/10"
+      },
+      {
+        "score": 0.6025999784469604,
+        "display_name": "Gender equality",
+        "id": "https://metadata.un.org/sdg/5"
+      }
+    ],
+    "is_oa": false,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.1109/mlnlp66797.2025.11388405",
+    "openalex_url": "https://openalex.org/W7131133110",
+    "pdf_url": null,
+    "pmc_url": null,
+    "oa_locations": [],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.6018/ijes.1.1.99481",
+    "arxiv_id": null,
+    "openalex_id": "W2895725194",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "Corpus Linguistics, Network Analysis and Co-occurrence Matrices Corpus Linguistics, Network Analysis and Co-occurrence Matrices",
+    "abstract": "This article describes research undertaken in order to design a methodology for the reticular representation of knowledge of a specific discourse community. To achieve this goal, a representative corpus of the scientific production of the members of this discourse community (Universidad Polit\u00e9cnica de Valencia, UPV) was created. The article presents the practical analysis (frequency, keyword, collocation and cluster analysis) that was carried out in the initial phases of the study aimed at establishing the theoretical and practical background and framework for our matrix and network analysis of the scientific discourse of the UPV. In the methodology section, the processes that have allowed us to extract from the corpus the linguistic elements needed to develop co-occurrence matrices, as well as the computer tools used in the research, are described. From these co-occurrence matrices, semantic networks of subject and discipline knowledge were generated. Finally, based on the results obtained, we suggest that it may be viable to extract and to represent the intellectual capital of an academic institution using corpus linguistics methods in combination with the formulations of network theory. En este art\u00edculo describimos la investigaci\u00f3n que se ha desarrollado en el dise\u00f1o de una metodolog\u00eda para la representaci\u00f3n reticular del conocimiento que se genera en el seno de una instituci\u00f3n a partir de un corpus representativo de la producci\u00f3n cient\u00edfica de los integrantes de dicha comunidad discursiva, la Universidad Polit\u00e9cnica de Valencia.. Para ello, presentamos las acciones que se realizaron en las fases iniciales del estudio encaminadas a establecer el marco te\u00f3rico y pr\u00e1ctico en el que se inscribe nuestro an\u00e1lisis. En la secci\u00f3n de metodolog\u00eda se describen las herramientas inform\u00e1ticas utilizadas, as\u00ed como los procesos que nos permitieron disponer de aquellos elementos presentes en el corpus, que nos llevar\u00edan al desarrollo de matrices de co-ocurrencias con las que se generaron redes sem\u00e1nticas del conocimiento disciplinar. Finalmente, a partir de los resultados obtenidos, constatamos la viabilidad de extraer y representar el capital intelectual bas\u00e1ndonos en los principios de la ling\u00fc\u00edstica de corpus en combinaci\u00f3n con las formulaciones de la teor\u00eda de redes.",
+    "authors": [
+      {
+        "name": "Keith Douglas Stuart",
+        "orcid": null,
+        "affiliation": null,
+        "country": null,
+        "is_first": true,
+        "is_corresponding": false
+      },
+      {
+        "name": "Ana Botella Trelis",
+        "orcid": null,
+        "affiliation": null,
+        "country": null,
+        "is_first": false,
+        "is_corresponding": false
+      }
+    ],
+    "year": 2009,
+    "venue": "DOAJ (DOAJ: Directory of Open Access Journals)",
+    "issn": null,
+    "issns": [],
+    "type": "article",
+    "citation_count": 0,
+    "referenced_works_count": 0,
+    "fwci": 0.0,
+    "cited_by_percentile_year": null,
+    "topics": [
+      {
+        "id": "T10102",
+        "name": "scientometrics and bibliometrics research",
+        "score": 0.5429999828338623
+      },
+      {
+        "id": "T12881",
+        "name": "linguistics and terminology studies",
+        "score": 0.12489999830722809
+      },
+      {
+        "id": "T12377",
+        "name": "Digital Humanities and Scholarship",
+        "score": 0.0746999979019165
+      }
+    ],
+    "keywords": [
+      "co-occurrence matrix",
+      "semantic networks",
+      "knowledge representation",
+      "discourse communities",
+      "academic knowledge",
+      "intellectual capital",
+      "Universitat Polit\u00e8cnica de Val\u00e8ncia",
+      "collocation analysis",
+      "network analysis",
+      "corpus linguistics"
+    ],
+    "sdgs": [],
+    "is_oa": false,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.6018/ijes.1.1.99481",
+    "openalex_url": "https://openalex.org/W2895725194",
+    "pdf_url": null,
+    "pmc_url": null,
+    "oa_locations": [],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.31881/tlr.2025.881",
+    "arxiv_id": null,
+    "openalex_id": "W4416936215",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "Comparison of Chinese Silk Culture and National Images in East Asian Media Reports Based on Multilingual Co-Occurrence Semantic Networks",
+    "abstract": "To address the cognitive biases in the textile industry's global narrative caused by cross-language semantic differences in the dissemination of Chinese silk culture and its modern innovations in East Asia, this paper proposes a dynamic cognitive graph modeling method based on the multilingual co-occurrence semantic network (M-CSN). This study constructs a textile-field corpus from media reports in China, Japan, South Korea, and North Korea from 2015-2023. The bidirectional encoder representations from transformers (BERT)-multilingual model is utilized to perform cross-language semantic alignment of silk textile terms. By combining the PageRank algorithm with sentiment weight embedding, the semantic association differences of core concepts such as \"silk-innovation\" and \"silk-ecology\" is quantitatively analyzed, focusing on the communication efficiency of modern textile technology. Research reveals that the semantic density index (SDI) of Japanese media has reached 8.2, with a focus on \"dyeing technology\", whereas the emotional polarity value of Korean media with respect to smart textile innovation has reached 0.79, which is higher than the value of 0.65 for Chinese media. Furthermore, the co-occurrence weight of North Korea's \"trade data\" reaches 0.73, and the annual growth rate of the co-occurrence frequency of South Korea's \"silk-virtual fitting\" is 18.9%. These results demonstrate that the M-CSN can accurately locate cultural discount nodes, providing data support for formulating differentiated communication strategies for textile technologies and products. This framework effectively optimizes the global narrative path of silk culture, facilitating its transformation from \"traditional symbols\" to \"modern values\".",
+    "authors": [
+      {
+        "name": "Wenxiang Zhang",
+        "orcid": "https://orcid.org/0000-0001-6528-7629",
+        "affiliation": "Zhejiang University",
+        "country": "CN",
+        "is_first": true,
+        "is_corresponding": false
+      },
+      {
+        "name": "Sutian Xu",
+        "orcid": null,
+        "affiliation": "Hefei University of Technology",
+        "country": "CN",
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "Fang Ouyang",
+        "orcid": null,
+        "affiliation": "University of Science and Technology of China",
+        "country": "CN",
+        "is_first": false,
+        "is_corresponding": false
+      }
+    ],
+    "year": 2025,
+    "venue": "Textile & Leather Review",
+    "issn": "2623-6257",
+    "issns": [
+      "2623-6257",
+      "2623-6281"
+    ],
+    "type": "article",
+    "citation_count": 0,
+    "referenced_works_count": 21,
+    "fwci": 0.0,
+    "cited_by_percentile_year": null,
+    "topics": [
+      {
+        "id": "T12881",
+        "name": "linguistics and terminology studies",
+        "score": 0.2734000086784363
+      },
+      {
+        "id": "T13515",
+        "name": "Cultural and Communication Design Research",
+        "score": 0.0892999991774559
+      },
+      {
+        "id": "T10028",
+        "name": "Topic Modeling",
+        "score": 0.08860000222921371
+      }
+    ],
+    "keywords": [
+      "national image",
+      "PageRank",
+      "sentiment analysis",
+      "smart textiles"
+    ],
+    "sdgs": [],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.31881/tlr.2025.881",
+    "openalex_url": "https://openalex.org/W4416936215",
+    "pdf_url": "https://www.tlr-journal.com/wp-content/uploads/2025/12/TLR_2025_881_ZHANG.pdf",
+    "pmc_url": null,
+    "oa_locations": [
+      "https://www.tlr-journal.com/wp-content/uploads/2025/12/TLR_2025_881_ZHANG.pdf"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.17863/cam.14415",
+    "arxiv_id": null,
+    "openalex_id": "W2767358002",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "Semantic Network Analysis of Contested Political Concepts",
+    "abstract": "This work presents methods for exploring the lexical environment of political concepts using interactive network visualisations of corpus-derived grammatical relations and word associations. The conceptual relations consist of part-of-speech tagged words connected by typed, weighted, edges indicating the strength of relations between words, as measured by pointwise mutual information of different types of co-occurrences. An interactive animated interface allows users to adjust the node degree directly, or to specify edge-weight thresholds, and observe the resulting effect on the network. The system can be searched by neighbourhood sub-graphs (`ego graphs') of particular sets of query terms. The force-directed layout of the network highlights conceptual structure, as terms connected by many relations are drawn together, and the user can select which subsets of relations and sub-corpora to display. Community detection (cliques) and centrality measures provide additional comparative measures of the use of contested concepts in diverse political communities. As an example of such a system for exploring the structure of political concepts, an implementation on comments from libertarian and socialist partisan online communities is presented. The work is motivated by the extensive theoretical treatment of political conceptual morphology but limited computational implementations extant in the literature.",
+    "authors": [
+      {
+        "name": "Nulty, PG",
+        "orcid": null,
+        "affiliation": null,
+        "country": null,
+        "is_first": true,
+        "is_corresponding": true
+      }
+    ],
+    "year": 2017,
+    "venue": "Apollo (University of Cambridge)",
+    "issn": null,
+    "issns": [],
+    "type": "conference-paper",
+    "citation_count": 4,
+    "referenced_works_count": 33,
+    "fwci": 3.1437,
+    "cited_by_percentile_year": 95,
+    "topics": [
+      {
+        "id": "T13910",
+        "name": "Computational and Text Analysis Methods",
+        "score": 0.6366999745368958
+      },
+      {
+        "id": "T12377",
+        "name": "Digital Humanities and Scholarship",
+        "score": 0.15379999577999115
+      },
+      {
+        "id": "T10799",
+        "name": "Data Visualization and Analytics",
+        "score": 0.06880000233650208
+      }
+    ],
+    "keywords": [
+      "semantic networks",
+      "political concepts",
+      "pointwise mutual information",
+      "co-occurrence",
+      "word association",
+      "grammatical relations",
+      "network visualization",
+      "ego graph",
+      "community detection",
+      "network centrality"
+    ],
+    "sdgs": [],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.17863/cam.14415",
+    "openalex_url": "https://openalex.org/W2767358002",
+    "pdf_url": "https://www.repository.cam.ac.uk/handle/1810/268216",
+    "pmc_url": null,
+    "oa_locations": [
+      "https://www.repository.cam.ac.uk/handle/1810/268216",
+      "https://doi.org/10.17863/cam.14415"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.22054/jks.2025.88480.1743",
+    "arxiv_id": null,
+    "openalex_id": "W7214181690",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "Identifying the Semantic Network of a Business Model Appropriate for Critical Conditions",
+    "abstract": "Introduction The business model has evolved from a simple operational blueprint into a complex, adaptive system. Osterwalder and Pigneur (2010) define it as the logic by which an organization creates, delivers, and captures value. In recent years, environmental uncertainty has increased the emphasis on dynamism and adaptability. Business model innovation is now seen as a core capability for sustaining competitive advantage\u2014going beyond product or process innovation to a fundamental reconfiguration of how the firm operates. Organizations today face complex, uncertain environments that intensify during economic, political, social, or health crises. Static, traditional business models have proven vulnerable, as shown by COVID-19 and global conflicts. Resilience, dynamic capabilities, digitalization, and temporary innovation are widely recognized as critical elements of crisis-ready business models. Semantic network models offer a systematic way to represent and analyze relationships among concepts in nonlinear, complex domains (Schops & Jaffrentz, 2024). Drawing on cognitive psychology, semantic networks can map how concepts are mentally associated and support clearer understanding of how managers conceptualize business models under instability. This study uses semantic network analysis to identify key dimensions of a crisis-compatible business model and to examine how those dimensions interact. Research Questions l. What are the key dimensions of a business model suited to crisis conditions? 2. What relationships and interactions exist among the dimensions and components of a crisis-compatible business model? Literature Review Research on business models in crisis contexts has grown substantially. Facchinetti and Petruzzelli (2021) pioneered semantic network analysis combined with big data to study business model innovation and revealed hidden patterns in conceptual linkages. Schops and Jaffrentz (2024) highlighted semantic network analysis as a powerful tool for understanding complex conceptual relationships in marketing and consumer research. Mart\u00ednez et al. (2021), studying SMEs in developing countries during COVID-19, found that firms able to redesign their business models navigated the crisis more successfully. Behroozian (2024), in the UAE oil and gas sector, emphasized transparency and speed in strategic crisis management. Garrido-Moreno et al. (2024) showed that organizational resilience mediates the relationship between service innovation and business performance. Ou and Rakthin (2025) confirmed the mediating role of innovation quality between absorptive capacity and organizational resilience in Thai SMEs. In the Iranian context, Davari (2021) reported positive effects of all corporate resilience dimensions (human resources, marketing, finance, supply chain, and services) on SME performance during COVID-19. Khabazan et al. (2023), in a review, stressed flexibility and innovation in unstable environments. Despite this body of work, three limitations remain: (1) many studies focus on narrow aspects such as digitalization or resilience rather than a multidimensional view; (2) there is little systemic understanding of synergistic interactions among business model components in crises; and (3) few studies combine quantitative network findings with qualitative validation (e.g., expert interviews) in a mixed-methods design. Methodology This is an applied, mixed-methods study using qualitative and quantitative content analysis and semantic network analysis. Data were analyzed with VOSviewer and Gephi for network construction, clustering, and visualization. Articles published from 2020 to 2025 on business model design were identified in John Wiley, Scopus, and Web of Science. Initial retrieval yielded 223 records; after title and abstract screening against inclusion criteria, 190 remained; after full-text review, duplicate removal, exclusion of non-generalizable case studies, conference papers, short notes, inaccessible texts, and low-quality studies, 150 articles entered the final analysis. Selection followed a PRISMA-based, two-stage screening process (title/abstract, then full text) by two independent reviewers, with a third reviewer resolving disagreements. Inclusion required publication between 2020 and 2025 in peer-reviewed or review journals, with clear reference in title, abstract, or keywords to business model design/formulation or business models in crisis/unstable conditions. Exclusion criteria removed duplicates, purely descriptive case studies without generalizable frameworks, and methodologically weak or off-topic papers. Articles were also scored on internal validity, external validity, structural validity, dependability, and relevance/novelty; low-scoring items were dropped. Abstracts and keywords underwent two-stage preprocessing: removal of stop words, special characters, and numbers; spelling normalization; synonym merging; and stemming (NLTK for English, HAZM for Persian). Co-occurrence networks were built in VOSviewer (minimum occurrence threshold = 5; association strength normalization; modularity-based clustering). Sensitivity analyses varied occurrence thresholds (4 and 6) and normalization methods to assess stability. Gephi was used for centrality analysis (LinLog layout; Jaccard-normalized link weights). Inter-cluster relationships were summarized with external link density. Discussion Findings aligned with Salampour et al. (2023), who proposed that business model innovation affects crisis management through entrepreneurial capability, resilience, and performance. The network structure supported business model as the integrative core, with crisis management and innovation acting as bridges among clusters. Mohammadi Hassanzadeh et al. (2024), using expert judgment and the analytic hierarchy process, ranked \u201cadaptability to crisis conditions\u201d as the top criterion for evaluating crisis-compatible business models, followed by innovation, compatibility, unity, comprehensiveness, and performance. High centrality of innovation and crisis management in the present network is consistent with that ranking. A crisis-compatible business model should combine: (1) flexibility and resilience; (2) continuous innovation in model components; (3) entrepreneurial and dynamic capabilities; (4) diversified revenue models; (5) customer orientation; (6) flexible organizational structures; (7) preventive and reactive strategic actions; and (8) strategic collaborations to reduce vulnerability. Practical levers include agile decision-making, supply chain and revenue diversification, strategic reserves, experimental learning, open innovation, customer intelligence systems, and scenario-based crisis planning. Conclusion Using semantic network analysis of 150 scholarly articles (2020\u20132025), this study identified eight interrelated dimensions of a business model suited to crisis conditions and quantified their interactions. \u201cBusiness model\u201d forms the conceptual core; crisis management, innovation, resilience, and digital transformation are critical connectors. The eight-cluster framework offered a systemic basis for designing and adapting business models under instability. Future research could combine bibliometric networks with qualitative expert validation and sector-specific case studies to strengthen external validity and managerial applicability.",
+    "authors": [
+      {
+        "name": "Farzad Karimi",
+        "orcid": null,
+        "affiliation": null,
+        "country": null,
+        "is_first": true,
+        "is_corresponding": false
+      },
+      {
+        "name": "Mohsen Mohammadi Hassanloei",
+        "orcid": null,
+        "affiliation": null,
+        "country": null,
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "Mohammad hossein arman",
+        "orcid": null,
+        "affiliation": null,
+        "country": null,
+        "is_first": false,
+        "is_corresponding": false
+      }
+    ],
+    "year": 2026,
+    "venue": "DOAJ (DOAJ: Directory of Open Access Journals)",
+    "issn": null,
+    "issns": [],
+    "type": "article",
+    "citation_count": 0,
+    "referenced_works_count": 0,
+    "fwci": 0.0,
+    "cited_by_percentile_year": null,
+    "topics": [
+      {
+        "id": "T13151",
+        "name": "Business Strategies and Innovation",
+        "score": 0.5913000106811523
+      },
+      {
+        "id": "T10003",
+        "name": "Innovation and Knowledge Management",
+        "score": 0.39649999141693115
+      },
+      {
+        "id": "T11114",
+        "name": "Service and Product Innovation",
+        "score": 0.002199999988079071
+      }
+    ],
+    "keywords": [
+      "business model innovation",
+      "semantic network analysis",
+      "organizational resilience",
+      "dynamic capabilities",
+      "digitalization",
+      "COVID-19 pandemic",
+      "business model dimensions",
+      "small and medium-sized enterprises",
+      "crisis management",
+      "absorptive capacity"
+    ],
+    "sdgs": [],
+    "is_oa": false,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.22054/jks.2025.88480.1743",
+    "openalex_url": "https://openalex.org/W7214181690",
+    "pdf_url": null,
+    "pmc_url": null,
+    "oa_locations": [],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.13266/j.issn.2095-5472.2024.018",
+    "arxiv_id": null,
+    "openalex_id": "W7168905373",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "Quantitative Research on Digital Rural Policy from the Perspective of Text Analysis: Based on FastText and Text Mining Methods",
+    "abstract": "[Purpose/Significance] Digital countryside is the strategic direction of rural revitalization and an important part of the construction of digital China. It is of great significance to quantitatively analyze the policy texts related to digital countryside from the perspective of text analysis and to explore the fields of policy action, the law of evolution, and the logic of development planning, in order to improve the development of the policy. [Method/Process] Firstly, text preprocessing was carried out on the policy text corpus. Second, TF-IDF was used to extract the feature words of the policy text, and the set of feature words was screened. Then, based on the FastText model, the feature words set was trained with a word vector, K-means cluster analysis was carried out and the co-occurrence matrix of feature words was constructed. Finally, the Gephi tool was used to draw the semantic network diagram. [Result/Conclusion] The cluster analysis results show that the previous digital rural policies mainly affect the construction and development of digital rural from five aspects: policy receptors, policy perspectives, policy fields, supporting measures, and policy functions, which shows the important leading role of digital rural policies in promoting the comprehensive construction and development of digital rural. The semantic network diagram reveals that the previous policies radiated various fields of digital rural construction and development with the agricultural products and modern agriculture as important nodes. The new policies have strengthened and supplemented based on the old policies, but the evolution of digital rural policies has a certain lag and exposes some relatively weak areas in the past, such as management systems, information security, and environmental governance. This study provides an important basis for the policy effect analysis and policy direction of the digital countryside.",
+    "authors": [
+      {
+        "name": "Tang Hontao, Yu Jiapeng, Chen Jie",
+        "orcid": null,
+        "affiliation": null,
+        "country": null,
+        "is_first": true,
+        "is_corresponding": true
+      }
+    ],
+    "year": 2024,
+    "venue": "DOAJ (DOAJ: Directory of Open Access Journals)",
+    "issn": null,
+    "issns": [],
+    "type": "article",
+    "citation_count": 0,
+    "referenced_works_count": 0,
+    "fwci": 0.0,
+    "cited_by_percentile_year": null,
+    "topics": [
+      {
+        "id": "T13003",
+        "name": "Regional Development and Environment",
+        "score": 0.46459999680519104
+      },
+      {
+        "id": "T12662",
+        "name": "Digitalization and Economic Development in Agriculture",
+        "score": 0.3246999979019165
+      },
+      {
+        "id": "T13910",
+        "name": "Computational and Text Analysis Methods",
+        "score": 0.12620000541210175
+      }
+    ],
+    "keywords": [
+      "rural policy",
+      "rural revitalization",
+      "digital China",
+      "policy text analysis",
+      "policy evolution",
+      "semantic networks",
+      "K-means clustering",
+      "co-occurrence matrix",
+      "agricultural commodities",
+      "modern agriculture"
+    ],
+    "sdgs": [
+      {
+        "id": "https://metadata.un.org/sdg/9",
+        "display_name": "Industry, innovation and infrastructure",
+        "score": 0.5378999710083008
+      }
+    ],
+    "is_oa": false,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.13266/j.issn.2095-5472.2024.018",
+    "openalex_url": "https://openalex.org/W7168905373",
+    "pdf_url": null,
+    "pmc_url": null,
+    "oa_locations": [],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.29403/li.30.2.9",
+    "arxiv_id": null,
+    "openalex_id": "W7212061970",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "A Study on the Lexical Characteristics of TOPIK II Reading, Listening, and Writing Passages: Focusing on Semantic Network Analysis",
+    "abstract": "This study investigated the textuality of the Test of Proficiency in Korean (TOPIK) II by analyzing the lexical characteristics of its reading, listening, and writing passages from the 35th to 96th exams. Common and proper nouns were extracted, and the \u201cModu Corpus\u201d was utilized as a reference corpus to conduct frequency per million words and log-likelihood analyses. To examine the organic relationships and discourse structure within the passages, we performed co-occurrence frequency and semantic network centrality analyses. The results revealed a dual lexical structure where everyday and academic vocabulary coexist, balancing macro-discourses and micro-contexts. Furthermore, the network analysis demonstrated a logical problem-solving structure typical of assessment texts. This study provides foundational data for identifying textuality in Korean language assessments and constructing passages that reflect socio-cultural value systems.",
+    "authors": [
+      {
+        "name": "Boyoung Jung",
+        "orcid": null,
+        "affiliation": null,
+        "country": null,
+        "is_first": true,
+        "is_corresponding": true
+      }
+    ],
+    "year": 2026,
+    "venue": "Language and Information",
+    "issn": "1226-7430",
+    "issns": [
+      "1226-7430"
+    ],
+    "type": "article",
+    "citation_count": 0,
+    "referenced_works_count": 0,
+    "fwci": 0.0,
+    "cited_by_percentile_year": null,
+    "topics": [
+      {
+        "id": "T11587",
+        "name": "Second Language Acquisition and Learning",
+        "score": 0.8179000020027161
+      },
+      {
+        "id": "T10366",
+        "name": "Discourse Analysis in Language Studies",
+        "score": 0.08429999649524689
+      },
+      {
+        "id": "T12881",
+        "name": "linguistics and terminology studies",
+        "score": 0.050599999725818634
+      }
+    ],
+    "keywords": [
+      "TOPIK",
+      "lexical features",
+      "semantic network analysis",
+      "co-occurrence frequency",
+      "word frequency",
+      "discourse structure",
+      "Korean language assessment"
+    ],
+    "sdgs": [
+      {
+        "score": 0.4156000018119812,
+        "display_name": "Quality education",
+        "id": "https://metadata.un.org/sdg/4"
+      }
+    ],
+    "is_oa": false,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.29403/li.30.2.9",
+    "openalex_url": "https://openalex.org/W7212061970",
+    "pdf_url": null,
+    "pmc_url": null,
+    "oa_locations": [],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.3390/languages9020043",
+    "arxiv_id": null,
+    "openalex_id": "W4391252949",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "Semantic Network Development in L2 Spanish and Its Impact on Processing Skills: A Multisession Eye-Tracking Study",
+    "abstract": "The goal of this project was to explore how different types of vocabulary exposure shape the connections formed in the L2 lexicon and how these, in turn, affect L2 language processing. During L2 acquisition, words are often presented in thematic lists (e.g., food), favoring a lexicon organized by shared features (burger-hot dog). However, thematic lists offer only a partial picture of how words interconnect. For example, beer and football do not share any features and do not belong strictly to the same theme (food and sports, respectively); still, they co-occur frequently and are associated in the lexicon. A multisession training study and visual world eye-tracking tests were conducted to assess how different types of vocabulary exposure impact L2 processing. Intermediate L2 Spanish learners were trained under one of two conditions, thematic lists (TL, as in textbooks) or words presented in visual scenes (VS) with vocabulary related by co-occurrence. The VS group showed significant changes in their gaze patterns, resembling the naturalistic exposure baseline group (native speakers), more than the TL group. The results are interpreted in light of the anticipatory processing literature and the strength of representations as a result of naturalistic vs. formal exposure to L2 vocabulary.",
+    "authors": [
+      {
+        "name": "M. Gabriela Puscama",
+        "orcid": "https://orcid.org/0000-0002-9760-9992",
+        "affiliation": "University of Florida",
+        "country": "US",
+        "is_first": true,
+        "is_corresponding": true
+      }
+    ],
+    "year": 2024,
+    "venue": "Languages",
+    "issn": "2226-471X",
+    "issns": [
+      "2226-471X"
+    ],
+    "type": "article",
+    "citation_count": 0,
+    "referenced_works_count": 60,
+    "fwci": 0.0,
+    "cited_by_percentile_year": null,
+    "topics": [
+      {
+        "id": "T11587",
+        "name": "Second Language Acquisition and Learning",
+        "score": 0.8003000020980835
+      },
+      {
+        "id": "T10465",
+        "name": "Neurobiology of Language and Bilingualism",
+        "score": 0.14480000734329224
+      },
+      {
+        "id": "T10103",
+        "name": "Reading and Literacy Development",
+        "score": 0.022199999541044235
+      }
+    ],
+    "keywords": [
+      "semantic networks",
+      "L2 Spanish",
+      "vocabulary exposure",
+      "visual scenes",
+      "co-occurrence",
+      "anticipatory processing",
+      "eye movements",
+      "second language acquisition"
+    ],
+    "sdgs": [],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.3390/languages9020043",
+    "openalex_url": "https://openalex.org/W4391252949",
+    "pdf_url": "https://www.mdpi.com/2226-471X/9/2/43/pdf?version=1706240022",
+    "pmc_url": null,
+    "oa_locations": [
+      "https://www.mdpi.com/2226-471X/9/2/43/pdf?version=1706240022",
+      "https://doaj.org/article/7cd3f0cc68a54187bdf2683d87611e4b"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.29207/resti.v10i2.7250",
+    "arxiv_id": null,
+    "openalex_id": "W7135207620",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "A Novel Framework for Dynamic Semantic Network Analysis with Evolutionary Community Detection Applied to LMS Research",
+    "abstract": "The rapid proliferation of Learning Management Systems (LMS) in K\u201312 education has generated a substantial body of research, yet how its core themes emerge, converge, and transform over time remains insufficiently understood. Existing bibliometric and topic modeling approaches produce static snapshots of the literature, structurally incapable of capturing the dynamic epistemic processes through which research communities form and evolve. This study introduces Dynamic Semantic Network Analysis with Evolutionary Community Detection (DSNA-ECD), a novel computational framework that conceptualizes the K\u201312 LMS research field as a living epistemic system \u2014 a conceptual reframing that constitutes a distinct contribution to the K\u201312 LMS literature beyond prior static approaches. DSNA-ECD integrates three methodologically principled components: transformer-based semantic embeddings via Sentence-BERT (`all-MiniLM-L6-v2`), selected for its capacity to capture latent semantic proximity beyond lexical co-occurrence; a hybrid weighting scheme empirically calibrated to balance structural and semantic network signals; and the Leiden algorithm for community detection, preferred over Louvain for its theoretical guarantee of well-connected partitions and superior modularity optimization. Applied to a two-decade corpus of K\u201312 LMS publications, findings reveal a maturing field progressing from exploratory fragmentation through consolidation toward sophisticated integration of AI-enhanced adaptive systems and learning analytics. Compared to co-citation analysis, LDA topic modeling, and static semantic networks, DSNA-ECD uniquely offers semantic depth, guaranteed community coherence, calibrated hybrid weighting, and full cross-temporal trajectory tracking. Critically, findings reveal urgent underrepresentation of equity, algorithmic transparency, and ethical deployment research as AI-enhanced LMS systems proliferate, with direct implications for researchers, educational technologists, and policymakers.",
+    "authors": [
+      {
+        "name": "Anip Febtriko",
+        "orcid": "https://orcid.org/0000-0003-4170-4250",
+        "affiliation": "State University of Padang",
+        "country": "ID",
+        "is_first": true,
+        "is_corresponding": false
+      },
+      {
+        "name": "Muhammad Giatman",
+        "orcid": "https://orcid.org/0000-0001-5896-9699",
+        "affiliation": "State University of Padang",
+        "country": "ID",
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "Dedy Irfan",
+        "orcid": "https://orcid.org/0000-0002-8441-1178",
+        "affiliation": "State University of Padang",
+        "country": "ID",
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "Syafrijon Syafrijon",
+        "orcid": "https://orcid.org/0009-0003-6417-7278",
+        "affiliation": "State University of Padang",
+        "country": "ID",
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "Tri Rahayuningsih",
+        "orcid": "https://orcid.org/0000-0002-2153-1949",
+        "affiliation": "Andalas University",
+        "country": "ID",
+        "is_first": false,
+        "is_corresponding": false
+      }
+    ],
+    "year": 2026,
+    "venue": "Jurnal RESTI (Rekayasa Sistem dan Teknologi Informasi)",
+    "issn": "2580-0760",
+    "issns": [
+      "2580-0760"
+    ],
+    "type": "article",
+    "citation_count": 0,
+    "referenced_works_count": 0,
+    "fwci": 0.0,
+    "cited_by_percentile_year": null,
+    "topics": [
+      {
+        "id": "T11122",
+        "name": "Online Learning and Analytics",
+        "score": 0.2939000129699707
+      },
+      {
+        "id": "T10102",
+        "name": "scientometrics and bibliometrics research",
+        "score": 0.2809999883174896
+      },
+      {
+        "id": "T10064",
+        "name": "Complex Network Analysis Techniques",
+        "score": 0.08919999748468399
+      }
+    ],
+    "keywords": [
+      "virtual learning environments",
+      "K-12 education",
+      "research field evolution",
+      "learning analytics",
+      "algorithmic transparency",
+      "ethical deployment of AI",
+      "Sentence-BERT embeddings",
+      "Leiden algorithm",
+      "co-citation analysis",
+      "topic modeling"
+    ],
+    "sdgs": [
+      {
+        "score": 0.9235000014305115,
+        "display_name": "Quality education",
+        "id": "https://metadata.un.org/sdg/4"
+      }
+    ],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.29207/resti.v10i2.7250",
+    "openalex_url": "https://openalex.org/W7135207620",
+    "pdf_url": "https://jurnal.iaii.or.id/index.php/RESTI/article/download/7250/1223",
+    "pmc_url": null,
+    "oa_locations": [
+      "https://jurnal.iaii.or.id/index.php/RESTI/article/download/7250/1223",
+      "https://doaj.org/article/210948ab87d742a7bf7d9c8a8f13602f"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.3233/shti250930",
+    "arxiv_id": null,
+    "openalex_id": "W4413040048",
+    "ss_paper_id": null,
+    "pmid": "40775948",
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "Empirical Antonym Implementation in the UMLS SPECIALIST Lexicon",
+    "abstract": "Antonyms are words that have opposite or contrasting meanings in a specific domain. For example, \"increase\" is the opposite of \"decrease\" in the domain of \"quantity\". Antonyms play an important role in NLP applications to improve performance. This paper describes a systematic approach to generate antonyms. We developed five source models using negation rules, derivational morphology, co-occurrences in a corpus and semantic networks. As a result, 13K of canonical antonyms along with their associated features, such as bounded types, canonical domains, and negations are generated. They are released with the SPECIALIST Lexicon 2025 to provide broad coverage of antonyms with comprehensive features needed for NLP applications. Finally, analyses on antonym sources, canonicity, Part-of-Speech, domains and usage of types and negation are reported.",
+    "authors": [
+      {
+        "name": "Chris J. Lu",
+        "orcid": "https://orcid.org/0009-0003-3703-8344",
+        "affiliation": "United States National Library of Medicine",
+        "country": "US",
+        "is_first": true,
+        "is_corresponding": false
+      },
+      {
+        "name": "Amanda Payne",
+        "orcid": null,
+        "affiliation": "United States National Library of Medicine",
+        "country": "US",
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "James G. Mork",
+        "orcid": "https://orcid.org/0000-0002-0346-1350",
+        "affiliation": "United States National Library of Medicine",
+        "country": "US",
+        "is_first": false,
+        "is_corresponding": false
+      }
+    ],
+    "year": 2025,
+    "venue": "Studies in health technology and informatics",
+    "issn": "0926-9630",
+    "issns": [
+      "0926-9630",
+      "1879-8365"
+    ],
+    "type": "book-chapter",
+    "citation_count": 0,
+    "referenced_works_count": 0,
+    "fwci": 0.0,
+    "cited_by_percentile_year": null,
+    "topics": [
+      {
+        "id": "T11710",
+        "name": "Biomedical Text Mining and Ontologies",
+        "score": 0.7294999957084656
+      },
+      {
+        "id": "T10181",
+        "name": "Natural Language Processing Techniques",
+        "score": 0.25760000944137573
+      },
+      {
+        "id": "T12881",
+        "name": "linguistics and terminology studies",
+        "score": 0.0044999998062849045
+      }
+    ],
+    "keywords": [
+      "antonymy",
+      "negation",
+      "derivational morphology",
+      "co-occurrence",
+      "semantic networks",
+      "lexical resources",
+      "parts of speech"
+    ],
+    "sdgs": [],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.3233/shti250930",
+    "openalex_url": "https://openalex.org/W4413040048",
+    "pdf_url": "https://doi.org/10.3233/shti250930",
+    "pmc_url": null,
+    "oa_locations": [
+      "https://doi.org/10.3233/shti250930"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.7233/jksc.2026.76.3.066",
+    "arxiv_id": null,
+    "openalex_id": "W7167681417",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "Analyzing Changes in the Knowledge Structure of Hanbok Research over the Last Decade : Focusing on Semantic Network Analysis",
+    "abstract": "This study aims to empirically investigate the structural evolution and knowledge transition of Hanbok discourse by conductingasemanticnetworkanalysison the titles and keywords of 359 research papers published in Korean academic journals over the past decade (2015\u20132025),exploring basic statistics, word frequencies, and keyword co-occurrence networks. The analysis revealed that the landscape of Hanbok research can be categorized into three core themes: Historical-Traditional (HT), Design-Development (DD), and Modern-Applied (MA). The HT theme, with keywords suchas \u2018Joseon\u2019, \u2018Dynasty\u2019, and \u2018Excavated\u2019, forms the academic foundation that supports the identity of Hanbok research through historical verification, while in the DD theme, the keywords \u2018Design\u2019 and \u2018Development\u2019 recorded the highest degree of centrality, serving as pivotal mediators in the process of transferring historical assets into modern values. Finally, the MA theme\u2014represented by \u20183D\u2019, \u2018Digital\u2019, and \u2018New Hanbok\u2019\u2014demonstrates the expansion of Hanbok into digital fashion and high-value cultural content industries. This study is significant in proving Hanbok research is expanding its scope beyond the traditional humanities paradigm by focusing on historical costume verification through convergence with design engineering and digital technology. Furthermore, it provides fundamental data for the future diversification of the Hanbok industry and the establishment of new research methodologies. In particular, the structural disconnect identified between the HT and MA clusters suggests that future research should prioritize building an organic knowledge pipeline from historical verification and digital archiving to industrial application, including the development of optimized 3D algorithm channels that reflect the unique physical properties of traditional Hanbok textiles, in proactive response to the emerging AI-based paradigm shift.",
+    "authors": [
+      {
+        "name": "\uc2e0\ubbf8\ub77c",
+        "orcid": null,
+        "affiliation": null,
+        "country": null,
+        "is_first": true,
+        "is_corresponding": false
+      },
+      {
+        "name": "Jee-Hyun Lee",
+        "orcid": null,
+        "affiliation": null,
+        "country": null,
+        "is_first": false,
+        "is_corresponding": false
+      }
+    ],
+    "year": 2026,
+    "venue": "The Korean Society of Costume",
+    "issn": "1229-6880",
+    "issns": [
+      "1229-6880",
+      "2287-7827"
+    ],
+    "type": "article",
+    "citation_count": 0,
+    "referenced_works_count": 31,
+    "fwci": 0.0,
+    "cited_by_percentile_year": null,
+    "topics": [
+      {
+        "id": "T12514",
+        "name": "Fashion and Cultural Textiles",
+        "score": 0.8047000169754028
+      },
+      {
+        "id": "T13413",
+        "name": "Cultural and Historical Studies",
+        "score": 0.1679999977350235
+      },
+      {
+        "id": "T13751",
+        "name": "Diverse Approaches in Healthcare and Education Studies",
+        "score": 0.008200000040233135
+      }
+    ],
+    "keywords": [
+      "hanbok",
+      "research trends",
+      "traditional costume design",
+      "digital fashion",
+      "3D garment design",
+      "Joseon dynasty",
+      "keyword co-occurrence"
+    ],
+    "sdgs": [],
+    "is_oa": false,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.7233/jksc.2026.76.3.066",
+    "openalex_url": "https://openalex.org/W7167681417",
+    "pdf_url": null,
+    "pmc_url": null,
+    "oa_locations": [],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "openalex_id": "W2385202937",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "Project keyword lexicon and keyword semantic network based on word co-occurrence matrix",
+    "abstract": "In order to solve the problems of keyword extraction and project keyword lexicon establishment of technological projects in professional fields, an algorithm for building the lexicon based on semantic relation and co-occurrence matrix was proposed. On the basis of conventional keyword extraction research based on co-occurrence matrix, the algorithm considered several advanced factors such as the location, property and Inverse Document Frequency( IDF) index of the keywords to improve the traditional approach. Meanwhile, a method was given for the establishment of keyword semantic network using cooccurrence matrix and hot keyword identification through computing the similarity with semantic base vector. At last, 882 project experiment documents in power field were used to perform the simulation. And the experimental results show that the proposed algorithm can effectively extract the keywords for the technological projects, establish the keyword correlation network, and has better performance in precision, recall rate and F1-score than the keyword extraction algorithm of Chinese text based on multi-feature fusion.",
+    "authors": [
+      {
+        "name": "Qin Wang",
+        "orcid": "https://orcid.org/0000-0003-3601-2540",
+        "affiliation": "State Grid Corporation of China (China)",
+        "country": "CN",
+        "is_first": true,
+        "is_corresponding": true
+      }
+    ],
+    "year": 2015,
+    "venue": "Journal of Computer Applications",
+    "issn": "1001-9081",
+    "issns": [
+      "1001-9081"
+    ],
+    "type": "article",
+    "citation_count": 3,
+    "referenced_works_count": 0,
+    "fwci": 0.0,
+    "cited_by_percentile_year": 95,
+    "topics": [
+      {
+        "id": "T13083",
+        "name": "Advanced Text Analysis Techniques",
+        "score": 1.0
+      },
+      {
+        "id": "T10028",
+        "name": "Topic Modeling",
+        "score": 0.0
+      },
+      {
+        "id": "T11550",
+        "name": "Text and Document Classification Technologies",
+        "score": 0.0
+      }
+    ],
+    "keywords": [
+      "keyword extraction",
+      "inverse document frequency",
+      "semantic similarity",
+      "technology projects",
+      "electric utilities",
+      "Chinese text"
+    ],
+    "sdgs": [
+      {
+        "id": "https://metadata.un.org/sdg/9",
+        "display_name": "Industry, innovation and infrastructure",
+        "score": 0.4943999946117401
+      }
+    ],
+    "is_oa": false,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": null,
+    "openalex_url": "https://openalex.org/W2385202937",
+    "pdf_url": null,
+    "pmc_url": null,
+    "oa_locations": [],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.23108/decrc.2026.8.1.201",
+    "arxiv_id": null,
+    "openalex_id": "W7151072881",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "Semantic Network Analysis of Discourse on Rural School Excellence : Focusing on the \u201cGood Rural Schools\u201d Casebook (2020\u20132024)",
+    "abstract": "Purpose: This study analyzes the semantic structure of \u201cgood school\u201d discourse in rural education policy using exemplary school narratives, examining how discourses of \u201cexcellence\u201d and \u201cpossibility\u201d are constructed against efficiency-oriented consolidation frames. Method: Semantic network analysis was applied to the \u201cGood Rural Schools\u201d Best Practice Casebooks (2020\u20132024), using TF/TF-IDF weighting, co-occurrence-based network construction, centrality analyses, and ego-network analyses on six core keywords: school, village, program, teacher, student, and parent. Result: \u201cSchool\u201d served as the primary central node, with \u201cvillage,\u201d \u201cprogram,\u201d and \u201cstudent\u201d forming the principal axes; ego-network analyses showed key educational actors embedded in relational configurations integrating community, practice, and outcomes. Conclusion: The \u201cgood school\u201d discourse, distinct from consolidation discourse, frames rural schooling as an educational community that fosters local connections through program-based practice, legitimizing \u201cstudent growth\u201d as a core educational value.",
+    "authors": [
+      {
+        "name": "Kwan-Kyeong Kwak",
+        "orcid": null,
+        "affiliation": null,
+        "country": null,
+        "is_first": true,
+        "is_corresponding": false
+      },
+      {
+        "name": "Seung-Jae Kim",
+        "orcid": null,
+        "affiliation": null,
+        "country": null,
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "Joon Heo",
+        "orcid": null,
+        "affiliation": null,
+        "country": null,
+        "is_first": false,
+        "is_corresponding": false
+      }
+    ],
+    "year": 2026,
+    "venue": null,
+    "issn": null,
+    "issns": [],
+    "type": "article",
+    "citation_count": 0,
+    "referenced_works_count": 0,
+    "fwci": 0.0,
+    "cited_by_percentile_year": null,
+    "topics": [
+      {
+        "id": "T14033",
+        "name": "Education in Rural Contexts",
+        "score": 0.9990000128746033
+      },
+      {
+        "id": "T11300",
+        "name": "Global Educational Policies and Reforms",
+        "score": 0.0005000000237487257
+      },
+      {
+        "id": "T14007",
+        "name": "Indigenous and Place-Based Education",
+        "score": 9.999999747378752e-05
+      }
+    ],
+    "keywords": [
+      "rural education policy",
+      "school-community relations",
+      "student development",
+      "educational actors",
+      "semantic network analysis",
+      "rural schools"
+    ],
+    "sdgs": [
+      {
+        "score": 0.9235000014305115,
+        "display_name": "Quality education",
+        "id": "https://metadata.un.org/sdg/4"
+      }
+    ],
+    "is_oa": false,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.23108/decrc.2026.8.1.201",
+    "openalex_url": "https://openalex.org/W7151072881",
+    "pdf_url": null,
+    "pmc_url": null,
+    "oa_locations": [],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "openalex_id": "W13231617",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "Towards a Unified Model of Language Acquisition",
+    "abstract": "In this theoretical paper, we first review and rebut standard criticisms against distributional approaches to language acquisition. We then present two closely-related models that use distributional analysis. The first deals with the acquisition of vocabulary, the second with grammatical development. We show how these two models can be combined with a semantic network grown using Hebbian learning, and briefly illustrate the advantages of this combination. An important feature of this hybrid system is that it combines two different types of distributional learning, the first based on order, and the second based on co-occurrences within a context.",
+    "authors": [
+      {
+        "name": "Fernand R. Gobet",
+        "orcid": "https://orcid.org/0000-0002-9317-6886",
+        "affiliation": "Brunel University of London",
+        "country": "GB",
+        "is_first": true,
+        "is_corresponding": false
+      },
+      {
+        "name": "Juli\u00e1n M. Pine",
+        "orcid": "https://orcid.org/0000-0002-7077-9713",
+        "affiliation": null,
+        "country": null,
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "Daniel T Freudenthal",
+        "orcid": "https://orcid.org/0000-0003-3915-9484",
+        "affiliation": null,
+        "country": null,
+        "is_first": false,
+        "is_corresponding": false
+      }
+    ],
+    "year": 2007,
+    "venue": "Brunel University Research Archive (BURA) (Brunel University London)",
+    "issn": null,
+    "issns": [],
+    "type": "article",
+    "citation_count": 2,
+    "referenced_works_count": 20,
+    "fwci": 0.0,
+    "cited_by_percentile_year": 94,
+    "topics": [
+      {
+        "id": "T10730",
+        "name": "Language Development and Disorders",
+        "score": 0.9384999871253967
+      },
+      {
+        "id": "T10181",
+        "name": "Natural Language Processing Techniques",
+        "score": 0.02889999933540821
+      },
+      {
+        "id": "T12694",
+        "name": "Categorization, perception, and language",
+        "score": 0.006399999838322401
+      }
+    ],
+    "keywords": [
+      "language acquisition",
+      "distributional learning",
+      "vocabulary acquisition",
+      "grammatical development",
+      "semantic networks",
+      "Hebbian learning",
+      "co-occurrence"
+    ],
+    "sdgs": [
+      {
+        "id": "https://metadata.un.org/sdg/4",
+        "display_name": "Quality education",
+        "score": 0.5314000248908997
+      }
+    ],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": null,
+    "openalex_url": "https://openalex.org/W13231617",
+    "pdf_url": "http://bura.brunel.ac.uk/handle/2438/694",
+    "pmc_url": null,
+    "oa_locations": [
+      "http://bura.brunel.ac.uk/handle/2438/694"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.52616/jccer.2025.10.2.10",
+    "arxiv_id": null,
+    "openalex_id": "W7118784229",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "Corpus-Based Exploration of Teacher Agency Discourses",
+    "abstract": "The purpose of this study is to empirically examine how teacher agency is represented through linguistic patterns and semantic structures within educational discourses. To this end, a corpus of 2,335 English-language texts\u2014including academic articles, national education policy documents, and reports from international organizations published between 2000 and 2025\u2014was compiled and analyzed using corpus-based semantic techniques to investigate word co-occurrence relationships and community structures. The analysis identified four major thematic clusters shaping discourses on teacher agency. First, the \u201cTeacher Professionalism and Identity\u201d cluster highlights teachers\u2019 professional growth and the development of autonomous identities through reflective practice and experiential learning. Second, the \u201cEducational Policy and Systems\u201d cluster illustrates teachers\u2019 transformative roles in reconstructing institutional and curricular frameworks as agents of pedagogical change. Third, the \u201cTeachers\u2019 Experience and Perception\u201d cluster demonstrates that teachers\u2019 emotions, experiences, and perceptions form the psychological foundations of agency. Fourth, the \u201cTeacher Leadership and Support\u201d cluster shows that teacher agency is reinforced through relational leadership grounded in trust, collaboration, and collective efficacy. Taken together, these findings indicate that teacher agency is an ecological construct shaped by the interplay of personal, structural, relational, and affective dimensions. This study contributes to the field by systematically organizing the multifaceted concept of teacher agency and by visualizing its semantic networks across academic, policy, and international discourses through a corpus-driven analytical approach.",
+    "authors": [
+      {
+        "name": "Hanol Choi",
+        "orcid": null,
+        "affiliation": null,
+        "country": null,
+        "is_first": true,
+        "is_corresponding": false
+      },
+      {
+        "name": "Jinho Han",
+        "orcid": null,
+        "affiliation": null,
+        "country": null,
+        "is_first": false,
+        "is_corresponding": false
+      }
+    ],
+    "year": 2025,
+    "venue": "The Korea Association for Care Competency Education",
+    "issn": "2508-9064",
+    "issns": [
+      "2508-9064"
+    ],
+    "type": "article",
+    "citation_count": 0,
+    "referenced_works_count": 0,
+    "fwci": 0.0,
+    "cited_by_percentile_year": null,
+    "topics": [
+      {
+        "id": "T10008",
+        "name": "Teacher Education and Leadership Studies",
+        "score": 0.9976000189781189
+      },
+      {
+        "id": "T14483",
+        "name": "Education and Teacher Training",
+        "score": 0.00039999998989515007
+      },
+      {
+        "id": "T12952",
+        "name": "School Leadership and Teacher Performance",
+        "score": 0.00019999999494757503
+      }
+    ],
+    "keywords": [
+      "teacher agency",
+      "educational discourse",
+      "teacher professionalism",
+      "teacher identity",
+      "reflective practice",
+      "education policy",
+      "teacher leadership",
+      "collective efficacy",
+      "word co-occurrence",
+      "semantic networks"
+    ],
+    "sdgs": [
+      {
+        "score": 0.975600004196167,
+        "display_name": "Quality education",
+        "id": "https://metadata.un.org/sdg/4"
+      }
+    ],
+    "is_oa": false,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.52616/jccer.2025.10.2.10",
+    "openalex_url": "https://openalex.org/W7118784229",
+    "pdf_url": null,
+    "pmc_url": null,
+    "oa_locations": [],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "openalex_id": "W2234251016",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "Keyword Analysis on ADAS Technology using Co-occurrence based Semantic Network",
+    "abstract": null,
+    "authors": [
+      {
+        "name": "Jeong Rim Oh",
+        "orcid": null,
+        "affiliation": null,
+        "country": null,
+        "is_first": true,
+        "is_corresponding": false
+      },
+      {
+        "name": "Ji Hyoun Lim",
+        "orcid": "https://orcid.org/0000-0003-1982-9284",
+        "affiliation": null,
+        "country": null,
+        "is_first": false,
+        "is_corresponding": false
+      }
+    ],
+    "year": 2015,
+    "venue": "\ub300\ud55c\uc0b0\uc5c5\uacf5\ud559\ud68c \ucd98\uacc4\uacf5\ub3d9\ud559\uc220\ub300\ud68c \ub17c\ubb38\uc9d1",
+    "issn": null,
+    "issns": [],
+    "type": "article",
+    "citation_count": 0,
+    "referenced_works_count": 0,
+    "fwci": 0.0,
+    "cited_by_percentile_year": null,
+    "topics": [
+      {
+        "id": "T11099",
+        "name": "Autonomous Vehicle Technology and Safety",
+        "score": 0.271699994802475
+      },
+      {
+        "id": "T10102",
+        "name": "scientometrics and bibliometrics research",
+        "score": 0.1931000053882599
+      },
+      {
+        "id": "T13083",
+        "name": "Advanced Text Analysis Techniques",
+        "score": 0.13779999315738678
+      }
+    ],
+    "keywords": [
+      "ADAS",
+      "driver assistance systems",
+      "keyword analysis",
+      "co-occurrence analysis",
+      "semantic networks",
+      "technology trends"
+    ],
+    "sdgs": [],
+    "is_oa": false,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": null,
+    "openalex_url": "https://openalex.org/W2234251016",
+    "pdf_url": null,
+    "pmc_url": null,
+    "oa_locations": [],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.20878/cshr.2026.32.2.011",
+    "arxiv_id": null,
+    "openalex_id": "W7134822333",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "Disentangling Guest Satisfaction in a Hotel Chain: Frequency Patterns and Semantic Networks in Online Reviews from Cinnamon Hotels in Sri Lanka",
+    "abstract": "Guest satisfaction is a critical performance indicator in the hotel industry; however, existing research in Sri Lanka has predominantly emphasized internal operational practices and staff perspectives, offering limited insight into guests\u2019 lived experiences. Addressing this gap, the present study investigates guest satisfaction at Cinnamon Hotels in Sri Lanka through a large-scale analysis of online customer reviews. Drawing on electronic word-of-mouth (eWOM) data, a total of 23,350 Google Reviews from 11 Cinnamon Hotels were collected and analyzed to capture authentic and unsolicited guest evaluations. A text mining approach was employed, combining word frequency analysis with semantic network analysis to identify both dominant attributes and their relational meaning structures within guest narratives. Following rigorous data preprocessing in the R programming environment, high frequency keywords were extracted and transformed into a co-occurrence network, which was subsequently analyzed using CONCOR analysis in UCINET. The results reveal four distinct yet interconnected dimensions of guest satisfaction: Location, Gastronomic Experience, Service Interaction, and Holistic Stay Experience. Among these, food and beverage experiences and interpersonal service interactions emerged as particularly central in structuring guests\u2019 overall evaluations. By moving beyond isolated word counts to uncover the semantic organization of guest experiences, this study contributes a guest centric, data-driven perspective to hospitality literature from an underexplored South Asian context. The findings offer practical insights for hotel managers seeking to enhance experiential quality and strengthen customer satisfaction through targeted service strategies.",
+    "authors": [
+      {
+        "name": "Rathnayake Mudiyanselage Wathsala Chathurangani Rathnayake",
+        "orcid": null,
+        "affiliation": null,
+        "country": null,
+        "is_first": true,
+        "is_corresponding": false
+      },
+      {
+        "name": "Hyun-Jeong Ban",
+        "orcid": "https://orcid.org/0000-0003-2168-6868",
+        "affiliation": null,
+        "country": null,
+        "is_first": false,
+        "is_corresponding": false
+      }
+    ],
+    "year": 2026,
+    "venue": "Culinary Science & Hospitality Research",
+    "issn": "2466-0752",
+    "issns": [
+      "2466-0752",
+      "2466-1023"
+    ],
+    "type": "article",
+    "citation_count": 1,
+    "referenced_works_count": 0,
+    "fwci": 10.4825,
+    "cited_by_percentile_year": 96,
+    "topics": [
+      {
+        "id": "T10154",
+        "name": "Customer Service Quality and Loyalty",
+        "score": 0.5562000274658203
+      },
+      {
+        "id": "T10609",
+        "name": "Digital Marketing and Social Media",
+        "score": 0.3734999895095825
+      },
+      {
+        "id": "T10055",
+        "name": "Diverse Aspects of Tourism Research",
+        "score": 0.04430000111460686
+      }
+    ],
+    "keywords": [
+      "guest satisfaction",
+      "hotel industry",
+      "online customer reviews",
+      "Google reviews",
+      "electronic word of mouth",
+      "semantic networks",
+      "word frequency analysis",
+      "co-occurrence networks",
+      "service interaction",
+      "hotel location"
+    ],
+    "sdgs": [],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.20878/cshr.2026.32.2.011",
+    "openalex_url": "https://openalex.org/W7134822333",
+    "pdf_url": "https://doi.org/10.20878/cshr.2026.32.2.011",
+    "pmc_url": null,
+    "oa_locations": [
+      "https://doi.org/10.20878/cshr.2026.32.2.011"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.31219/osf.io/yduj8",
+    "arxiv_id": null,
+    "openalex_id": "W2949961519",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "Word Space Creator: A Visual Tool for Semantic Space Visualization",
+    "abstract": "Semantic spaces are used as a representation of language, capturing the meaning between linguistic units. These spaces are often built in large corpora requiring advanced equipment, specialized computational skills, and considerable effort. This project note will introduce and demonstrate the use of an accessible Shiny graphical interface allowing users to create semantic space models easily. Shiny is an R package in which one can program interactive web applications in R for others to interact with data or analyses. The advantage to Shiny applications is that na\u00efve users can explore data without understanding the programming, and open sharing of code with the application can aid in learning the programming for one\u2019s own use in their research. Within the application, users will be able to load popular semantic spaces or their own corpus for semantic space creation utilizing their preferred modeling technique, including LSA and TOPICS. A variety of user-friendly graphical tools, such as n-nearest neighbors or topic weighted graph, will further aid data visualization of the semantic network. Additionally, the application provides the calculation of cosine or simple co-occurrence, among other popular-relatedness values. This tool is intended for researchers who may not be programming-savvy, or as a teaching extension for psycholinguistics courses.",
+    "authors": [
+      {
+        "name": "Erin Michelle Buchanan",
+        "orcid": "https://orcid.org/0000-0002-9689-4189",
+        "affiliation": null,
+        "country": null,
+        "is_first": true,
+        "is_corresponding": false
+      },
+      {
+        "name": "Amber Gillenwaters",
+        "orcid": "https://orcid.org/0000-0002-7580-3591",
+        "affiliation": null,
+        "country": null,
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "William Edward Padfield",
+        "orcid": "https://orcid.org/0000-0003-1662-6895",
+        "affiliation": null,
+        "country": null,
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "Abigail Van Nuland",
+        "orcid": null,
+        "affiliation": null,
+        "country": null,
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "Ari Cunningham Wynn",
+        "orcid": null,
+        "affiliation": null,
+        "country": null,
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "Addie (Wikowsky) Clark",
+        "orcid": null,
+        "affiliation": null,
+        "country": null,
+        "is_first": false,
+        "is_corresponding": false
+      }
+    ],
+    "year": 2019,
+    "venue": null,
+    "issn": null,
+    "issns": [],
+    "type": "preprint",
+    "citation_count": 0,
+    "referenced_works_count": 0,
+    "fwci": null,
+    "cited_by_percentile_year": null,
+    "topics": [
+      {
+        "id": "T13910",
+        "name": "Computational and Text Analysis Methods",
+        "score": 0.6083999872207642
+      },
+      {
+        "id": "T12694",
+        "name": "Categorization, perception, and language",
+        "score": 0.07970000058412552
+      },
+      {
+        "id": "T10799",
+        "name": "Data Visualization and Analytics",
+        "score": 0.054999999701976776
+      }
+    ],
+    "keywords": [
+      "semantic networks",
+      "Shiny app",
+      "interactive data visualization",
+      "latent semantic analysis",
+      "topic modeling",
+      "nearest neighbors",
+      "word relatedness",
+      "co-occurrence"
+    ],
+    "sdgs": [],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.31219/osf.io/yduj8",
+    "openalex_url": "https://openalex.org/W2949961519",
+    "pdf_url": "https://doi.org/10.31219/osf.io/yduj8",
+    "pmc_url": null,
+    "oa_locations": [
+      "https://doi.org/10.31219/osf.io/yduj8",
+      "https://osf.io/yduj8",
+      "https://osf.io/kgn87"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.51979/kssls.2024.10.98.49",
+    "arxiv_id": null,
+    "openalex_id": "W4404778887",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "Research Trends in Participation Sports Using Content Analysis and Semantic Network Analysis",
+    "abstract": "Purpose: The purpose of this study is to analyze research trends related to service quality and customer satisfaction within the participation sports sector. Method: In this study, frequency analysis and cross-analysis were performed using SPSS version 29.0 to examine 116 domestic journal articles on sports. Additionally, a content analysis was conducted to investigate the distribution of articles by year of publication, journal, author demographics, sports disciplines, statistical methods, sampling techniques, and sample sizes. Text frequency analysis, semantic network analysis, and word cloud visualization were conducted using Python programming. Results: The results of this study are as follows. First, the distribution of published articles across various journals indicated a predominant presence in the Korean Society of Sports Science, followed by the Korean Society of Sport for All and the Korean Journal of Physical Education. On average, five articles were published annually over the past two decades, with a peak of 14 articles in 2011 and a decline to one article each in 2013 and 2018. The most common authorship type was dual co-authorship. Structural equation modeling emerged as the primary statistical method, and convenience sampling was the most frequently used. The sample size typically ranged from 200 to 299 participants, with golf identified as the most extensively researched sport. Second, among 115 core keywords, \u2018intention\u2019 appeared most frequently, with 112 occurrences. In the centrality analysis, the terms exhibiting high closeness and degree centrality included \u2018usage\u2019, \u2018target\u2019, \u2018facilities\u2019, \u2018provision\u2019, and \u2018intention\u2019. Meanwhile, the terms with high betweenness centrality were \u2018usage\u2019, \u2018target\u2019, \u2018intention\u2019, \u2018facilities\u2019, and \u2018golf\u2019. Conclusion: These findings suggest that future studies should broaden their scope to investigate consumer behavior across a more diverse range of sports and incorporate interdisciplinary approaches. This expansion could significantly enhance the qualitative growth and development of the participation sports sector.",
+    "authors": [
+      {
+        "name": "Chae-won Ha",
+        "orcid": null,
+        "affiliation": null,
+        "country": null,
+        "is_first": true,
+        "is_corresponding": false
+      },
+      {
+        "name": "Kwang Ho Lee",
+        "orcid": "https://orcid.org/0000-0001-8366-0669",
+        "affiliation": null,
+        "country": null,
+        "is_first": false,
+        "is_corresponding": false
+      }
+    ],
+    "year": 2024,
+    "venue": "Journal of Sport and Leisure Studies",
+    "issn": "1229-358X",
+    "issns": [
+      "1229-358X",
+      "2733-9114"
+    ],
+    "type": "article",
+    "citation_count": 0,
+    "referenced_works_count": 0,
+    "fwci": 0.0,
+    "cited_by_percentile_year": null,
+    "topics": [
+      {
+        "id": "T13296",
+        "name": "Physical Education and Sports Studies",
+        "score": 0.350600004196167
+      },
+      {
+        "id": "T13488",
+        "name": "Sports and Physical Education Studies",
+        "score": 0.2159000039100647
+      },
+      {
+        "id": "T13751",
+        "name": "Diverse Approaches in Healthcare and Education Studies",
+        "score": 0.07810000330209732
+      }
+    ],
+    "keywords": [
+      "service quality",
+      "customer satisfaction",
+      "research trends",
+      "sports facilities",
+      "consumer behavior",
+      "golf"
+    ],
+    "sdgs": [],
+    "is_oa": false,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.51979/kssls.2024.10.98.49",
+    "openalex_url": "https://openalex.org/W4404778887",
+    "pdf_url": null,
+    "pmc_url": null,
+    "oa_locations": [],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.1016/b978-0-12-817756-3.00008-x",
+    "arxiv_id": null,
+    "openalex_id": "W4244912788",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "Semantic networks",
+    "abstract": null,
+    "authors": [
+      {
+        "name": "Derek L. Hansen",
+        "orcid": "https://orcid.org/0000-0002-9645-3279",
+        "affiliation": null,
+        "country": null,
+        "is_first": true,
+        "is_corresponding": false
+      },
+      {
+        "name": "Ben Shneiderman",
+        "orcid": "https://orcid.org/0000-0002-8298-1097",
+        "affiliation": null,
+        "country": null,
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "Marc A. Smith",
+        "orcid": "https://orcid.org/0000-0002-1221-2620",
+        "affiliation": null,
+        "country": null,
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "Itai Himelboim",
+        "orcid": "https://orcid.org/0000-0001-7981-5613",
+        "affiliation": null,
+        "country": null,
+        "is_first": false,
+        "is_corresponding": false
+      }
+    ],
+    "year": 2019,
+    "venue": "Elsevier eBooks",
+    "issn": null,
+    "issns": [],
+    "type": "book-chapter",
+    "citation_count": 3,
+    "referenced_works_count": 13,
+    "fwci": 0.6389,
+    "cited_by_percentile_year": 94,
+    "topics": [
+      {
+        "id": "T10664",
+        "name": "Sentiment Analysis and Opinion Mining",
+        "score": 0.5062999725341797
+      },
+      {
+        "id": "T11121",
+        "name": "Public Relations and Crisis Communication",
+        "score": 0.1477999985218048
+      },
+      {
+        "id": "T13910",
+        "name": "Computational and Text Analysis Methods",
+        "score": 0.12489999830722809
+      }
+    ],
+    "keywords": [
+      "semantic networks",
+      "co-word analysis",
+      "social media text",
+      "brand meaning",
+      "public relations",
+      "anti-vaxxers",
+      "Twitter",
+      "controlled vocabulary",
+      "network clustering",
+      "NodeXL"
+    ],
+    "sdgs": [],
+    "is_oa": false,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.1016/b978-0-12-817756-3.00008-x",
+    "openalex_url": "https://openalex.org/W4244912788",
+    "pdf_url": null,
+    "pmc_url": null,
+    "oa_locations": [],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.24152/ncle.2025.3.29.1.33",
+    "arxiv_id": null,
+    "openalex_id": "W4409373846",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "Landscape of Academic Discourse in Nineteenth Century Literature in English: A Semantic Network Analysis of Titles, 1998-2023",
+    "abstract": "This paper attempts to identify the academic discourse landscape of the journal Nineteenth Century Literature in English by analyzing the co-occurrence network of article titles. As a result, \u2018woman\u2019 and \u2018novel\u2019 (in Korean) were identified as the most dominant keyword pair over the entire period of the journal\u2019s 26-year existence. However, network analysis does not reveal the process of formation and change of such discussions. To compensate for these weaknesses, we tried a new method of time-series analysis. Instead of arbitrarily dividing the periods, we identified changes in the topic within the data and found turning points. To do this, we used a modularity analysis of the network and calculated the annual distribution of clusters. We found that the turning point was in 2008, when the number of English-language articles increased, and in 2018, when the scale of publication began to shrink. As a result, we were able to obtain a network for each of the three periods: the formation, development, and transformation of the academic discussion. The academic discussion of Nineteenth Century Literature in English is shown to have initially formed around the study of Romantic poetry, but soon gave way to the study of novels about and by women. The pair \u2018woman\u2019 and \u2018novel\u2019 is still dominant, but since 2018 the frequency of \u2018novel\u2019 has declined, and even \u2018woman\u2019 has given way to \u2018narrative,\u2019 which has surged as a new hub. The centrality calculation made it possible to make these discoveries. Overall, studies of major authors have declined, while those of works in variety have developed, and the tendencies to explore political, social, and cultural contexts have recently converged into new historicist and postcolonial approaches.",
+    "authors": [
+      {
+        "name": "Yongsoo Kim",
+        "orcid": null,
+        "affiliation": null,
+        "country": null,
+        "is_first": true,
+        "is_corresponding": false
+      },
+      {
+        "name": "Misun Yun",
+        "orcid": "https://orcid.org/0009-0006-8511-8965",
+        "affiliation": null,
+        "country": null,
+        "is_first": false,
+        "is_corresponding": false
+      }
+    ],
+    "year": 2025,
+    "venue": "19\uc138\uae30 \uc601\uc5b4\uad8c \ubb38\ud559",
+    "issn": "1598-3269",
+    "issns": [
+      "1598-3269"
+    ],
+    "type": "article",
+    "citation_count": 0,
+    "referenced_works_count": 0,
+    "fwci": 0.0,
+    "cited_by_percentile_year": null,
+    "topics": [
+      {
+        "id": "T12377",
+        "name": "Digital Humanities and Scholarship",
+        "score": 0.5839999914169312
+      },
+      {
+        "id": "T10102",
+        "name": "scientometrics and bibliometrics research",
+        "score": 0.2971000075340271
+      },
+      {
+        "id": "T13751",
+        "name": "Diverse Approaches in Healthcare and Education Studies",
+        "score": 0.03269999846816063
+      }
+    ],
+    "keywords": [
+      "academic discourse",
+      "co-occurrence networks",
+      "article titles",
+      "topic shift",
+      "turning points",
+      "Romantic poetry",
+      "women's fiction",
+      "narrative",
+      "New Historicism",
+      "postcolonialism"
+    ],
+    "sdgs": [],
+    "is_oa": false,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.24152/ncle.2025.3.29.1.33",
+    "openalex_url": "https://openalex.org/W4409373846",
+    "pdf_url": null,
+    "pmc_url": null,
+    "oa_locations": [],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.1016/0898-1221(92)90135-5",
+    "arxiv_id": null,
+    "openalex_id": "W4211084664",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "Semantic networks",
+    "abstract": "A semantic network is a graph of the structure of meaning. This article introduces semantic network systems and their importance in Artificial Intelligence, followed by I. the early background; II. a summary of the basic ideas and issues including link types, frame systems, case relations, link valence, abstraction, inheritance hierarchies and logic extensions; and III. a survey of \u2018world-structuring\u2019 systems including ontologies, causal link models, continuous models, relevance, formal dictionaries, semantic primitives and intersecting inference hierarchies. Speed and practical implementation are briefly discussed. The conclusion argues for a synthesis of relational graph theory, graph-grammar theory and order theory based on semantic primitives and multiple intersecting inference hierarchies.",
+    "authors": [
+      {
+        "name": "Fritz L\u0117hmann",
+        "orcid": "https://orcid.org/0009-0005-5390-661X",
+        "affiliation": null,
+        "country": null,
+        "is_first": true,
+        "is_corresponding": true
+      }
+    ],
+    "year": 1992,
+    "venue": "Computers & Mathematics with Applications",
+    "issn": "0898-1221",
+    "issns": [
+      "0898-1221",
+      "1873-7668"
+    ],
+    "type": "article",
+    "citation_count": 97,
+    "referenced_works_count": 196,
+    "fwci": 1.7878,
+    "cited_by_percentile_year": 99,
+    "topics": [
+      {
+        "id": "T10215",
+        "name": "Semantic Web and Ontologies",
+        "score": 0.6875
+      },
+      {
+        "id": "T11010",
+        "name": "Logic, Reasoning, and Knowledge",
+        "score": 0.21199999749660492
+      },
+      {
+        "id": "T13062",
+        "name": "Cognitive Computing and Networks",
+        "score": 0.04830000177025795
+      }
+    ],
+    "keywords": [
+      "semantic networks",
+      "knowledge representation",
+      "frame systems",
+      "case relations",
+      "class hierarchy",
+      "ontology (information science)",
+      "relevance",
+      "semantic primitives",
+      "graph grammars",
+      "order theory"
+    ],
+    "sdgs": [],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.1016/0898-1221(92)90135-5",
+    "openalex_url": "https://openalex.org/W4211084664",
+    "pdf_url": "https://www.sciencedirect.com/science/article/pii/0898122192901355/pdf",
+    "pmc_url": null,
+    "oa_locations": [
+      "https://www.sciencedirect.com/science/article/pii/0898122192901355/pdf"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.22251/jlcci.2025.25.6.757",
+    "arxiv_id": null,
+    "openalex_id": "W4409251698",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "Semantic network and topic modeling analysis of children's rights research using big data: from 2000 to 2024",
+    "abstract": "Objectives By examining research trends on children's rights using big data, we sought to understand social awareness of children's rights and suggest future research directions and implications related to children's rights. Methods We collected 25 years of data from January 2000 to December 2024 using children's rights as a keyword. To collect data, a data collection and purification process was performed using the Textome program, and text mining analysis, network analysis, and topic modeling (LDA) analysis were performed. Results First, looking at the text mining analysis results using big data, the word pairs that commonly exist in the word co-occurrence frequency analysis results are \u2018Children's rights-respect\u2019, \u2018Children's rights-awareness\u2019, \u2018Children's rights-UN\u2019, \u2018It appeared as \u2018Children\u2019s Rights-Convention\u2019. In addition, the word frequency (TF) and inverse document frequency (IDF) analysis results showed the following order: \u2018teacher\u2019, \u2018childcare\u2019, \u2018awareness\u2019, \u2018rights\u2019, \u2018education\u2019, and \u2018respect\u2019.Lastly, in the time series analysis, the word that appeared most highly by year was \u2018children\u2019s rights,\u2019 and the word that appeared the least was \u2018welfare.\u2019 Second, looking at the results of network analysis using big data, 50 key words were extracted from the ego network results. As a result of CONCOR and clustering analysis, four clusters were formed. Third, looking at the topic modeling analysis results, a total of 10 topics were named for each topic. Conclusions Most of the research from the beginning of children's rights research in the 1990s to the present, which is not included in the data of this study, has emphasized only education and the role of teachers. The world of a child is made up of many different ecological systems, including primary caregivers, relatives, teachers, society, law, and the state. All of these members must cooperate to promote children's rights, but current research trends are limited to specific topics and limited research is being conducted.Therefore, it suggests that in order to truly promote children's rights, all systems should work together in a complex manner to promote children's rights, without being limited to specific topics. Through this study, it is hoped that research topics that have received relatively little attention so far in the field of children's rights research will be made visible, and that it will be used as basic data to expand the research scope of subsequent researchers and promote convergence research.",
+    "authors": [
+      {
+        "name": "Su Jin Yeom",
+        "orcid": null,
+        "affiliation": null,
+        "country": null,
+        "is_first": true,
+        "is_corresponding": false
+      },
+      {
+        "name": "Ji Won Hwang",
+        "orcid": null,
+        "affiliation": null,
+        "country": null,
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "Hee Yeong Lee",
+        "orcid": null,
+        "affiliation": null,
+        "country": null,
+        "is_first": false,
+        "is_corresponding": false
+      }
+    ],
+    "year": 2025,
+    "venue": "Korean Association For Learner-Centered Curriculum And Instruction",
+    "issn": "1598-2106",
+    "issns": [
+      "1598-2106",
+      "2671-776X"
+    ],
+    "type": "article",
+    "citation_count": 0,
+    "referenced_works_count": 0,
+    "fwci": 0.0,
+    "cited_by_percentile_year": null,
+    "topics": [
+      {
+        "id": "T11506",
+        "name": "Children's Rights and Participation",
+        "score": 0.961899995803833
+      },
+      {
+        "id": "T13910",
+        "name": "Computational and Text Analysis Methods",
+        "score": 0.010200000368058681
+      },
+      {
+        "id": "T13751",
+        "name": "Diverse Approaches in Healthcare and Education Studies",
+        "score": 0.007499999832361937
+      }
+    ],
+    "keywords": [
+      "children's rights",
+      "research trends",
+      "children's rights awareness",
+      "children's rights education",
+      "children's rights advocacy",
+      "research gaps"
+    ],
+    "sdgs": [],
+    "is_oa": false,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.22251/jlcci.2025.25.6.757",
+    "openalex_url": "https://openalex.org/W4409251698",
+    "pdf_url": null,
+    "pmc_url": null,
+    "oa_locations": [],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.5281/zenodo.7602110",
+    "arxiv_id": null,
+    "openalex_id": "W4393820873",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "Exploring Korean adolescent stress on social media: A semantic network analysis",
+    "abstract": "Korean Adolescent's Stress Semantic Network Analysis Project Semantic Network Analysis for Korean Adolescent's Stress Input data file data_news.csv : News data collected from Naver(https://www.naver.com) data_blog.csv : Blog data collected from Naver(https://www.naver.com) and Daum(https://www.daum.net) Output files Frequency Table of Each word in Documents (freq_news.csv, freq_blog.csv) TF-IDF(Term Frequency-Inverse Document Frequency) Table of Each word in Documents (tfidf_news.csv, tf_idf_blog.csv) Frequency Table of 30 keywords in Documents (freq_news_30.csv, freq_blog_30.csv) DTM(Document Term Matrix) of 30 keywords in Documents (DTM_news_30.csv, DTM_blog_30.csv) COM(Co-Occurrence Matrix) of 30 keywords in Documents (COM_news_30.csv, COM_blog_30.csv) Binary COM of 30 keywords in Documents (BinaryCOM_news_30.csv, BinaryCOM_blog_30.csv) Centrality Table of 30 keywords in Documents (centrality_news_30.csv, centrality_blog_30.csv)",
+    "authors": [
+      {
+        "name": "Yunhee Shin",
+        "orcid": "https://orcid.org/0000-0003-3286-1633",
+        "affiliation": "Yonsei University",
+        "country": "KR",
+        "is_first": true,
+        "is_corresponding": false
+      },
+      {
+        "name": "SangKyun Yun",
+        "orcid": null,
+        "affiliation": "Yonsei University",
+        "country": "KR",
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "JongHwi Song",
+        "orcid": "https://orcid.org/0009-0005-6388-2172",
+        "affiliation": "Yonsei University",
+        "country": "KR",
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "Junryul Yang",
+        "orcid": null,
+        "affiliation": "Yonsei University",
+        "country": "KR",
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "Sooyeun Yoo",
+        "orcid": null,
+        "affiliation": "Yonsei University",
+        "country": "KR",
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "Kyungin Cheon",
+        "orcid": "https://orcid.org/0000-0003-2843-0048",
+        "affiliation": "Yonsei University",
+        "country": "KR",
+        "is_first": false,
+        "is_corresponding": false
+      }
+    ],
+    "year": 2023,
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "issn": null,
+    "issns": [],
+    "type": "dataset",
+    "citation_count": 0,
+    "referenced_works_count": 0,
+    "fwci": null,
+    "cited_by_percentile_year": null,
+    "topics": [
+      {
+        "id": "T12488",
+        "name": "Mental Health via Writing",
+        "score": 0.5034000277519226
+      },
+      {
+        "id": "T10355",
+        "name": "Impact of Technology on Adolescents",
+        "score": 0.3433000147342682
+      },
+      {
+        "id": "T14085",
+        "name": "Student Stress and Coping",
+        "score": 0.1088000014424324
+      }
+    ],
+    "keywords": [
+      "adolescent stress",
+      "social media",
+      "Korean adolescents",
+      "online news",
+      "blogs",
+      "keyword co-occurrence",
+      "semantic networks",
+      "centrality analysis",
+      "mental health"
+    ],
+    "sdgs": [],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.5281/zenodo.7602110",
+    "openalex_url": "https://openalex.org/W4393820873",
+    "pdf_url": "https://zenodo.org/record/7602111",
+    "pmc_url": null,
+    "oa_locations": [
+      "https://zenodo.org/record/7602111",
+      "https://doi.org/10.5281/zenodo.7602110",
+      "https://doi.org/10.5281/zenodo.7602111"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.54254/2753-7064/10/20231317",
+    "arxiv_id": null,
+    "openalex_id": "W4388022829",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "The Effectiveness of Ideological Communication in Mainstream Films Based on Semantic Networks --Taking the Chinese and American Movie Reviews of Top Gun: Maverick as an Example",
+    "abstract": "The co-occurrence networks are used as a tool for examining and interpreting discourse analysis to reveal the attitudes and perceptions implicit in film reviews. Based on the self-constructed corpus of online movie reviews in China and the United States, this research generates co-occurrence word-sense networks and summarizes three frameworks: sequel narrative, heroic narrative, and military narrative, and further reveals and explains the ideologies and linguistic features revealed in the different discourse frames. At the macro level, the Chinese and American audiences evaluation of the film shows different results of medium and medium-high. At the micro level, corresponding to the three frames, Chinese and American audiences construct images of commercial sentiment films and dramatic action films, national propaganda films and Hollywood hero films, U.S. Air Force propaganda films and U.S. Army recruitment advertising films; under the hero narrative frame, individual heroism and collectivism are realized side by side in the audiences discourse; under the military narrative frame, the political identity of transnational narratives is not realized in Chinese audiences.",
+    "authors": [
+      {
+        "name": "Zhinan Xu",
+        "orcid": null,
+        "affiliation": "Beijing Technology and Business University",
+        "country": "CN",
+        "is_first": true,
+        "is_corresponding": true
+      }
+    ],
+    "year": 2023,
+    "venue": "Communications in Humanities Research",
+    "issn": "2753-7064",
+    "issns": [
+      "2753-7064",
+      "2753-7072"
+    ],
+    "type": "article",
+    "citation_count": 0,
+    "referenced_works_count": 18,
+    "fwci": 0.0,
+    "cited_by_percentile_year": null,
+    "topics": [
+      {
+        "id": "T13814",
+        "name": "Cultural and political discourse analysis",
+        "score": 0.6675000190734863
+      },
+      {
+        "id": "T10366",
+        "name": "Discourse Analysis in Language Studies",
+        "score": 0.13940000534057617
+      },
+      {
+        "id": "T10758",
+        "name": "Cinema and Media Studies",
+        "score": 0.06260000169277191
+      }
+    ],
+    "keywords": [
+      "Top Gun: Maverick",
+      "ideological communication",
+      "co-occurrence networks",
+      "audience reception",
+      "hero narrative",
+      "military narratives",
+      "state propaganda",
+      "transnational narratives",
+      "political identity",
+      "collectivism"
+    ],
+    "sdgs": [],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.54254/2753-7064/10/20231317",
+    "openalex_url": "https://openalex.org/W4388022829",
+    "pdf_url": "https://www.ewadirect.com/proceedings/chr/article/view/4988/pdf",
+    "pmc_url": null,
+    "oa_locations": [
+      "https://www.ewadirect.com/proceedings/chr/article/view/4988/pdf"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.1093/ijl/10.4.275",
+    "arxiv_id": null,
+    "openalex_id": "W2320519140",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "Using a bilingual dictionary to create semantic networks",
+    "abstract": "This paper deals with the construction of a large bilingual lexical-semantic database from the machine-readable version of an English-French dictionary, the Collins-Robert dictionary (Atkins & Duval 1978). It is argued that this dictionary is a treasure trove of general-language collocational knowledge which can be exploited once the dictionary is organized in database format. The paper describes the functionalities offered by the flexible retrieval program and focuses on the in-depth analysis of the metalinguistic apparatus of the dictionary which has made it possible to create a database of some 70,000 pairs of lexical items connected to one another by means of lexical functions \u00e0 la Mel'\u010duk. The enrichment of the database opens up new perspectives in the field of computational lexicography since the semantic networks contained in the collocational database can be used to enhance corpus-based collocation extraction. It is shown that the multiple access paths provided by the retrieval interface enable linguists, lexicographers or translators to access combinatory (co-occurrence) and paradigmatic knowledge via sophisticated, semantically-motivated queries.",
+    "authors": [
+      {
+        "name": "T. Fontenelle",
+        "orcid": null,
+        "affiliation": "European Commission",
+        "country": "BE",
+        "is_first": true,
+        "is_corresponding": true
+      }
+    ],
+    "year": 1997,
+    "venue": "International Journal of Lexicography",
+    "issn": "0950-3846",
+    "issns": [
+      "0950-3846",
+      "1477-4577"
+    ],
+    "type": "article",
+    "citation_count": 34,
+    "referenced_works_count": 0,
+    "fwci": 3.6518,
+    "cited_by_percentile_year": 97,
+    "topics": [
+      {
+        "id": "T12353",
+        "name": "Lexicography and Language Studies",
+        "score": 0.9951000213623047
+      },
+      {
+        "id": "T10181",
+        "name": "Natural Language Processing Techniques",
+        "score": 0.002899999963119626
+      },
+      {
+        "id": "T12377",
+        "name": "Digital Humanities and Scholarship",
+        "score": 0.0006000000284984708
+      }
+    ],
+    "keywords": [
+      "bilingual dictionary",
+      "semantic networks",
+      "collocations",
+      "computational lexicography"
+    ],
+    "sdgs": [],
+    "is_oa": false,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.1093/ijl/10.4.275",
+    "openalex_url": "https://openalex.org/W2320519140",
+    "pdf_url": null,
+    "pmc_url": null,
+    "oa_locations": [],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.1371/journal.pone.0019348",
+    "arxiv_id": null,
+    "openalex_id": "W2096797351",
+    "ss_paper_id": null,
+    "pmid": "21589924",
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "Small Worlds and Semantic Network Growth in Typical and Late Talkers",
+    "abstract": "Network analysis has demonstrated that systems ranging from social networks to electric power grids often involve a small world structure-with local clustering but global ac cess. Critically, small world structure has also been shown to characterize adult human semantic networks. Moreover, the connectivity pattern of these mature networks is consistent with lexical growth processes in which children add new words to their vocabulary based on the structure of the language-learning environment. However, thus far, there is no direct evidence that a child's individual semantic network structure is associated with their early language learning. Here we show that, while typically developing children's early networks show small world structure as early as 15 months and with as few as 55 words, children with language delay (late talkers) have this structure to a smaller degree. This implicates a maladaptive bias in word acquisition for late talkers, potentially indicating a preference for \"oddball\" words. The findings provide the first evidence of a link between small-world connectivity and lexical development in individual children.",
+    "authors": [
+      {
+        "name": "Nicole Beckage",
+        "orcid": "https://orcid.org/0000-0002-1990-6430",
+        "affiliation": "University of California, Irvine",
+        "country": "US",
+        "is_first": true,
+        "is_corresponding": true
+      },
+      {
+        "name": "Linda B. Smith",
+        "orcid": "https://orcid.org/0000-0001-7163-8181",
+        "affiliation": "Indiana University Bloomington",
+        "country": "US",
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "Thomas T. Hills",
+        "orcid": "https://orcid.org/0000-0003-3842-2076",
+        "affiliation": "University of Basel",
+        "country": "CH",
+        "is_first": false,
+        "is_corresponding": false
+      }
+    ],
+    "year": 2011,
+    "venue": "PLoS ONE",
+    "issn": "1932-6203",
+    "issns": [
+      "1932-6203"
+    ],
+    "type": "article",
+    "citation_count": 256,
+    "referenced_works_count": 35,
+    "fwci": 15.4777,
+    "cited_by_percentile_year": 100,
+    "topics": [
+      {
+        "id": "T10730",
+        "name": "Language Development and Disorders",
+        "score": 0.9976000189781189
+      },
+      {
+        "id": "T10656",
+        "name": "Child and Animal Learning Development",
+        "score": 0.0005000000237487257
+      },
+      {
+        "id": "T10103",
+        "name": "Reading and Literacy Development",
+        "score": 0.0005000000237487257
+      }
+    ],
+    "keywords": [
+      "small-world networks",
+      "semantic networks",
+      "late talkers",
+      "language delay",
+      "vocabulary development",
+      "vocabulary acquisition",
+      "network connectivity",
+      "early childhood language learning",
+      "children"
+    ],
+    "sdgs": [],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.1371/journal.pone.0019348",
+    "openalex_url": "https://openalex.org/W2096797351",
+    "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0019348&type=printable",
+    "pmc_url": null,
+    "oa_locations": [
+      "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0019348&type=printable",
+      "https://www.ncbi.nlm.nih.gov/pmc/articles/3092758",
+      "https://doaj.org/article/ddadaf6db619485195f8951044134319",
+      "https://escholarship.org/uc/item/76h4q16n"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.1017/s1351324913000144",
+    "arxiv_id": null,
+    "openalex_id": "W2116747026",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "Similarity computation using semantic networks created from web-harvested data",
+    "abstract": "Abstract We investigate language-agnostic algorithms for the construction of unsupervised distributional semantic models using web-harvested corpora. Specifically, a corpus is created from web document snippets, and the relevant semantic similarity statistics are encoded in a semantic network. We propose the notion of semantic neighborhoods that are defined using co-occurrence or context similarity features. Three neighborhood-based similarity metrics are proposed, motivated by the hypotheses of attributional and maximum sense similarity. The proposed metrics are evaluated against human similarity ratings achieving state-of-the-art results.",
+    "authors": [
+      {
+        "name": "Elias Iosif",
+        "orcid": "https://orcid.org/0000-0002-4694-8556",
+        "affiliation": "Technical University of Crete",
+        "country": "GR",
+        "is_first": true,
+        "is_corresponding": false
+      },
+      {
+        "name": "Alexandros Potamianos",
+        "orcid": "https://orcid.org/0009-0007-1532-5288",
+        "affiliation": "Technical University of Crete",
+        "country": "GR",
+        "is_first": false,
+        "is_corresponding": false
+      }
+    ],
+    "year": 2013,
+    "venue": "Natural Language Engineering",
+    "issn": "1351-3249",
+    "issns": [
+      "1351-3249",
+      "1469-8110"
+    ],
+    "type": "article",
+    "citation_count": 32,
+    "referenced_works_count": 74,
+    "fwci": 5.1521,
+    "cited_by_percentile_year": 98,
+    "topics": [
+      {
+        "id": "T10028",
+        "name": "Topic Modeling",
+        "score": 0.9824000000953674
+      },
+      {
+        "id": "T10181",
+        "name": "Natural Language Processing Techniques",
+        "score": 0.01209999993443489
+      },
+      {
+        "id": "T10664",
+        "name": "Sentiment Analysis and Opinion Mining",
+        "score": 0.000699999975040555
+      }
+    ],
+    "keywords": [
+      "semantic similarity",
+      "semantic networks",
+      "distributional semantics",
+      "semantic neighborhood",
+      "co-occurrence features",
+      "contextual similarity"
+    ],
+    "sdgs": [],
+    "is_oa": false,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.1017/s1351324913000144",
+    "openalex_url": "https://openalex.org/W2116747026",
+    "pdf_url": null,
+    "pmc_url": null,
+    "oa_locations": [],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.36950/elies.2020..8542",
+    "arxiv_id": null,
+    "openalex_id": "W3083486880",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "Semantic frames and semantic networks in the Health Science Corpus",
+    "abstract": "The aim of this paper is to apply frame semantics principles to the analysis of a specialized corpus, the Health Science Corpus, implemented in the lexical database SciE-Lex. Taking FrameNet as the basis for this research, I will assign frame semantic features to Scie-Lex data in order to highlight the shared semantic and syntactic background of the related words in the biomedical register, give motivation to their patterns of collocates and establish frame-based semantic networks of related lexical units.",
+    "authors": [
+      {
+        "name": "Isabel Verdaguer",
+        "orcid": "https://orcid.org/0000-0002-7093-1527",
+        "affiliation": "Universitat de Barcelona",
+        "country": "ES",
+        "is_first": true,
+        "is_corresponding": true
+      }
+    ],
+    "year": 2020,
+    "venue": "Estudios de Ling\u00fc\u00edstica del Espa\u00f1ol",
+    "issn": "1139-8736",
+    "issns": [
+      "1139-8736"
+    ],
+    "type": "article",
+    "citation_count": 3,
+    "referenced_works_count": 52,
+    "fwci": 3.5428,
+    "cited_by_percentile_year": 95,
+    "topics": [
+      {
+        "id": "T12881",
+        "name": "linguistics and terminology studies",
+        "score": 0.9648000001907349
+      },
+      {
+        "id": "T10181",
+        "name": "Natural Language Processing Techniques",
+        "score": 0.006099999882280827
+      },
+      {
+        "id": "T10034",
+        "name": "Syntax, Semantics, Linguistic Variation",
+        "score": 0.006000000052154064
+      }
+    ],
+    "keywords": [
+      "frame semantics",
+      "semantic networks",
+      "FrameNet",
+      "collocations",
+      "lexical databases",
+      "Spanish language"
+    ],
+    "sdgs": [],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.36950/elies.2020..8542",
+    "openalex_url": "https://openalex.org/W3083486880",
+    "pdf_url": "https://bop.unibe.ch/index.php/elies/article/download/8542/11503",
+    "pmc_url": null,
+    "oa_locations": [
+      "https://bop.unibe.ch/index.php/elies/article/download/8542/11503",
+      "https://ddd.uab.cat/record/224341",
+      "http://ddd.uab.cat/record/224341"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "openalex_id": "W1525391233",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "SemanticRank: Ranking Keywords and Sentences Using Semantic Graphs",
+    "abstract": "The selection of the most descriptive terms or passages from text is crucial for several tasks, such as feature extraction and summarization. In the majority of the cases, research works propose the ranking of all candidate keywords or sentences and then select the top-ranked items as features, or as a text summary respectively. Ranking is usually performed using statistical information from text (i.e., frequency of occurrence, inverse document frequency, co-occurrence information). In this paper we present SemanticRank, a graph-based ranking algorithm for keyword and sentence extraction from text. The algorithm constructs a semantic graph using implicit links, which are based on semantic relatedness between text nodes and consequently ranks nodes using different ranking algorithms. Comparative evaluation against related state of the art methods for keyword and sentence extraction shows that SemanticRank performs favorably in previously used data sets.",
+    "authors": [
+      {
+        "name": "George Tsatsaronis",
+        "orcid": "https://orcid.org/0000-0003-2116-2933",
+        "affiliation": "Norwegian University of Science and Technology",
+        "country": "NO",
+        "is_first": true,
+        "is_corresponding": false
+      },
+      {
+        "name": "Iraklis Varlamis",
+        "orcid": "https://orcid.org/0000-0002-0876-8167",
+        "affiliation": "Harokopio University of Athens",
+        "country": "GR",
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "Kjetil Norvrag",
+        "orcid": null,
+        "affiliation": "Norwegian University of Science and Technology",
+        "country": "NO",
+        "is_first": false,
+        "is_corresponding": false
+      }
+    ],
+    "year": 2010,
+    "venue": null,
+    "issn": null,
+    "issns": [],
+    "type": "conference-paper",
+    "citation_count": 60,
+    "referenced_works_count": 23,
+    "fwci": 2.852,
+    "cited_by_percentile_year": 99,
+    "topics": [
+      {
+        "id": "T13083",
+        "name": "Advanced Text Analysis Techniques",
+        "score": 0.9994999766349792
+      },
+      {
+        "id": "T10028",
+        "name": "Topic Modeling",
+        "score": 9.999999747378752e-05
+      },
+      {
+        "id": "T10286",
+        "name": "Information Retrieval and Search Behavior",
+        "score": 9.999999747378752e-05
+      }
+    ],
+    "keywords": [
+      "keyword extraction",
+      "sentence extraction",
+      "text summarization",
+      "graph-based ranking",
+      "semantic networks",
+      "semantic relatedness",
+      "feature extraction"
+    ],
+    "sdgs": [],
+    "is_oa": false,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": null,
+    "openalex_url": "https://openalex.org/W1525391233",
+    "pdf_url": null,
+    "pmc_url": null,
+    "oa_locations": [],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  }
+]
