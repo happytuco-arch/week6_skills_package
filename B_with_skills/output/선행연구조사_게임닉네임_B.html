@@ -391,17 +391,30 @@ class SlidePresentation {
         this.nudgeHint();
     }
 
-    /* 무대 전체를 한 덩어리로 축소한다 — 내용을 재배치하지 않는다 */
+    /* 무대 전체를 한 덩어리로 축소한다 — 내용을 재배치하지 않는다.
+       iframe 안에서는 첫 호출 때 높이가 0으로 읽히는 일이 있어서,
+       0이면 그리지 않고 크기가 잡힐 때까지 기다린다. */
     setupStageScale() {
         const scale = () => {
-            const factor = Math.min(window.innerWidth / 1920, window.innerHeight / 1080);
-            const x = (window.innerWidth - 1920 * factor) / 2;
-            const y = (window.innerHeight - 1080 * factor) / 2;
-            this.stage.style.transform =
-                `translate(${x}px, ${y}px) scale(${factor})`;
+            const w = window.innerWidth || document.documentElement.clientWidth;
+            const h = window.innerHeight || document.documentElement.clientHeight;
+            if (!w || !h) return false;          // 아직 크기를 모른다 — 다음 기회에
+            const factor = Math.min(w / 1920, h / 1080);
+            const x = (w - 1920 * factor) / 2;
+            const y = (h - 1080 * factor) / 2;
+            this.stage.style.transform = `translate(${x}px, ${y}px) scale(${factor})`;
+            return true;
         };
+
         scale();
         window.addEventListener('resize', scale);
+        window.addEventListener('load', scale);
+        // 크기가 잡히는 시점이 환경마다 달라 몇 번 더 두드린다
+        requestAnimationFrame(scale);
+        [60, 240, 800].forEach((ms) => setTimeout(scale, ms));
+        if (window.ResizeObserver) {
+            new ResizeObserver(scale).observe(document.documentElement);
+        }
     }
 
     setupKeyboardNav() {
