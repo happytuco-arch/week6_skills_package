@@ -20,7 +20,7 @@ from pptx.enum.shapes import MSO_SHAPE
 from pptx.enum.text import MSO_ANCHOR, PP_ALIGN
 from pptx.util import Cm, Pt
 
-OUT = Path(__file__).parent / "output" / "선행연구조사_게임닉네임_B.pptx"
+OUT = Path(__file__).parent / "선행연구조사_게임닉네임_B.pptx"
 
 # ── 고정 토큰 (hallmark: 렌더 중 즉흥 금지 — 모든 색·글씨는 여기서만) ──────
 SERIF = "바탕"          # 표제용

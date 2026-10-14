@@ -37,10 +37,10 @@
 | OpenSource Skill 5개 이상 | [`B_with_skills/skills/`](B_with_skills/skills/) — 5개 저장소, 8개 스킬 폴더 |
 | **A** — 코드 | [`A_without_skills/make_ppt.py`](A_without_skills/make_ppt.py) |
 | **A** — 프롬프트 (.md) | [`A_without_skills/prompt.md`](A_without_skills/prompt.md) |
-| **A** — 결과물 | [`A_without_skills/output/`](A_without_skills/output/) — pptx 9장 |
+| **A** — 결과물 | [`선행연구조사_게임닉네임.pptx`](A_without_skills/선행연구조사_게임닉네임.pptx) — 9장 |
 | **B** — 스킬 묶음 | [`B_with_skills/skills/`](B_with_skills/skills/) + [`ATTRIBUTION.md`](B_with_skills/skills/ATTRIBUTION.md) |
 | **B** — Scripts | [`B_with_skills/scripts/install_skills.sh`](B_with_skills/scripts/install_skills.sh), [`B_with_skills/make_ppt.py`](B_with_skills/make_ppt.py) |
-| **B** — 결과물 | [`B_with_skills/output/`](B_with_skills/output/) — pptx 9장 + HTML |
+| **B** — 결과물 | [`선행연구조사_게임닉네임_B.pptx`](B_with_skills/선행연구조사_게임닉네임_B.pptx) — 9장 · [HTML 판](B_with_skills/선행연구조사_게임닉네임_B.html) |
 | A/B 비교 | [`COMPARISON.md`](COMPARISON.md) |
 
 ---
@@ -70,10 +70,12 @@ week6_skills_package/
 ├── A_without_skills/             ← A: 코드 · 프롬프트 · 결과물
 │   ├── prompt.md                 조건 + 실제 입력한 프롬프트 + 겪은 문제
 │   ├── make_ppt.py               생성 코드
-│   └── output/선행연구조사_게임닉네임.pptx
+│   └── 선행연구조사_게임닉네임.pptx        ← 결과물 (9장)
 └── B_with_skills/                ← B: 스킬 묶음 · Scripts · 결과물
     ├── prompt.md                 같은 프롬프트 + 스킬별로 실제 한 일
     ├── make_ppt.py               생성 코드
+    ├── 선행연구조사_게임닉네임_B.pptx      ← 결과물 (9장)
+    ├── 선행연구조사_게임닉네임_B.html      ← 같은 내용의 HTML 판
     ├── scripts/
     │   └── install_skills.sh     원본 저장소에서 스킬 5종 다시 받기
     ├── skills/                   ← 스킬 묶음 (11MB)
@@ -83,8 +85,6 @@ week6_skills_package/
     │   ├── paper-search-pro/
     │   ├── citation-management/
     │   └── frontend-slides/
-    ├── output/선행연구조사_게임닉네임_B.pptx
-    ├── output/선행연구조사_게임닉네임_B.html
     └── paper-search-results/     검색 원자료 (질의·응답·중복 제거 결과)
 ```
 
@@ -129,7 +129,7 @@ python3 A_without_skills/make_ppt.py
 python3 B_with_skills/make_ppt.py
 ```
 
-HTML 판은 `B_with_skills/output/`의 `.html` 파일을 브라우저로 열면 된다. 의존성이 없다.
+HTML 판은 `B_with_skills/`의 `.html` 파일을 브라우저로 열면 된다. 의존성이 없다.
 ← → 또는 Space로 넘기고, F로 전체화면, 숫자 키로 해당 장 이동.
 
 ---

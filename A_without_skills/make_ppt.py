@@ -10,7 +10,7 @@ from pptx.dml.color import RGBColor
 from pptx.enum.text import PP_ALIGN
 from pptx.util import Cm, Pt
 
-OUT = Path(__file__).parent / "output" / "선행연구조사_게임닉네임.pptx"
+OUT = Path(__file__).parent / "선행연구조사_게임닉네임.pptx"
 
 FONT = "맑은 고딕"
 NAVY = RGBColor(0x1F, 0x3B, 0x73)
